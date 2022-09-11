@@ -17,7 +17,7 @@
       }
     ],
     "url": "https://github.com/Buffty/wfrp4e-core-es",
-    "manifest": "https://gitlab.com/fvtt-zh_TW/wfrp4e_zh-tw/-/raw/1.2.0/module.json",
-    "download": "https://gitlab.com/fvtt-zh_TW/wfrp4e_zh-tw/-/archive/1.2.0/wfrp4e_zh-tw-1.2.0.zip"
+    "manifest": "https://raw.githubusercontent.com/Buffty/wfrp4e-core-es/master/module.json",
+    "download": "https://github.com/Buffty/wfrp4e-core-es/archive/refs/heads/master.zip"
   }
   
