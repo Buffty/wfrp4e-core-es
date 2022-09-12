@@ -1,20 +1,23 @@
 {
-  "id": "wfrp4e_es",
+  "id": "wfrp4e-core-es",
   "title": "WFRP4e Traducción Español",
   "description": "Un simple módulo creado para la traducción del WFRP4e al español",
-  "authors": [
-    { "name": "Buffty" }
-  ],
+  "authors": [{ "name": "Buffty" }],
   "version": "1.0.0",
   "compatibility": {
     "minimum": "9",
     "verified": "10"
-   },
-  "languages": [
-    {
-      "lang": "es",
-      "name": "Español",
-      "path": "./lang/es.json"
-    }
-  ]
+  },
+  "esmodules": ["babele-register.js"],
+  "languages": [{ "lang": "es", "name": "Español", "path": "lang/es.json" }],
+  "relationships": {
+    "systems": [
+      { "id": "wfrp4e", "type": "system" }
+    ],
+    "requires":[
+      { "id": "wfrp4e", "type": "system" },
+      { "id": "babele", "type": "module" }
+    ]
+  },
+  "url": "https://github.com/Buffty/wfrp4e-core-es"
 }
