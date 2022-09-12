@@ -1,0 +1,319 @@
+{
+	"label": "Mutaciones",
+	"mapping": {
+    "modifier": {
+        "path": "data.modifier.value",
+        "converter": "mutations_modifier"
+    },
+    "mutationType": {
+        "path": "data.mutationType.value",
+        "converter": "generic_localization"
+    },
+    "effects": {
+      "path": "effects",
+      "converter": "effects"
+   }
+  },
+  "entries": [
+        {
+            "description": "+1 Movimiento",
+            "effects": {
+                "label0": "Bonus de Movimiento"
+            },
+            "id": "Animalistic Legs",
+            "name": "Miembros de animales"
+        },
+        {
+            "description": "-5 Sociabilité; -5 Force Mentale",
+            "effects": {
+                "label0": "Atroces Désirs"
+            },
+            "id": "Awful Cravings",
+            "name": "Atroces Désirs"
+        },
+        {
+            "description": "+10 Force Mentale; -5 Sociabilité; -5 Intelligence",
+            "id": "Beast Within'",
+            "name": "Bête intérieure"
+        },
+        {
+            "description": "Gagnez l'état Extenué pendant les 2 premières heures de chaque journée",
+            "effects": {
+                "label0": "Extenué"
+            },
+            "id": "Chaotic Dreams",
+            "name": "Rêves chaotiques"
+        },
+        {
+            "description": "-1 Mouvement; +5 Force; +5 Endurance",
+            "effects": {
+                "label0": "Corpulent"
+            },
+            "id": "Corpulent",
+            "name": "Corpulent"
+        },
+        {
+            "description": "",
+            "effects": {
+                "label0": "Formication"
+            },
+            "id": "Crawling Skin",
+            "name": "Formication"
+        },
+        {
+            "description": "",
+            "effects": {
+                "label0": "Doigts distendus"
+            },
+            "id": "Distended Digits",
+            "name": "Doigts distendus"
+        },
+        {
+            "description": "",
+            "effects": {
+                "label0": "Emacié"
+            },
+            "id": "Emaciated",
+            "name": "Emacié"
+        },
+        {
+            "description": "",
+            "effects": {
+                "label0": "Oeil énorme"
+            },
+            "id": "Enormous Eye",
+            "name": "Oeil énorme"
+        },
+        {
+            "description": "",
+            "effects": {
+                "label0": "Imprévisible fantaisiste"
+            },
+            "id": "Erratic Fantasist",
+            "name": "Imprévisible fantaisiste"
+        },
+        {
+            "description": "",
+            "effects": {
+                "label0": "Articulation supp. aux Jambes"
+            },
+            "id": "Extra Leg Joints",
+            "name": "Articulation supp. aux Jambes"
+        },
+        {
+            "description": "Faites un jet sur table de Localisation pour savoir ou cette bouche apparaît.",
+            "effects": {},
+            "id": "Extra Mouth",
+            "name": "Bouche supplémentaire"
+        },
+        {
+            "description": "",
+            "effects": {
+                "label0": "Terrible inquiétude"
+            },
+            "id": "Fearful Concern",
+            "name": "Terrible inquiétude"
+        },
+        {
+            "description": "Gagnez le Trait de Créature Tentacules.",
+            "effects": {
+                "label0": "Tentacule épaisse"
+            },
+            "id": "Fleshy Tentacle",
+            "name": "Tentacule épaisse"
+        },
+        {
+            "description": "Eclaire comme une bougie.",
+            "effects": {},
+            "id": "Glowing Skin",
+            "name": "Peau luisante"
+        },
+        {
+            "description": "Vous êtes sujet à l'Animosité pour tout les créatures qui ne sont pas de votre Race.",
+            "effects": {
+                "label0": "Pulsions de Haine"
+            },
+            "id": "Hateful Impulses",
+            "name": "Pulsions de Haine"
+        },
+        {
+            "description": "",
+            "effects": {
+                "label0": "Coeur desseché"
+            },
+            "id": "Hollow Heart",
+            "name": "Coeur desseché"
+        },
+        {
+            "description": "",
+            "effects": {
+                "label0": "Beauté surnaturelle"
+            },
+            "id": "Inhuman Beauty",
+            "name": "Beauté surnaturelle"
+        },
+        {
+            "description": "",
+            "effects": {
+                "label0": "Visage inversé"
+            },
+            "id": "Inverted Face",
+            "name": "Visage inversé"
+        },
+        {
+            "description": "",
+            "effects": {
+                "label0": "Peau d'acier"
+            },
+            "id": "Iron Skin",
+            "name": "Peau d'acier"
+        },
+        {
+            "description": "",
+            "effects": {
+                "label0": "Pensées envieuses"
+            },
+            "id": "Jealous Thoughts",
+            "name": "Pensées envieuses"
+        },
+        {
+            "description": "",
+            "effects": {
+                "label0": "Langue pendante"
+            },
+            "id": "Lolling Tongue",
+            "name": "Langue pendante"
+        },
+        {
+            "description": "",
+            "effects": {
+                "label0": "Esprit solitaire"
+            },
+            "id": "Lonely Spirit",
+            "name": "Esprit solitaire"
+        },
+        {
+            "description": "",
+            "effects": {
+                "label0": "Blocage mental"
+            },
+            "id": "Mental Blocks",
+            "name": "Blocage mental"
+        },
+        {
+            "description": "Lancez deux fois sur la table de Localisation pour savoir où elles apparaissent.",
+            "effects": {},
+            "id": "Patchy Feathers",
+            "name": "Plumes éparses"
+        },
+        {
+            "description": "",
+            "effects": {},
+            "id": "Profane Urgency",
+            "name": "Urgence profanatoire"
+        },
+        {
+            "description": "",
+            "effects": {
+                "label0": "Morale douteuse"
+            },
+            "id": "Shaky Morale",
+            "name": "Morale douteuse"
+        },
+        {
+            "description": "",
+            "effects": {
+                "label0": "Court sur pattes"
+            },
+            "id": "Short Legs",
+            "name": "Court sur pattes"
+        },
+        {
+            "description": "",
+            "effects": {
+                "label0": "Esprit suspicieux"
+            },
+            "id": "Suspicious Mind",
+            "name": "Esprit suspicieux"
+        },
+        {
+            "description": "",
+            "effects": {
+                "label0": "Ecailles épineuses"
+            },
+            "id": "Thorny Scales",
+            "name": "Ecailles épineuses"
+        },
+        {
+            "description": "",
+            "effects": {
+                "label0": "Accro à l'adrénaline"
+            },
+            "id": "Thrill Hunter",
+            "name": "Accro à l'adrénaline"
+        },
+        {
+            "description": "",
+            "effects": {
+                "label0": "Visions Torturées"
+            },
+            "id": "Tortured Visions",
+            "name": "Visions Torturées"
+        },
+        {
+            "description": "",
+            "effects": {
+                "label0": "Totalement déséquilibré"
+            },
+            "id": "Totally Unhinged",
+            "name": "Totalement déséquilibré"
+        },
+        {
+            "description": "",
+            "effects": {
+                "label0": "Infinie malveillance"
+            },
+            "id": "Unending Malice",
+            "name": "Infinie malveillance"
+        },
+        {
+            "description": "Compte comme une Arme de Créature dont le nombre de Dégâts est égale à votre Bonus de Force (cf. page 338)",
+            "effects": {
+                "label0": "Cornes asymétriques"
+            },
+            "id": "Uneven Horns",
+            "name": "Cornes asymétriques"
+        },
+        {
+            "description": "",
+            "effects": {
+                "label0": "Colère Impie",
+                "label1": "Frénésie"
+            },
+            "id": "Unholy Rage",
+            "name": "Colère Impie"
+        },
+        {
+            "description": "Faites un jet sur table de Localisation pour savoir ou ce suintement apparaît.",
+            "effects": {},
+            "id": "Weeping Pus",
+            "name": "Suintement de Pus"
+        },
+        {
+            "description": "",
+            "effects": {
+                "label0": "Groin Poilu"
+            },
+            "id": "Whiskered Snout",
+            "name": "Groin Poilu"
+        },
+        {
+            "description": "",
+            "effects": {
+                "label0": "Affreusement nerveux"
+            },
+            "id": "Worried Jitters",
+            "name": "Affreusement nerveux"
+        }
+    ]
+  }
