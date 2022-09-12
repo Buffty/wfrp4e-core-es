@@ -1,23 +1,20 @@
 {
-    "name": "wfrp4e_es",
-    "title": "WFRP4e Traducción Español",
-    "description": "Traducción oficial al español",
-    "version": "0.0.1",
-    "minimumCoreVersion": "0.8.7",
-    "compatibleCoreVersion": "0.8.9",
-    "author": "Buffty",
-    "scripts": [],
-    "styles": [],
-    "packs": [],
-    "languages": [
-      {
-        "lang": "es-ES",
-        "name": "Español",
-        "path": "./lang/es.json"
-      }
-    ],
-    "url": "https://github.com/Buffty/wfrp4e-core-es",
-    "manifest": "https://raw.githubusercontent.com/Buffty/wfrp4e-core-es/master/module.json",
-    "download": "https://github.com/Buffty/wfrp4e-core-es/archive/refs/heads/master.zip"
-  }
-  
+  "id": "wfrp4e_es",
+  "title": "WFRP4e Traducción Español",
+  "description": "Un simple módulo creado para la traducción del WFRP4e al español",
+  "authors": [
+    { "name": "Buffty" }
+  ],
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "9",
+    "verified": "10"
+   },
+  "languages": [
+    {
+      "lang": "es",
+      "name": "Español",
+      "path": "./lang/es.json"
+    }
+  ]
+}
