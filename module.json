@@ -6,7 +6,7 @@
   "version": "1.0.0",
   "compatibility": {
     "minimum": "9",
-    "verified": "10"
+    "verified": "10.285"
   },
   "esmodules": ["babele-register.js"],
   "languages": [{ "lang": "es", "name": "Español", "path": "lang/es.json" }],
