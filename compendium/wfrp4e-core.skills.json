@@ -423,52 +423,52 @@
 		},
 		{
 			"id": "Melee",
-			"name": "Cuerpo a cuerpo",
+			"name": "CaC",
 			"description": "<p>La habilidad de combate cuerpo a cuerpo representa el entrenamiento específico que has recibido con un solo tipo de arma de combate cuerpo a cuerpo. Cada especialización de combate cuerpo a cuerpo indica el entrenamiento en una clase de arma específica. Si no tiene la especialización adecuada para un arma que desea utilizar, consulte la sección <span style=\"font-weight: bold;\">Capítulo 11: Guía de equipamiento </span>para ver las estadísticas del arma y las penalizaciones que sufrirás. Ver <span style=\"font-weight: bold;\">Capítulo 5: Reglas </span>para más información sobre el combate y el uso de la habilidad de combate cuerpo a cuerpo.</p>\n<p>&nbsp;</p>\n<p><span style=\"font-weight: bold;\">Spécialisations : </span>Arme d'hast, Arme à deux mains, Bagarre, Base, Cavalerie, Escrime, Fléau, Parade.&nbsp;</p>"
 		},
 		{
 			"id": "Melee ()",
-			"name": "Cuerpo a cuerpo ()",
+			"name": "CaC ()",
 			"description": "<p>La habilidad de combate cuerpo a cuerpo representa el entrenamiento específico que has recibido con un solo tipo de arma de combate cuerpo a cuerpo. Cada especialización de combate cuerpo a cuerpo indica el entrenamiento en una clase de arma específica. Si no tiene la especialización adecuada para un arma que desea utilizar, consulte la sección <span style=\"font-weight: bold;\">Capítulo 11: Guía de equipamiento </span>para ver las estadísticas del arma y las penalizaciones que sufrirás. Ver <span style=\"font-weight: bold;\">Capítulo 5: Reglas </span>para más información sobre el combate y el uso de la habilidad de combate cuerpo a cuerpo.</p>\n<p>&nbsp;</p>\n<p><span style=\"font-weight: bold;\">Spécialisations : </span>Arme d'hast, Arme à deux mains, Bagarre, Base, Cavalerie, Escrime, Fléau, Parade.&nbsp;</p>"
 		},
 		{
 			"id": "Melee (Basic)",
-			"name": "Cuerpo a cuerpo (Basic)",
+			"name": "CaC (Basic)",
 			"description": "<p>La habilidad de combate cuerpo a cuerpo representa el entrenamiento específico que has recibido con un solo tipo de arma de combate cuerpo a cuerpo. Cada especialización de combate cuerpo a cuerpo indica el entrenamiento en una clase de arma específica. Si no tiene la especialización adecuada para un arma que desea utilizar, consulte la sección<span style=\"font-weight: bold;\">Capítulo 11: Guía de equipamiento </span>para ver las estadísticas del arma y las penalizaciones que sufrirás. Ver <span style=\"font-weight: bold;\">Capítulo 5: Reglas </span>para más información sobre el combate y el uso de la habilidad de combate cuerpo a cuerpo.</p>"
 		},
 		{
 			"id": "Melee (Brawling)",
-			"name": "Cuerpo a cuerpo (Pelea)",
+			"name": "CaC (Pelea)",
 			"description": "<p>La habilidad de combate cuerpo a cuerpo representa el entrenamiento específico que has recibido con un solo tipo de arma de combate cuerpo a cuerpo. Cada especialización de combate cuerpo a cuerpo indica el entrenamiento en una clase de arma específica. Si no tiene la especialización adecuada para un arma que desea utilizar, consulte la sección<span style=\"font-weight: bold;\">Capítulo 11: Guía de equipamiento </span>para ver las estadísticas del arma y las penalizaciones que sufrirás. Ver <span style=\"font-weight: bold;\">Capítulo 5: Reglas </span>para más información sobre el combate y el uso de la habilidad de combate cuerpo a cuerpo.</p>"
 		},
 		{
 			"id": "Melee (Cavalry)",
-			"name": "Cuerpo a cuerpo (Caballería)",
+			"name": "CaC (Caballería)",
 			"description": "<p>La habilidad de combate cuerpo a cuerpo representa el entrenamiento específico que has recibido con un solo tipo de arma de combate cuerpo a cuerpo. Cada especialización de combate cuerpo a cuerpo indica el entrenamiento en una clase de arma específica. Si no tiene la especialización adecuada para un arma que desea utilizar, consulte la sección<span style=\"font-weight: bold;\">Capítulo 11: Guía de equipamiento </span>para ver las estadísticas del arma y las penalizaciones que sufrirás. Ver <span style=\"font-weight: bold;\">Capítulo 5: Reglas </span>para más información sobre el combate y el uso de la habilidad de combate cuerpo a cuerpo.</p>"
 		},
 		{
 			"id": "Melee (Fencing)",
-			"name": "Cuerpo a cuerpo (Esgrima)",
+			"name": "CaC (Esgrima)",
 			"description": "<p>La habilidad de combate cuerpo a cuerpo representa el entrenamiento específico que has recibido con un solo tipo de arma de combate cuerpo a cuerpo. Cada especialización de combate cuerpo a cuerpo indica el entrenamiento en una clase de arma específica. Si no tiene la especialización adecuada para un arma que desea utilizar, consulte la sección<span style=\"font-weight: bold;\">Capítulo 11: Guía de equipamiento </span>para ver las estadísticas del arma y las penalizaciones que sufrirás. Ver <span style=\"font-weight: bold;\">Capítulo 5: Reglas </span>para más información sobre el combate y el uso de la habilidad de combate cuerpo a cuerpo.</p>"
 		},
 		{
 			"id": "Melee (Flail)",
-			"name": "Cuerpo a cuerpo (Mayal)",
+			"name": "CaC (Mayal)",
 			"description": "<p>La habilidad de combate cuerpo a cuerpo representa el entrenamiento específico que has recibido con un solo tipo de arma de combate cuerpo a cuerpo. Cada especialización de combate cuerpo a cuerpo indica el entrenamiento en una clase de arma específica. Si no tiene la especialización adecuada para un arma que desea utilizar, consulte la sección<span style=\"font-weight: bold;\">Capítulo 11: Guía de equipamiento </span>para ver las estadísticas del arma y las penalizaciones que sufrirás. Ver <span style=\"font-weight: bold;\">Capítulo 5: Reglas </span>para más información sobre el combate y el uso de la habilidad de combate cuerpo a cuerpo.</p>"
 		},
 		{
 			"id": "Melee (Parry)",
-			"name": "Cuerpo a cuerpo (Parada)",
+			"name": "CaC (Parada)",
 			"description": "<p>La habilidad de combate cuerpo a cuerpo representa el entrenamiento específico que has recibido con un solo tipo de arma de combate cuerpo a cuerpo. Cada especialización de combate cuerpo a cuerpo indica el entrenamiento en una clase de arma específica. Si no tiene la especialización adecuada para un arma que desea utilizar, consulte la sección<span style=\"font-weight: bold;\">Capítulo 11: Guía de equipamiento </span>para ver las estadísticas del arma y las penalizaciones que sufrirás. Ver <span style=\"font-weight: bold;\">Capítulo 5: Reglas </span>para más información sobre el combate y el uso de la habilidad de combate cuerpo a cuerpo.</p>"
 		},
 		{
 			"id": "Melee (Polearm)",
-			"name": "Cuerpo a cuerpo (Armes de Asta)",
+			"name": "CaC (Armes de Asta)",
 			"description": "<p>La habilidad de combate cuerpo a cuerpo representa el entrenamiento específico que has recibido con un solo tipo de arma de combate cuerpo a cuerpo. Cada especialización de combate cuerpo a cuerpo indica el entrenamiento en una clase de arma específica. Si no tiene la especialización adecuada para un arma que desea utilizar, consulte la sección<span style=\"font-weight: bold;\">Capítulo 11: Guía de equipamiento </span>para ver las estadísticas del arma y las penalizaciones que sufrirás. Ver <span style=\"font-weight: bold;\">Capítulo 5: Reglas </span>para más información sobre el combate y el uso de la habilidad de combate cuerpo a cuerpo.</p>"
 		},
 		{
 			"id": "Melee (Two-Handed)",
-			"name": "Cuerpo a cuerpo (Dos manos)",
+			"name": "CaC (Dos manos)",
 			"description": "<p>La habilidad de combate cuerpo a cuerpo representa el entrenamiento específico que has recibido con un solo tipo de arma de combate cuerpo a cuerpo. Cada especialización de combate cuerpo a cuerpo indica el entrenamiento en una clase de arma específica. Si no tiene la especialización adecuada para un arma que desea utilizar, consulte la sección<span style=\"font-weight: bold;\">Capítulo 11: Guía de equipamiento </span>para ver las estadísticas del arma y las penalizaciones que sufrirás. Ver <span style=\"font-weight: bold;\">Capítulo 5: Reglas </span>para más información sobre el combate y el uso de la habilidad de combate cuerpo a cuerpo.</p>"
 		},
 		{

@@ -3,7 +3,7 @@
   "title": "WFRP4e Traducción Español",
   "description": "Un simple módulo creado para la traducción del WFRP4e al español",
   "authors": [{ "name": "Buffty" }],
-  "version": "1.0.0",
+  "version": "1.0.1",
   "compatibility": {
     "minimum": "9",
     "verified": "10.285"
