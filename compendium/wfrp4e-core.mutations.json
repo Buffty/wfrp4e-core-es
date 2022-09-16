@@ -21,263 +21,263 @@
                 "label0": "Bonus de Movimiento"
             },
             "id": "Animalistic Legs",
-            "name": "Miembros de animales"
+            "name": "Patas de animal"
         },
         {
-            "description": "-5 Sociabilité; -5 Force Mentale",
+            "description": "-5 a la Empatía, -5 a la Voluntad",
             "effects": {
-                "label0": "Atroces Désirs"
+                "label0": "Ansias horribles"
             },
             "id": "Awful Cravings",
-            "name": "Atroces Désirs"
+            "name": "Ansias horribles"
         },
         {
-            "description": "+10 Force Mentale; -5 Sociabilité; -5 Intelligence",
+            "description": "+10 a la Voluntad; -5 Empatía; -5 Inteligencia",
             "id": "Beast Within'",
-            "name": "Bête intérieure"
+            "name": "La Bestia Interior"
         },
         {
-            "description": "Gagnez l'état Extenué pendant les 2 premières heures de chaque journée",
+            "description": "Sufres el Estado Fatigado durante las primeras dos horas de cada día.",
             "effects": {
-                "label0": "Extenué"
+                "label0": "Fatigado"
             },
             "id": "Chaotic Dreams",
-            "name": "Rêves chaotiques"
+            "name": "Sueños caóticos"
         },
         {
-            "description": "-1 Mouvement; +5 Force; +5 Endurance",
+            "description": "-1 Movimiento, +5 a la Fuerza, +5 a la Resistencia",
             "effects": {
-                "label0": "Corpulent"
+                "label0": "Corpulento"
             },
             "id": "Corpulent",
-            "name": "Corpulent"
+            "name": "Corpulento"
         },
         {
-            "description": "",
+            "description": "-5 a la Iniciativa, -5 a la Destreza",
             "effects": {
-                "label0": "Formication"
+                "label0": "Piel reptante"
             },
             "id": "Crawling Skin",
-            "name": "Formication"
+            "name": "Piel reptante"
         },
         {
-            "description": "",
+            "description": "+10 Destreza",
             "effects": {
-                "label0": "Doigts distendus"
+                "label0": "Dedos distendidos"
             },
             "id": "Distended Digits",
-            "name": "Doigts distendus"
+            "name": "Dedos distendidos"
         },
         {
-            "description": "",
+            "description": "-10 a la Fuerza, +5 a la Agilidad",
             "effects": {
-                "label0": "Emacié"
+                "label0": "Demacrado"
             },
             "id": "Emaciated",
-            "name": "Emacié"
+            "name": "Demacrado"
         },
         {
-            "description": "",
+            "description": "+10 a los Chequeos de Percepción que implican la vista",
             "effects": {
-                "label0": "Oeil énorme"
+                "label0": "Ojo enorme"
             },
             "id": "Enormous Eye",
-            "name": "Oeil énorme"
+            "name": "Ojo enorme"
         },
         {
-            "description": "",
+            "description": "-5 a la Iniciativa, -5 a la Voluntad",
             "effects": {
-                "label0": "Imprévisible fantaisiste"
+                "label0": "Fantasista errático"
             },
             "id": "Erratic Fantasist",
-            "name": "Imprévisible fantaisiste"
+            "name": "Fantasista errático"
         },
         {
-            "description": "",
+            "description": "+5 a la Agilidad",
             "effects": {
-                "label0": "Articulation supp. aux Jambes"
+                "label0": "Articulaciones adicionales en las piernas"
             },
             "id": "Extra Leg Joints",
-            "name": "Articulation supp. aux Jambes"
+            "name": "Articulaciones adicionales en las piernas"
         },
         {
-            "description": "Faites un jet sur table de Localisation pour savoir ou cette bouche apparaît.",
+            "description": "Tira en la Tabla de Ubicaciones de impacto para ver dónde",
             "effects": {},
             "id": "Extra Mouth",
-            "name": "Bouche supplémentaire"
+            "name": "Boca adicional"
         },
         {
-            "description": "",
+            "description": "-10 a la Empatía",
             "effects": {
-                "label0": "Terrible inquiétude"
+                "label0": "Preocupación temerosa"
             },
             "id": "Fearful Concern",
-            "name": "Terrible inquiétude"
+            "name": "Preocupación temerosa"
         },
         {
-            "description": "Gagnez le Trait de Créature Tentacules.",
+            "description": "Sufres el Rasgo de criatura Tentáculos.",
             "effects": {
-                "label0": "Tentacule épaisse"
+                "label0": "Tentáculo carnoso"
             },
             "id": "Fleshy Tentacle",
-            "name": "Tentacule épaisse"
+            "name": "Tentáculo carnoso"
         },
         {
-            "description": "Eclaire comme une bougie.",
+            "description": "Iluminación equivalente a la de una vela.",
             "effects": {},
             "id": "Glowing Skin",
-            "name": "Peau luisante"
+            "name": "Piel brillante"
         },
         {
-            "description": "Vous êtes sujet à l'Animosité pour tout les créatures qui ne sont pas de votre Race.",
+            "description": "Sujeto a Animosidad (ver Psicología) a todos los que no son de tu especie.",
             "effects": {
-                "label0": "Pulsions de Haine"
+                "label0": "Impulsos odiosos"
             },
             "id": "Hateful Impulses",
-            "name": "Pulsions de Haine"
+            "name": "Impulsos odiosos"
         },
         {
-            "description": "",
+            "description": "-10 a la Voluntad, -10 a la Empatía.",
             "effects": {
-                "label0": "Coeur desseché"
+                "label0": "Corazón hueco"
             },
             "id": "Hollow Heart",
-            "name": "Coeur desseché"
+            "name": "Corazón hueco"
         },
         {
-            "description": "",
+            "description": "+10 a la Empatía, nunca te quedan cicatrices.",
             "effects": {
-                "label0": "Beauté surnaturelle"
+                "label0": "Belleza inhumana"
             },
             "id": "Inhuman Beauty",
-            "name": "Beauté surnaturelle"
+            "name": "Belleza inhumana"
         },
         {
-            "description": "",
+            "description": "-20 a todos los Chequeos de Empatía",
             "effects": {
-                "label0": "Visage inversé"
+                "label0": "Rostro Invertido"
             },
             "id": "Inverted Face",
-            "name": "Visage inversé"
+            "name": "Rostro Invertido"
         },
         {
-            "description": "",
+            "description": "+2 puntos de armadura en todas las ubicaciones, -10 a la Agilidad",
             "effects": {
-                "label0": "Peau d'acier"
+                "label0": "Piel de hierro"
             },
             "id": "Iron Skin",
-            "name": "Peau d'acier"
+            "name": "Piel de hierro"
         },
         {
-            "description": "",
+            "description": "-10 a la Empatía",
             "effects": {
-                "label0": "Pensées envieuses"
+                "label0": "Pensamientos celosos"
             },
             "id": "Jealous Thoughts",
-            "name": "Pensées envieuses"
+            "name": "Pensamientos celosos"
         },
         {
-            "description": "",
+            "description": "-10 a todos los Chequeos de Hablar idioma cuando hablas",
             "effects": {
-                "label0": "Langue pendante"
+                "label0": "Lengua protuberante"
             },
             "id": "Lolling Tongue",
-            "name": "Langue pendante"
+            "name": "Lengua protuberante"
         },
         {
-            "description": "",
+            "description": "-10 a cualquier Chequeo estando solo",
             "effects": {
-                "label0": "Esprit solitaire"
+                "label0": "Espíritu solitario"
             },
             "id": "Lonely Spirit",
-            "name": "Esprit solitaire"
+            "name": "Espíritu solitario"
         },
         {
-            "description": "",
+            "description": "-10 a la Inteligencia",
             "effects": {
-                "label0": "Blocage mental"
+                "label0": "Bloqueos mentales"
             },
             "id": "Mental Blocks",
-            "name": "Blocage mental"
+            "name": "Bloqueos mentales"
         },
         {
-            "description": "Lancez deux fois sur la table de Localisation pour savoir où elles apparaissent.",
+            "description": "Tira dos veces en la Talba de Ubicaciones de impacto para ver dónde.",
             "effects": {},
             "id": "Patchy Feathers",
-            "name": "Plumes éparses"
+            "name": "Plumaje ralo"
         },
         {
-            "description": "",
+            "description": "-10 a la Voluntad, +10 a la Agilidad",
             "effects": {},
             "id": "Profane Urgency",
-            "name": "Urgence profanatoire"
+            "name": "Urgencia profana"
         },
         {
-            "description": "",
+            "description": "Sufres 1 Estado de Quebrantado si fallas un Chqueo derivado de la Voluntad.",
             "effects": {
-                "label0": "Morale douteuse"
+                "label0": "Moral frágil"
             },
             "id": "Shaky Morale",
-            "name": "Morale douteuse"
+            "name": "Moral frágil"
         },
         {
-            "description": "",
+            "description": "-1 al Movimiento",
             "effects": {
-                "label0": "Court sur pattes"
+                "label0": "Piernas cortas"
             },
             "id": "Short Legs",
-            "name": "Court sur pattes"
+            "name": "Piernas cortas"
         },
         {
-            "description": "",
+            "description": "-5 a la Iniciativa, -5 a la Inteligencia",
             "effects": {
-                "label0": "Esprit suspicieux"
+                "label0": "Mente suspicaz"
             },
             "id": "Suspicious Mind",
-            "name": "Esprit suspicieux"
+            "name": "Mente suspicaz"
         },
         {
-            "description": "",
+            "description": "+1 punto de Armadura en todas las ubicaciones",
             "effects": {
-                "label0": "Ecailles épineuses"
+                "label0": "Escamas puntiagudas"
             },
             "id": "Thorny Scales",
-            "name": "Ecailles épineuses"
+            "name": "Escamas puntiagudas"
         },
         {
-            "description": "",
+            "description": "+10 a la Voluntad, -10 a la Iniciativa.",
             "effects": {
-                "label0": "Accro à l'adrénaline"
+                "label0": "Buscador de emociones"
             },
             "id": "Thrill Hunter",
-            "name": "Accro à l'adrénaline"
+            "name": "Buscador de emociones"
         },
         {
-            "description": "",
+            "description": "-10 a la Iniciativa.",
             "effects": {
-                "label0": "Visions Torturées"
+                "label0": "Visiones torturadas"
             },
             "id": "Tortured Visions",
-            "name": "Visions Torturées"
+            "name": "Visiones torturadas"
         },
         {
-            "description": "",
+            "description": "-20 a la Empatía, +10 a la Voluntad",
             "effects": {
-                "label0": "Totalement déséquilibré"
+                "label0": "Totalmente desequilibrado"
             },
             "id": "Totally Unhinged",
-            "name": "Totalement déséquilibré"
+            "name": "Totalmente desequilibrado"
         },
         {
-            "description": "",
+            "description": "-10 a cualquier Chequeo para no hacer daño a otro; +10 a los Chequeos para hacer daño",
             "effects": {
-                "label0": "Infinie malveillance"
+                "label0": "Malicia inacabable"
             },
             "id": "Unending Malice",
-            "name": "Infinie malveillance"
+            "name": "Malicia inacabable"
         },
         {
-            "description": "Compte comme une Arme de Créature dont le nombre de Dégâts est égale à votre Bonus de Force (cf. page 338)",
+            "description": "+1 punto de Armadura en la cabeza; cuenta como una Arma de criatura con un daño igual a tu BF(ver pág 338)",
             "effects": {
                 "label0": "Cornes asymétriques"
             },
@@ -285,35 +285,35 @@
             "name": "Cornes asymétriques"
         },
         {
-            "description": "",
+            "description": "Sujeto a Frenesí (ver Psicología), +10 a la Habilidad de armas",
             "effects": {
-                "label0": "Colère Impie",
-                "label1": "Frénésie"
+                "label0": "Furia impía",
+                "label1": "Frenesí"
             },
             "id": "Unholy Rage",
-            "name": "Colère Impie"
+            "name": "Furia impía"
         },
         {
-            "description": "Faites un jet sur table de Localisation pour savoir ou ce suintement apparaît.",
+            "description": "Tira en la Tabla de Ubicaciones de impacto para ver dónde supuras.",
             "effects": {},
             "id": "Weeping Pus",
-            "name": "Suintement de Pus"
+            "name": "Supuración"
         },
         {
-            "description": "",
+            "description": "+10 a Rastrear",
             "effects": {
-                "label0": "Groin Poilu"
+                "label0": "Hocico bigotudo"
             },
             "id": "Whiskered Snout",
-            "name": "Groin Poilu"
+            "name": "Hocico bigotudo"
         },
         {
-            "description": "",
+            "description": "+5 a la Agilidad, +5 a la Empatía.",
             "effects": {
-                "label0": "Affreusement nerveux"
+                "label0": "Temblequeos de preocupación"
             },
             "id": "Worried Jitters",
-            "name": "Affreusement nerveux"
+            "name": "Temblequeos de preocupación"
         }
     ]
   }
