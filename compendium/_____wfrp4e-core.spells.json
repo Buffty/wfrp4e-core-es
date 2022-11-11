@@ -533,13 +533,13 @@
         "name": "Armadura de Aethyr (Sombras)"
     },
     {
-        "description": "<p>Vous créez une arme de Corps à corps dont les Dégâts sont égaux à votre Bonus de Force Mentale. Elle peut prendre n'importe quelle forme et peut donc utiliser n'importe quelle Compétence de Corps à corps que vous possédez. L'arme est considérée comme Magique.</p>",
+        "description": "<p>Creas un arma de cuerpo a cuerpo con un Daño iugal a tu Bonificador por Voluntad. Podrá Adoptar cualquier forma, y por lo tanto utilizará cualquier Habilidad de Cuerpo a cuerpo que tengas. El arma cuenta como Mágica.</p>",
         "effects": [],
         "id": "Aethyric Arms",
-        "name": "Arme aethyrique"
+        "name": "Brazos del Aethyr"
     },
     {
-        "description": "<p>Vous créez une arme de Corps à corps dont les Dégâts sont égaux à votre Bonus de Force Mentale. Elle peut prendre n'importe quelle forme et peut donc utiliser n'importe quelle Compétence de Corps à corps que vous possédez. L'arme est considérée comme Magique.</p>",
+        "description": "<p>Creas un arma de cuerpo a cuerpo con un Daño iugal a tu Bonificador por Voluntad. Podrá Adoptar cualquier forma, y por lo tanto utilizará cualquier Habilidad de Cuerpo a cuerpo que tengas. El arma cuenta como Mágica.</p>",
         "effects": [
             {
                 "_id": "pDJYPbUZ7aZj5J2d",
@@ -559,16 +559,16 @@
             }
         ],
         "id": "Aethyric Arms (Beasts)",
-        "name": "Arme aethyrique (Bestias)"
+        "name": "Brazos del Aethyr (Bestias)"
     },
     {
-        "description": "<p>Vous créez une arme de Corps à corps dont les Dégâts sont égaux à votre Bonus de Force Mentale. Elle peut prendre n'importe quelle forme et peut donc utiliser n'importe quelle Compétence de Corps à corps que vous possédez. L'arme est considérée comme Magique.</p>",
+        "description": "<p>Creas un arma de cuerpo a cuerpo con un Daño iugal a tu Bonificador por Voluntad. Podrá Adoptar cualquier forma, y por lo tanto utilizará cualquier Habilidad de Cuerpo a cuerpo que tengas. El arma cuenta como Mágica.</p>",
         "effects": [],
         "id": "Aethyric Arms (Daemonology)",
-        "name": "Arme aethyrique (Demonologia)"
+        "name": "Brazos del Aethyr (Demonologia)"
     },
     {
-        "description": "<p>Vous créez une arme de Corps à corps dont les Dégâts sont égaux à votre Bonus de Force Mentale. Elle peut prendre n'importe quelle forme et peut donc utiliser n'importe quelle Compétence de Corps à corps que vous possédez. L'arme est considérée comme Magique.</p>",
+        "description": "<p>Creas un arma de cuerpo a cuerpo con un Daño iugal a tu Bonificador por Voluntad. Podrá Adoptar cualquier forma, y por lo tanto utilizará cualquier Habilidad de Cuerpo a cuerpo que tengas. El arma cuenta como Mágica.</p>",
         "effects": [
             {
                 "_id": "CyhPaU1wu8EXZX5a",
@@ -588,10 +588,10 @@
             }
         ],
         "id": "Aethyric Arms (Death)",
-        "name": "Arme aethyrique (Muerte)"
+        "name": "Brazos del Aethyr (Muerte)"
     },
     {
-        "description": "<p>Vous créez une arme de Corps à corps dont les Dégâts sont égaux à votre Bonus de Force Mentale. Elle peut prendre n'importe quelle forme et peut donc utiliser n'importe quelle Compétence de Corps à corps que vous possédez. L'arme est considérée comme Magique.</p>",
+        "description": "<p>Creas un arma de cuerpo a cuerpo con un Daño iugal a tu Bonificador por Voluntad. Podrá Adoptar cualquier forma, y por lo tanto utilizará cualquier Habilidad de Cuerpo a cuerpo que tengas. El arma cuenta como Mágica.</p>",
         "effects": [
             {
                 "_id": "7Ff02e1sPL7uZcfU",
@@ -611,10 +611,10 @@
             }
         ],
         "id": "Aethyric Arms (Fire)",
-        "name": "Arme aethyrique (Fuego)"
+        "name": "Brazos del Aethyr (Fuego)"
     },
     {
-        "description": "<p>Vous créez une arme de Corps à corps dont les Dégâts sont égaux à votre Bonus de Force Mentale. Elle peut prendre n'importe quelle forme et peut donc utiliser n'importe quelle Compétence de Corps à corps que vous possédez. L'arme est considérée comme Magique.</p>",
+        "description": "<p>Creas un arma de cuerpo a cuerpo con un Daño iugal a tu Bonificador por Voluntad. Podrá Adoptar cualquier forma, y por lo tanto utilizará cualquier Habilidad de Cuerpo a cuerpo que tengas. El arma cuenta como Mágica.</p>",
         "effects": [
             {
                 "_id": "UsH3T2bw0w722tTg",
@@ -634,10 +634,10 @@
             }
         ],
         "id": "Aethyric Arms (Heavens)",
-        "name": "Arme aethyrique (Cielos)"
+        "name": "Brazos del Aethyr (Cielos)"
     },
     {
-        "description": "<p>Vous créez une arme de Corps à corps dont les Dégâts sont égaux à votre Bonus de Force Mentale. Elle peut prendre n'importe quelle forme et peut donc utiliser n'importe quelle Compétence de Corps à corps que vous possédez. L'arme est considérée comme Magique.</p>",
+        "description": "<p>Creas un arma de cuerpo a cuerpo con un Daño iugal a tu Bonificador por Voluntad. Podrá Adoptar cualquier forma, y por lo tanto utilizará cualquier Habilidad de Cuerpo a cuerpo que tengas. El arma cuenta como Mágica.</p>",
         "effects": [
             {
                 "_id": "M7xbo1GL6xvChAad",
@@ -657,10 +657,10 @@
             }
         ],
         "id": "Aethyric Arms (Life)",
-        "name": "Arme aethyrique (Vida)"
+        "name": "Brazos del Aethyr (Vida)"
     },
     {
-        "description": "<p>Vous créez une arme de Corps à corps dont les Dégâts sont égaux à votre Bonus de Force Mentale. Elle peut prendre n'importe quelle forme et peut donc utiliser n'importe quelle Compétence de Corps à corps que vous possédez. L'arme est considérée comme Magique.</p>",
+        "description": "<p>Creas un arma de cuerpo a cuerpo con un Daño iugal a tu Bonificador por Voluntad. Podrá Adoptar cualquier forma, y por lo tanto utilizará cualquier Habilidad de Cuerpo a cuerpo que tengas. El arma cuenta como Mágica.</p>",
         "effects": [
             {
                 "_id": "pPyZmufLGPHHAfmf",
@@ -680,10 +680,10 @@
             }
         ],
         "id": "Aethyric Arms (Light)",
-        "name": "Arme aethyrique (Luz)"
+        "name": "Brazos del Aethyr (Luz)"
     },
     {
-        "description": "<p>Vous créez une arme de Corps à corps dont les Dégâts sont égaux à votre Bonus de Force Mentale. Elle peut prendre n'importe quelle forme et peut donc utiliser n'importe quelle Compétence de Corps à corps que vous possédez. L'arme est considérée comme Magique.</p>",
+        "description": "<p>Creas un arma de cuerpo a cuerpo con un Daño iugal a tu Bonificador por Voluntad. Podrá Adoptar cualquier forma, y por lo tanto utilizará cualquier Habilidad de Cuerpo a cuerpo que tengas. El arma cuenta como Mágica.</p>",
         "effects": [
             {
                 "_id": "ZRjWBUpuPSrCyePo",
@@ -703,16 +703,16 @@
             }
         ],
         "id": "Aethyric Arms (Metal)",
-        "name": "Arme aethyrique (Metal)"
+        "name": "Brazos del Aethyr (Metal)"
     },
     {
-        "description": "<p>Vous créez une arme de Corps à corps dont les Dégâts sont égaux à votre Bonus de Force Mentale. Elle peut prendre n'importe quelle forme et peut donc utiliser n'importe quelle Compétence de Corps à corps que vous possédez. L'arme est considérée comme Magique.</p>",
+        "description": "<p>Creas un arma de cuerpo a cuerpo con un Daño iugal a tu Bonificador por Voluntad. Podrá Adoptar cualquier forma, y por lo tanto utilizará cualquier Habilidad de Cuerpo a cuerpo que tengas. El arma cuenta como Mágica.</p>",
         "effects": [],
         "id": "Aethyric Arms (Necromancy)",
-        "name": "Arme aethyrique (Nigromancia)"
+        "name": "Brazos del Aethyr (Nigromancia)"
     },
     {
-        "description": "<p>Vous créez une arme de Corps à corps dont les Dégâts sont égaux à votre Bonus de Force Mentale. Elle peut prendre n'importe quelle forme et peut donc utiliser n'importe quelle Compétence de Corps à corps que vous possédez. L'arme est considérée comme Magique.</p>",
+        "description": "<p>Creas un arma de cuerpo a cuerpo con un Daño iugal a tu Bonificador por Voluntad. Podrá Adoptar cualquier forma, y por lo tanto utilizará cualquier Habilidad de Cuerpo a cuerpo que tengas. El arma cuenta como Mágica.</p>",
         "effects": [
             {
                 "_id": "gFqQI7fzLcxyEubf",
@@ -732,7 +732,7 @@
             }
         ],
         "id": "Aethyric Arms (Shadow)",
-        "name": "Arme aethyrique (Sombras)"
+        "name": "Brazos del Aethyr (Sombras)"
     },
     {
         "description": "<p>Vos ongles se transforment en serres acérées de cristal ambre. Les attaques à mains nues effectuées en utilisant Corps à Corps (Bagarre) sont considérées comme magiques, possèdent une valeur de Dégâtségale à votre Bonus de Forme Mentale et infligent +1 État <em>Hémorragique</em> chaque fois qu'elles entraînent la perte des Blessures.</p>",
@@ -784,7 +784,7 @@
             }
         ],
         "id": "Aqshy’s Aegis",
-        "name": "L'Egide d'Aqshy"
+        "name": "Égida de Aqshy"
     },
     {
         "description": "<p>Tous les projectiles constitués de matière organique, comme des flèches en bois, sont automatiquement détruits s'ils entrent dans la Zone d'Effet, n'infligeant aucun Dégât à leur cible. Les projectiles constitués uniquement de matière non organique, comme les couteux de lancer ou les munitions de pistolet, ne sont pas affectés</p>",

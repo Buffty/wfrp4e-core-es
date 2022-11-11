@@ -48,52 +48,52 @@
 		},
 		{
 			"id": "Art",
-			"name": "Artista",
+			"name": "Arte",
 			"description": "<p>Crea obras de arte en el medio que elijas. No tener acceso a las herramientas de trabajo adecuadas supondrá una penalización &nbsp; para sus pruebas. El RD conseguido determina la calidad del trabajo final. Para la realización de una obra de arte grande o compleja puede ser necesaria una prueba ampliada. La habilidad del arte rara vez se utiliza en el combate, pero los bustos de mármol pueden ser grandes armas improvisadas.</p>\n<p>&nbsp;</p>\n<p><span style=\"font-weight: bold;\">Especializaciones : </span>Cartografía, Grabado, Mosaico, Pintura, Escultura, Tatuaje, Tejido&nbsp;</p>\n<p>&nbsp;</p>\n<p><strong>Ejemplo</strong> : <em>Irina ha recibido el encargo de pintar el retrato de un noble local, cuyo favor busca su grupo. Su GM decide que esto requiere un total de 10 DRs en una Prueba de Arte extendida, y cada Prueba representa una semana de trabajo.</em></p>"
 		},
 		{
 			"id": "Art ()",
-			"name": "Artista ()",
+			"name": "Arte ()",
 			"description": "<p>Crea obras de arte en el medio que elijas. No tener acceso a las herramientas de trabajo adecuadas supondrá una penalización &nbsp; para sus pruebas. El RD conseguido determina la calidad del trabajo final. Para la realización de una obra de arte grande o compleja puede ser necesaria una prueba ampliada. La habilidad del arte rara vez se utiliza en el combate, pero los bustos de mármol pueden ser grandes armas improvisadas.</p>\n<p>&nbsp;</p>\n<p><span style=\"font-weight: bold;\">Especializaciones : </span>Cartografía, Grabado, Mosaico, Pintura, Escultura, Tatuaje, Tejido&nbsp;</p>\n<p>&nbsp;</p>\n<p><strong>Ejemplo</strong> : <em>Irina ha recibido el encargo de pintar el retrato de un noble local, cuyo favor busca su grupo. Su GM decide que esto requiere un total de 10 DRs en una Prueba de Arte extendida, y cada Prueba representa una semana de trabajo.</em></p>"
 		},
 		{
 			"id": "Art (Any)",
-			"name": "Artista (Cualquiera)",
+			"name": "Arte (Cualquiera)",
 			"description": "<p>Crea obras de arte en el medio que elijas. No tener acceso a las herramientas de trabajo adecuadas supondrá una penalización &nbsp; para sus pruebas. El RD conseguido determina la calidad del trabajo final. Para la realización de una obra de arte grande o compleja puede ser necesaria una prueba ampliada. La habilidad del arte rara vez se utiliza en el combate, pero los bustos de mármol pueden ser grandes armas improvisadas.</p>\n<p>&nbsp;</p>\n<p><span style=\"font-weight: bold;\">Especializaciones : </span>Cartografía, Grabado, Mosaico, Pintura, Escultura, Tatuaje, Tejido&nbsp;</p>\n<p>&nbsp;</p>\n<p><strong>Ejemplo</strong> : <em>Irina ha recibido el encargo de pintar el retrato de un noble local, cuyo favor busca su grupo. Su GM decide que esto requiere un total de 10 DRs en una Prueba de Arte extendida, y cada Prueba representa una semana de trabajo.</em></p>"
 		},
 		{
 			"id": "Art (Cartography)",
-			"name": "Artista (Cartografía)",
+			"name": "Arte (Cartografía)",
 			"description": "<p>Crear obras de arte en cartografía. No tener acceso a las herramientas de trabajo adecuadas supondrá una penalización para sus pruebas. El RD resultante determina la calidad de la obra de arte final. Para crear una obra de arte grande o compleja puede ser necesario un ensayo prolongado. La habilidad del arte rara vez se utiliza en el combate, pero los bustos de mármol pueden ser grandes armas improvisadas.</p>\n<p>&nbsp;</p>\n<p><strong>Ejemplo</strong> :<em> Irina ha recibido el encargo de pintar el retrato de un noble local, cuyo favor busca su grupo. Su GM decide que esto requiere un total de 10 DRs en una Prueba de Arte extendida, y cada Prueba representa una semana de trabajo.&nbsp;</em></p>\n<p>&nbsp;</p>"
 		},
 		{
 			"id": "Art (Engraving)",
-			"name": "Artista (Grabado)",
+			"name": "Arte (Grabado)",
 			"description": "<p>Crear obras de arte en cartografía. No tener acceso a las herramientas de trabajo adecuadas supondrá una penalización para sus pruebas. El RD resultante determina la calidad de la obra de arte final. Para crear una obra de arte grande o compleja puede ser necesario un ensayo prolongado. La habilidad del arte rara vez se utiliza en el combate, pero los bustos de mármol pueden ser grandes armas improvisadas.</p>\n<p>&nbsp;</p>\n<p><strong>Ejemplo</strong> :<em> Irina ha recibido el encargo de pintar el retrato de un noble local, cuyo favor busca su grupo. Su GM decide que esto requiere un total de 10 DRs en una Prueba de Arte extendida, y cada Prueba representa una semana de trabajo.&nbsp;</em></p>\n<p>&nbsp;</p>"
 		},
 		{
 			"id": "Art (Mosaics)",
-			"name": "Artista (Mosaico)",
+			"name": "Arte (Mosaico)",
 			"description": "<p>Crear obras de arte en cartografía. No tener acceso a las herramientas de trabajo adecuadas supondrá una penalización para sus pruebas. El RD resultante determina la calidad de la obra de arte final. Para crear una obra de arte grande o compleja puede ser necesario un ensayo prolongado. La habilidad del arte rara vez se utiliza en el combate, pero los bustos de mármol pueden ser grandes armas improvisadas.</p>\n<p>&nbsp;</p>\n<p><strong>Ejemplo</strong> :<em> Irina ha recibido el encargo de pintar el retrato de un noble local, cuyo favor busca su grupo. Su GM decide que esto requiere un total de 10 DRs en una Prueba de Arte extendida, y cada Prueba representa una semana de trabajo.&nbsp;</em></p>\n<p>&nbsp;</p>"
 		},
 		{
 			"id": "Art (Painting)",
-			"name": "Artista (Pintura)",
+			"name": "Arte (Pintura)",
 			"description": "<p>Crear obras de arte en cartografía. No tener acceso a las herramientas de trabajo adecuadas supondrá una penalización para sus pruebas. El RD resultante determina la calidad de la obra de arte final. Para crear una obra de arte grande o compleja puede ser necesario un ensayo prolongado. La habilidad del arte rara vez se utiliza en el combate, pero los bustos de mármol pueden ser grandes armas improvisadas.</p>\n<p>&nbsp;</p>\n<p><strong>Ejemplo</strong> :<em> Irina ha recibido el encargo de pintar el retrato de un noble local, cuyo favor busca su grupo. Su GM decide que esto requiere un total de 10 DRs en una Prueba de Arte extendida, y cada Prueba representa una semana de trabajo.&nbsp;</em></p>\n<p>&nbsp;</p>"
 		},
 		{
 			"id": "Art (Sculpture)",
-			"name": "Artista (Escultura)",
+			"name": "Arte (Escultura)",
 			"description": "<p>Crear obras de arte en cartografía. No tener acceso a las herramientas de trabajo adecuadas supondrá una penalización para sus pruebas. El RD resultante determina la calidad de la obra de arte final. Para crear una obra de arte grande o compleja puede ser necesario un ensayo prolongado. La habilidad del arte rara vez se utiliza en el combate, pero los bustos de mármol pueden ser grandes armas improvisadas.</p>\n<p>&nbsp;</p>\n<p><strong>Ejemplo</strong> :<em> Irina ha recibido el encargo de pintar el retrato de un noble local, cuyo favor busca su grupo. Su GM decide que esto requiere un total de 10 DRs en una Prueba de Arte extendida, y cada Prueba representa una semana de trabajo.&nbsp;</em></p>\n<p>&nbsp;</p>"
 		},
 		{
 			"id": "Art (Tattoo)",
-			"name": "Artista (Tatuaje)",
+			"name": "Arte (Tatuaje)",
 			"description": "<p>Crear obras de arte en cartografía. No tener acceso a las herramientas de trabajo adecuadas supondrá una penalización para sus pruebas. El RD resultante determina la calidad de la obra de arte final. Para crear una obra de arte grande o compleja puede ser necesario un ensayo prolongado. La habilidad del arte rara vez se utiliza en el combate, pero los bustos de mármol pueden ser grandes armas improvisadas.</p>\n<p>&nbsp;</p>\n<p><strong>Ejemplo</strong> :<em> Irina ha recibido el encargo de pintar el retrato de un noble local, cuyo favor busca su grupo. Su GM decide que esto requiere un total de 10 DRs en una Prueba de Arte extendida, y cada Prueba representa una semana de trabajo.&nbsp;</em></p>\n<p>&nbsp;</p>"
 		},
 		{
 			"id": "Art (Weaving)",
-			"name": "Artista (Tejido)",
+			"name": "Arte (Tejido)",
 			"description": "<p>Crear obras de arte en cartografía. No tener acceso a las herramientas de trabajo adecuadas supondrá una penalización para sus pruebas. El RD resultante determina la calidad de la obra de arte final. Para crear una obra de arte grande o compleja puede ser necesario un ensayo prolongado. La habilidad del arte rara vez se utiliza en el combate, pero los bustos de mármol pueden ser grandes armas improvisadas.</p>\n<p>&nbsp;</p>\n<p><strong>Ejemplo</strong> :<em> Irina ha recibido el encargo de pintar el retrato de un noble local, cuyo favor busca su grupo. Su GM decide que esto requiere un total de 10 DRs en una Prueba de Arte extendida, y cada Prueba representa una semana de trabajo.&nbsp;</em></p>\n<p>&nbsp;</p>"
 		},
 		{
@@ -178,7 +178,7 @@
 		},
 		{
 			"id": "Climb",
-			"name": "Escalada",
+			"name": "Escalar",
 			"description": "<p>Se trata de su capacidad para trepar por superficies lisas o verticales</p>\n        <p>Si el tiempo no es un problema, y la escalada es relativamente fácil, cualquier persona con la Habilidad de Escalada se considera automáticamente capaz de escalar cualquier pequeña altura razonable.</p>\n        <p>En todos los demás casos, consulte la página 165, que también trata de la escalada durante el combate. Puede que incluso te encuentres subiendo a grandes oponentes, aunque en este caso la noción de precaución es cuestionable.</p>"
 		},
 		{
@@ -463,7 +463,7 @@
 		},
 		{
 			"id": "Melee (Basic)",
-			"name": "CaC (Basic)",
+			"name": "CaC (Básico)",
 			"description": "<p>La habilidad de combate cuerpo a cuerpo representa el entrenamiento específico que has recibido con un solo tipo de arma de combate cuerpo a cuerpo. Cada especialización de combate cuerpo a cuerpo indica el entrenamiento en una clase de arma específica. Si no tiene la especialización adecuada para un arma que desea utilizar, consulte la sección<span style=\"font-weight: bold;\">Capítulo 11: Guía de equipamiento </span>para ver las estadísticas del arma y las penalizaciones que sufrirás. Ver <span style=\"font-weight: bold;\">Capítulo 5: Reglas </span>para más información sobre el combate y el uso de la habilidad de combate cuerpo a cuerpo.</p>"
 		},
 		{

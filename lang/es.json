@@ -679,7 +679,7 @@
     "CHAT.TestModifiers.DefenderMountLarger" : "Penalización por atacar al jinete de una montura mayor.",
     "CHAT.TestModifiers.SlowDefend" : "El atacante tiene un arma lenta",
     "CHAT.TestModifiers.WrapDefend" : "El atacante tiene un arma envolvente",
-    "CHAT.CommandLine.Help.Commands" : "Tablas,Condiciones,Propiedades,Generación de caracteres,Generación de nombres,Prueba de disponibilidad,Pago,Crédito,Corrupción,Viaje,Exp",
+    "CHAT.CommandLine.Help.Commands" : "Tables,Conditions,Properties,CharacterGeneration,CharacterGeneration,NameGeneration,Pay,Credit,Corruption,Travel,Exp",
     "CHAT.CommandLine.Help.Label.Command" : "Comando",
     "CHAT.CommandLine.Help.Label.Example": "Ejemplo",
     "CHAT.CommandLine.Help.Label.Note": "Nota",
