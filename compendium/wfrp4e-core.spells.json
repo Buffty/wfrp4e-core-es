@@ -1469,13 +1469,13 @@
         "name": "Luz aveuglante"
     },
     {
-        "description": "<p>Vous concentre la magie en un carreau destructeur. Carreau est un projectile magique avec Dégât +4</p>",
+        "description": "<p>Canalizas magia en forma de un rayo dañino. Rayo es un proyectil mágico con Daño +4</p>",
         "effects": [],
         "id": "Bolt",
-        "name": "Carreau"
+        "name": "Rayo"
     },
     {
-        "description": "<p>Vous concentre la magie en un carreau destructeur. Carreau est un projectile magique avec Dégât +4</p>",
+        "description": "<p>Canalizas magia en forma de un rayo dañino. Rayo es un proyectil mágico con Daño +4</p>",
         "effects": [
             {
                 "_id": "frCULsGlvnTrZj8G",
@@ -1495,16 +1495,16 @@
             }
         ],
         "id": "Bolt (Beasts)",
-        "name": "Carreau (Bestias)"
+        "name": "Rayo (Bestias)"
     },
     {
-        "description": "<p>Vous concentre la magie en un carreau destructeur. Carreau est un projectile magique avec Dégât +4</p>",
+        "description": "<p>Canalizas magia en forma de un rayo dañino. Rayo es un proyectil mágico con Daño +4</p>",
         "effects": [],
         "id": "Bolt (Daemonology)",
-        "name": "Carreau (Demonologia)"
+        "name": "Rayo (Demonologia)"
     },
     {
-        "description": "<p>Vous concentre la magie en un carreau destructeur. Carreau est un projectile magique avec Dégât +4</p>",
+        "description": "<p>Canalizas magia en forma de un rayo dañino. Rayo es un proyectil mágico con Daño +4</p>",
         "effects": [
             {
                 "_id": "JtX1d18U0oJ6lrkl",
@@ -1524,10 +1524,10 @@
             }
         ],
         "id": "Bolt (Death)",
-        "name": "Carreau (Muerte)"
+        "name": "Rayo (Muerte)"
     },
     {
-        "description": "<p>Vous concentre la magie en un carreau destructeur. Carreau est un projectile magique avec Dégât +4</p>",
+        "description": "<p>Canalizas magia en forma de un rayo dañino. Rayo es un proyectil mágico con Daño +4</p>",
         "effects": [
             {
                 "_id": "F1ae9TmEKut64Za0",
@@ -1547,10 +1547,10 @@
             }
         ],
         "id": "Bolt (Fire)",
-        "name": "Carreau (Fuego)"
+        "name": "Rayo (Fuego)"
     },
     {
-        "description": "<p>Vous concentre la magie en un carreau destructeur. Carreau est un projectile magique avec Dégât +4</p>",
+        "description": "<p>Canalizas magia en forma de un rayo dañino. Rayo es un proyectil mágico con Daño +4</p>",
         "effects": [
             {
                 "_id": "zCuFMoUXiXK5NywF",
@@ -1570,10 +1570,10 @@
             }
         ],
         "id": "Bolt (Heavens)",
-        "name": "Carreau (Cielos)"
+        "name": "Rayo (Cielos)"
     },
     {
-        "description": "<p>Vous concentre la magie en un carreau destructeur. Carreau est un projectile magique avec Dégât +4</p>",
+        "description": "<p>Canalizas magia en forma de un rayo dañino. Rayo es un proyectil mágico con Daño +4</p>",
         "effects": [
             {
                 "_id": "89oEgRNAnX4PlsjM",
@@ -1593,10 +1593,10 @@
             }
         ],
         "id": "Bolt (Life)",
-        "name": "Carreau (Vida)"
+        "name": "Rayo (Vida)"
     },
     {
-        "description": "<p>Vous concentre la magie en un carreau destructeur. Carreau est un projectile magique avec Dégât +4</p>",
+        "description": "<p>Canalizas magia en forma de un rayo dañino. Rayo es un proyectil mágico con Daño +4</p>",
         "effects": [
             {
                 "_id": "mue7AAFuBjP5708Y",
@@ -1616,10 +1616,10 @@
             }
         ],
         "id": "Bolt (Light)",
-        "name": "Carreau (Luz)"
+        "name": "Rayo (Luz)"
     },
     {
-        "description": "<p>Vous concentre la magie en un carreau destructeur. Carreau est un projectile magique avec Dégât +4</p>",
+        "description": "<p>Canalizas magia en forma de un rayo dañino. Rayo es un proyectil mágico con Daño +4</p>",
         "effects": [
             {
                 "_id": "kZfLq2gkBzpywxN0",
@@ -1639,16 +1639,16 @@
             }
         ],
         "id": "Bolt (Metal)",
-        "name": "Carreau (Metal)"
+        "name": "Rayo (Metal)"
     },
     {
-        "description": "<p>Vous concentre la magie en un carreau destructeur. Carreau est un projectile magique avec Dégât +4</p>",
+        "description": "<p>Canalizas magia en forma de un rayo dañino. Rayo es un proyectil mágico con Daño +4</p>",
         "effects": [],
         "id": "Bolt (Necromancy)",
-        "name": "Carreau (Nigromancia)"
+        "name": "Rayo (Nigromancia)"
     },
     {
-        "description": "<p>Vous concentre la magie en un carreau destructeur. Carreau est un projectile magique avec Dégât +4</p>",
+        "description": "<p>Canalizas magia en forma de un rayo dañino. Rayo es un proyectil mágico con Daño +4</p>",
         "effects": [
             {
                 "_id": "e1DiTkoQe7EeuQ9T",
@@ -1668,7 +1668,7 @@
             }
         ],
         "id": "Bolt (Shadow)",
-        "name": "Carreau (Sombras)"
+        "name": "Rayo (Sombras)"
     },
     {
         "description": "<p>Inmediatamente haces un ataque de Aliento, como si hubieras gastado 2 Beneficios para activar el rasgo de criatura Aliento. El aliento es un proyectil mágico cuyo daño es igual a tu bonus de resistencia. El GM determina qué tipo de ataque de Aliento se ajusta mejor a tu Talento Mágico Arcano.</p>\n<p>&nbsp;</p>\n<blockquote>\n<p>El aliento de la criatura es un arma poderosa.Durante su turno, al coste de 2 Ventajas, puede activar su Aliento, como un ataque gratuito.Elige un objetivo que pueda ver, situado a una distancia en metros igual a su I.Todos los personajes situados a una distancia en metros igual a su Bono de Fuerza de ese objetivo se ven afectados, así como todos los personajes entre la criatura y el objetivo.Haz un Chequeo de Habilidad de CT/Esquiva opuesto contra todos los objetivos afectados (una tirada por cada objetivo). Todos los objetivos que fallan sufren una cantidad de daño de arma igual a x. Además, si el rasgo indica uno de los siguientes tipos entre paréntesis, aplique también las reglas corres</p>\n<p>• Frío: Los objetivos obtienen el estado de aturdimiento por cada 5 heridas sufridas (mínimo 1)</p>\n<p>• todas las Armaduras y Armas que lleven los objetivos sufren 1 Daño</p>\n<p>• Todas las heridas infligidas ignoran el PA. Los objetivos adquieren el Estado Flamígero.</p>\n<p>• Todas las heridas infligidas ignoran el PA. Los objetivos obtienen el estado de aturdimiento.</p>\n<p>• Veneno: Todas las heridas infligidas ignoran el PA. Los objetivos adquieren un estado de envenenamiento.</p>\n<p>• Humo: El área se llena de humo, bloqueando las Líneas de Visión durante un número de asaltos igual al bono de Resistencia de la criatura.</p>\n<p>Eres inmune a tu propio aliento. Esto es un ataque mágico.</p>\n</blockquote>",
@@ -3151,7 +3151,7 @@
         "name": "Creuset de Chamon"
     },
     {
-        "description": "<p>En poignardant une représentation grossière de votre cible - une pourpée ou un mannequin, vous lui infligez une douleur paralysante. Lorsque le Sort est lancé avec succès, choisissez quel endroit vous poignardez :</p>\n<ul type=\"disc\">\n<li>Jambe : la jambe deVidant inutilisable, comme si elle avait été amputée. Si la cible était en train de courir, elle subit un État À Terre et des Dégâts de chute.</li>\n</ul>\n<ul type=\"disc\">\n<li>Bras : le bras deVidant inutilisable, comme s'il avait été amputé. Si la cible tenait quelque chose à la main, elle le lâche automatiquement.</li>\n</ul>\n<ul type=\"disc\">\n<li>Corps : la cible souffre d'agonie, subit +1 État <em>Exténué</em>, et doit réussir un Test Difficile (-20) de Résistance ou subir l'État <em>À Terre</em>.</li>\n<li>Tête : la cible gagne 1 État <em>Inconscient</em>&nbsp;qui dure le temps de la durée du Sort.</li>\n</ul>\n<p>Tant que le Sort est effectif, vous pouvez, pour votre Action, effectuer un Test de Focalisation en poignardant de nouveau la poupée pour choisir une nouvelle Localisation.</p>",
+        "description": "<p>En poignardant une représentation grossière de votre cible - une pourpée ou un mannequin, vous lui infligez une douleur paralysante. Lorsque le Sort est lancé avec succès, choisissez quel endroit vous poignardez :</p>\n<ul type=\"disc\">\n<li>Jambe : la jambe deVidant inutilisable, comme si elle avait été amputée. Si la cible était en train de courir, elle subit un État À Terre et des Dégâts de Soltar.</li>\n</ul>\n<ul type=\"disc\">\n<li>Bras : le bras deVidant inutilisable, comme s'il avait été amputé. Si la cible tenait quelque chose à la main, elle le lâche automatiquement.</li>\n</ul>\n<ul type=\"disc\">\n<li>Corps : la cible souffre d'agonie, subit +1 État <em>Exténué</em>, et doit réussir un Test Difficile (-20) de Résistance ou subir l'État <em>À Terre</em>.</li>\n<li>Tête : la cible gagne 1 État <em>Inconscient</em>&nbsp;qui dure le temps de la durée du Sort.</li>\n</ul>\n<p>Tant que le Sort est effectif, vous pouvez, pour votre Action, effectuer un Test de Focalisation en poignardant de nouveau la poupée pour choisir une nouvelle Localisation.</p>",
         "effects": [
             {
                 "_id": "A0qKOTwIsUKAhGxc",
@@ -4341,13 +4341,13 @@
         "name": "Drenar"
     },
     {
-        "description": "<p>Vous focalisez la magie dans un objet tenu par un adversaire. Cela peut être une arme, une corde ou la main de quelqu'un. A moins que la cible réussisse un Test de <strong>Dextérité (Intermédiaire)</strong>, l'objet tombe. Pour chaque +2 DR, vous pouvez imposer une pénalité de -10 supplémentaires au Test de Dextérité.</p>",
+        "description": "<p>Canalizas magia a un objeto empuñado por un oponente. Se puede tratar de un arma, de una cuerda o de la mano de alguien. A menos que se supere un Chequeo<strong>Desafiante (+0) de Destreza</strong>, el oponente suelta el objeto.  Por cada +2 NE puedes imponer un -10 adicional en el Chequeo de Destreza</p>",
         "effects": [],
         "id": "Drop",
-        "name": "Chute"
+        "name": "Soltar"
     },
     {
-        "description": "<p>Vous focalisez la magie dans un objet tenu par un adversaire. Cela peut être une arme, une corde ou la main de quelqu'un. A moins que la cible réussisse un Test de <strong>Dextérité (Intermédiaire)</strong>, l'objet tombe. Pour chaque +2 DR, vous pouvez imposer une pénalité de -10 supplémentaires au Test de Dextérité.</p>",
+        "description": "<p>Canalizas magia a un objeto empuñado por un oponente. Se puede tratar de un arma, de una cuerda o de la mano de alguien. A menos que se supere un Chequeo<strong>Desafiante (+0) de Destreza</strong>, el oponente suelta el objeto.  Por cada +2 NE puedes imponer un -10 adicional en el Chequeo de Destreza</p>",
         "effects": [
             {
                 "_id": "oUGhUHTuu2LGj9mY",
@@ -4367,16 +4367,16 @@
             }
         ],
         "id": "Drop (Beasts)",
-        "name": "Chute (Bestias)"
+        "name": "Soltar (Bestias)"
     },
     {
-        "description": "<p>Vous focalisez la magie dans un objet tenu par un adversaire. Cela peut être une arme, une corde ou la main de quelqu'un. A moins que la cible réussisse un Test de <strong>Dextérité (Intermédiaire)</strong>, l'objet tombe. Pour chaque +2 DR, vous pouvez imposer une pénalité de -10 supplémentaires au Test de Dextérité.</p>",
+        "description": "<p>Canalizas magia a un objeto empuñado por un oponente. Se puede tratar de un arma, de una cuerda o de la mano de alguien. A menos que se supere un Chequeo<strong>Desafiante (+0) de Destreza</strong>, el oponente suelta el objeto.  Por cada +2 NE puedes imponer un -10 adicional en el Chequeo de Destreza</p>",
         "effects": [],
         "id": "Drop (Daemonology)",
-        "name": "Chute (Demonologia)"
+        "name": "Soltar (Demonologia)"
     },
     {
-        "description": "<p>Vous focalisez la magie dans un objet tenu par un adversaire. Cela peut être une arme, une corde ou la main de quelqu'un. A moins que la cible réussisse un Test de <strong>Dextérité (Intermédiaire)</strong>, l'objet tombe. Pour chaque +2 DR, vous pouvez imposer une pénalité de -10 supplémentaires au Test de Dextérité.</p>",
+        "description": "<p>Canalizas magia a un objeto empuñado por un oponente. Se puede tratar de un arma, de una cuerda o de la mano de alguien. A menos que se supere un Chequeo<strong>Desafiante (+0) de Destreza</strong>, el oponente suelta el objeto.  Por cada +2 NE puedes imponer un -10 adicional en el Chequeo de Destreza</p>",
         "effects": [
             {
                 "_id": "dmcxavXgRkqsDLTH",
@@ -4396,10 +4396,10 @@
             }
         ],
         "id": "Drop (Death)",
-        "name": "Chute (Muerte)"
+        "name": "Soltar (Muerte)"
     },
     {
-        "description": "<p>Vous focalisez la magie dans un objet tenu par un adversaire. Cela peut être une arme, une corde ou la main de quelqu'un. A moins que la cible réussisse un Test de <strong>Dextérité (Intermédiaire)</strong>, l'objet tombe. Pour chaque +2 DR, vous pouvez imposer une pénalité de -10 supplémentaires au Test de Dextérité.</p>",
+        "description": "<p>Canalizas magia a un objeto empuñado por un oponente. Se puede tratar de un arma, de una cuerda o de la mano de alguien. A menos que se supere un Chequeo<strong>Desafiante (+0) de Destreza</strong>, el oponente suelta el objeto.  Por cada +2 NE puedes imponer un -10 adicional en el Chequeo de Destreza</p>",
         "effects": [
             {
                 "_id": "QK3jtm5Ne39Qn8xI",
@@ -4419,10 +4419,10 @@
             }
         ],
         "id": "Drop (Fire)",
-        "name": "Chute (Fuego)"
+        "name": "Soltar (Fuego)"
     },
     {
-        "description": "<p>Vous focalisez la magie dans un objet tenu par un adversaire. Cela peut être une arme, une corde ou la main de quelqu'un. A moins que la cible réussisse un Test de <strong>Dextérité (Intermédiaire)</strong>, l'objet tombe. Pour chaque +2 DR, vous pouvez imposer une pénalité de -10 supplémentaires au Test de Dextérité.</p>",
+        "description": "<p>Canalizas magia a un objeto empuñado por un oponente. Se puede tratar de un arma, de una cuerda o de la mano de alguien. A menos que se supere un Chequeo<strong>Desafiante (+0) de Destreza</strong>, el oponente suelta el objeto.  Por cada +2 NE puedes imponer un -10 adicional en el Chequeo de Destreza</p>",
         "effects": [
             {
                 "_id": "UHaabh6syVwKRX3K",
@@ -4442,10 +4442,10 @@
             }
         ],
         "id": "Drop (Heavens)",
-        "name": "Chute (Cielos)"
+        "name": "Soltar (Cielos)"
     },
     {
-        "description": "<p>Vous focalisez la magie dans un objet tenu par un adversaire. Cela peut être une arme, une corde ou la main de quelqu'un. A moins que la cible réussisse un Test de <strong>Dextérité (Intermédiaire)</strong>, l'objet tombe. Pour chaque +2 DR, vous pouvez imposer une pénalité de -10 supplémentaires au Test de Dextérité.</p>",
+        "description": "<p>Canalizas magia a un objeto empuñado por un oponente. Se puede tratar de un arma, de una cuerda o de la mano de alguien. A menos que se supere un Chequeo<strong>Desafiante (+0) de Destreza</strong>, el oponente suelta el objeto.  Por cada +2 NE puedes imponer un -10 adicional en el Chequeo de Destreza</p>",
         "effects": [
             {
                 "_id": "dWfpyQTb5zFPfOv2",
@@ -4465,10 +4465,10 @@
             }
         ],
         "id": "Drop (Life)",
-        "name": "Chute (Vida)"
+        "name": "Soltar (Vida)"
     },
     {
-        "description": "<p>Vous focalisez la magie dans un objet tenu par un adversaire. Cela peut être une arme, une corde ou la main de quelqu'un. A moins que la cible réussisse un Test de <strong>Dextérité (Intermédiaire)</strong>, l'objet tombe. Pour chaque +2 DR, vous pouvez imposer une pénalité de -10 supplémentaires au Test de Dextérité.</p>",
+        "description": "<p>Canalizas magia a un objeto empuñado por un oponente. Se puede tratar de un arma, de una cuerda o de la mano de alguien. A menos que se supere un Chequeo<strong>Desafiante (+0) de Destreza</strong>, el oponente suelta el objeto.  Por cada +2 NE puedes imponer un -10 adicional en el Chequeo de Destreza</p>",
         "effects": [
             {
                 "_id": "s28S8y79Y42SFlwn",
@@ -4488,10 +4488,10 @@
             }
         ],
         "id": "Drop (Light)",
-        "name": "Chute (Luz)"
+        "name": "Soltar (Luz)"
     },
     {
-        "description": "<p>Vous focalisez la magie dans un objet tenu par un adversaire. Cela peut être une arme, une corde ou la main de quelqu'un. A moins que la cible réussisse un Test de <strong>Dextérité (Intermédiaire)</strong>, l'objet tombe. Pour chaque +2 DR, vous pouvez imposer une pénalité de -10 supplémentaires au Test de Dextérité.</p>",
+        "description": "<p>Canalizas magia a un objeto empuñado por un oponente. Se puede tratar de un arma, de una cuerda o de la mano de alguien. A menos que se supere un Chequeo<strong>Desafiante (+0) de Destreza</strong>, el oponente suelta el objeto.  Por cada +2 NE puedes imponer un -10 adicional en el Chequeo de Destreza</p>",
         "effects": [
             {
                 "_id": "6W68Y7SowSugDoSU",
@@ -4511,16 +4511,16 @@
             }
         ],
         "id": "Drop (Metal)",
-        "name": "Chute (Metal)"
+        "name": "Soltar (Metal)"
     },
     {
-        "description": "<p>Vous focalisez la magie dans un objet tenu par un adversaire. Cela peut être une arme, une corde ou la main de quelqu'un. A moins que la cible réussisse un Test de <strong>Dextérité (Intermédiaire)</strong>, l'objet tombe. Pour chaque +2 DR, vous pouvez imposer une pénalité de -10 supplémentaires au Test de Dextérité.</p>",
+        "description": "<p>Canalizas magia a un objeto empuñado por un oponente. Se puede tratar de un arma, de una cuerda o de la mano de alguien. A menos que se supere un Chequeo<strong>Desafiante (+0) de Destreza</strong>, el oponente suelta el objeto.  Por cada +2 NE puedes imponer un -10 adicional en el Chequeo de Destreza</p>",
         "effects": [],
         "id": "Drop (Necromancy)",
-        "name": "Chute (Nigromancia)"
+        "name": "Soltar (Nigromancia)"
     },
     {
-        "description": "<p>Vous focalisez la magie dans un objet tenu par un adversaire. Cela peut être une arme, une corde ou la main de quelqu'un. A moins que la cible réussisse un Test de <strong>Dextérité (Intermédiaire)</strong>, l'objet tombe. Pour chaque +2 DR, vous pouvez imposer une pénalité de -10 supplémentaires au Test de Dextérité.</p>",
+        "description": "<p>Canalizas magia a un objeto empuñado por un oponente. Se puede tratar de un arma, de una cuerda o de la mano de alguien. A menos que se supere un Chequeo<strong>Desafiante (+0) de Destreza</strong>, el oponente suelta el objeto.  Por cada +2 NE puedes imponer un -10 adicional en el Chequeo de Destreza</p>",
         "effects": [
             {
                 "_id": "gXtqHVlikkCWapIH",
@@ -4540,7 +4540,7 @@
             }
         ],
         "id": "Drop (Shadow)",
-        "name": "Chute (Sombras)"
+        "name": "Soltar (Sombras)"
     },
     {
         "description": "<p>En touchant le corps d'une créature récemment disparue (lors de la journée précédente), vous rappelez brièvement son âme. Pour la durée du Sort, vous pouvez communiquer avec elle, bien qu'elle ne puisse rien faire d'autre que parler. Elle n'est pas forcée de vous répondre, mais elle ne ment pas.</p>",
@@ -7030,13 +7030,13 @@
         "name": "Chevaucher l'Obscurité"
     },
     {
-        "description": "<p>En utilisant la magie, vous aggripez un objet inanimé pas plus grand que vous, et le déplaçez par la seule force de votre colonté, qui est considérée comme ayant une Force égale à votre Force Mentale. Vous pouvez déplacer l'objet jusqu'à une distance en mètres égale à votre Bonus de Force Mentale. Si quelqu'un tente de gêner le déplacement de l'objet, effectuez un Test <strong>Opposé de Force Mentale/Force</strong>.Pour chaque +2 DR, vous pouvez augmenter la distance sur laquelle l'objet est déplacé d'un nombre de mètres égal à votre Bonus de Force Mentale.</p>",
+        "description": "<p>Utilizando la magia, te haces con un objeto no inteligente y que no es más agrende que tú, moviéndolo sólo mediante la mente,  que se considera que tiene una Fuerza igual a tu Voluntad. Puedes intentar mover el objeto tantas yardas como tu Bonificador por Voluntad. Si alguien intenta impedir el movimiento del objeto, se requiere un Chequeo<strong>Enfrentado Voluntad/Fuerza</strong>.Por cada +2 NE, puedes incrementar la distancia a la que se mueve el objeto tantas yardas como tu Bonificador por Voluntad.</p>",
         "effects": [],
         "id": "Move Object",
-        "name": "Déplacement d'objet"
+        "name": "Mover objecto"
     },
     {
-        "description": "<p>En utilisant la magie, vous aggripez un objet inanimé pas plus grand que vous, et le déplaçez par la seule force de votre colonté, qui est considérée comme ayant une Force égale à votre Force Mentale. Vous pouvez déplacer l'objet jusqu'à une distance en mètres égale à votre Bonus de Force Mentale. Si quelqu'un tente de gêner le déplacement de l'objet, effectuez un Test <strong>Opposé de Force Mentale/Force</strong>.Pour chaque +2 DR, vous pouvez augmenter la distance sur laquelle l'objet est déplacé d'un nombre de mètres égal à votre Bonus de Force Mentale.</p>",
+        "description": "<p>Utilizando la magia, te haces con un objeto no inteligente y que no es más agrende que tú, moviéndolo sólo mediante la mente,  que se considera que tiene una Fuerza igual a tu Voluntad. Puedes intentar mover el objeto tantas yardas como tu Bonificador por Voluntad. Si alguien intenta impedir el movimiento del objeto, se requiere un Chequeo<strong>Enfrentado Voluntad/Fuerza</strong>.Por cada +2 NE, puedes incrementar la distancia a la que se mueve el objeto tantas yardas como tu Bonificador por Voluntad.</p>",
         "effects": [
             {
                 "_id": "APBT193h9gmuWbUd",
@@ -7056,16 +7056,16 @@
             }
         ],
         "id": "Move Object (Beasts)",
-        "name": "Déplacement d'objet (Bestias)"
+        "name": "Mover objecto (Bestias)"
     },
     {
-        "description": "<p>En utilisant la magie, vous aggripez un objet inanimé pas plus grand que vous, et le déplaçez par la seule force de votre colonté, qui est considérée comme ayant une Force égale à votre Force Mentale. Vous pouvez déplacer l'objet jusqu'à une distance en mètres égale à votre Bonus de Force Mentale. Si quelqu'un tente de gêner le déplacement de l'objet, effectuez un Test <strong>Opposé de Force Mentale/Force</strong>.Pour chaque +2 DR, vous pouvez augmenter la distance sur laquelle l'objet est déplacé d'un nombre de mètres égal à votre Bonus de Force Mentale.</p>",
+        "description": "<p>Utilizando la magia, te haces con un objeto no inteligente y que no es más agrende que tú, moviéndolo sólo mediante la mente,  que se considera que tiene una Fuerza igual a tu Voluntad. Puedes intentar mover el objeto tantas yardas como tu Bonificador por Voluntad. Si alguien intenta impedir el movimiento del objeto, se requiere un Chequeo<strong>Enfrentado Voluntad/Fuerza</strong>.Por cada +2 NE, puedes incrementar la distancia a la que se mueve el objeto tantas yardas como tu Bonificador por Voluntad.</p>",
         "effects": [],
         "id": "Move Object (Daemonology)",
-        "name": "Déplacement d'objet (Demonologia)"
+        "name": "Mover objecto (Demonologia)"
     },
     {
-        "description": "<p>En utilisant la magie, vous aggripez un objet inanimé pas plus grand que vous, et le déplaçez par la seule force de votre colonté, qui est considérée comme ayant une Force égale à votre Force Mentale. Vous pouvez déplacer l'objet jusqu'à une distance en mètres égale à votre Bonus de Force Mentale. Si quelqu'un tente de gêner le déplacement de l'objet, effectuez un Test <strong>Opposé de Force Mentale/Force</strong>.Pour chaque +2 DR, vous pouvez augmenter la distance sur laquelle l'objet est déplacé d'un nombre de mètres égal à votre Bonus de Force Mentale.</p>",
+        "description": "<p>Utilizando la magia, te haces con un objeto no inteligente y que no es más agrende que tú, moviéndolo sólo mediante la mente,  que se considera que tiene una Fuerza igual a tu Voluntad. Puedes intentar mover el objeto tantas yardas como tu Bonificador por Voluntad. Si alguien intenta impedir el movimiento del objeto, se requiere un Chequeo<strong>Enfrentado Voluntad/Fuerza</strong>.Por cada +2 NE, puedes incrementar la distancia a la que se mueve el objeto tantas yardas como tu Bonificador por Voluntad.</p>",
         "effects": [
             {
                 "_id": "K2BhALcR2f5ZPv4H",
@@ -7085,10 +7085,10 @@
             }
         ],
         "id": "Move Object (Death)",
-        "name": "Déplacement d'objet (Muerte)"
+        "name": "Mover objecto (Muerte)"
     },
     {
-        "description": "<p>En utilisant la magie, vous aggripez un objet inanimé pas plus grand que vous, et le déplaçez par la seule force de votre colonté, qui est considérée comme ayant une Force égale à votre Force Mentale. Vous pouvez déplacer l'objet jusqu'à une distance en mètres égale à votre Bonus de Force Mentale. Si quelqu'un tente de gêner le déplacement de l'objet, effectuez un Test <strong>Opposé de Force Mentale/Force</strong>.Pour chaque +2 DR, vous pouvez augmenter la distance sur laquelle l'objet est déplacé d'un nombre de mètres égal à votre Bonus de Force Mentale.</p>",
+        "description": "<p>Utilizando la magia, te haces con un objeto no inteligente y que no es más agrende que tú, moviéndolo sólo mediante la mente,  que se considera que tiene una Fuerza igual a tu Voluntad. Puedes intentar mover el objeto tantas yardas como tu Bonificador por Voluntad. Si alguien intenta impedir el movimiento del objeto, se requiere un Chequeo<strong>Enfrentado Voluntad/Fuerza</strong>.Por cada +2 NE, puedes incrementar la distancia a la que se mueve el objeto tantas yardas como tu Bonificador por Voluntad.</p>",
         "effects": [
             {
                 "_id": "M0XIPXQUmIGyF3K9",
@@ -7108,10 +7108,10 @@
             }
         ],
         "id": "Move Object (Fire)",
-        "name": "Déplacement d'objet (Fuego)"
+        "name": "Mover objecto (Fuego)"
     },
     {
-        "description": "<p>En utilisant la magie, vous aggripez un objet inanimé pas plus grand que vous, et le déplaçez par la seule force de votre colonté, qui est considérée comme ayant une Force égale à votre Force Mentale. Vous pouvez déplacer l'objet jusqu'à une distance en mètres égale à votre Bonus de Force Mentale. Si quelqu'un tente de gêner le déplacement de l'objet, effectuez un Test <strong>Opposé de Force Mentale/Force</strong>.Pour chaque +2 DR, vous pouvez augmenter la distance sur laquelle l'objet est déplacé d'un nombre de mètres égal à votre Bonus de Force Mentale.</p>",
+        "description": "<p>Utilizando la magia, te haces con un objeto no inteligente y que no es más agrende que tú, moviéndolo sólo mediante la mente,  que se considera que tiene una Fuerza igual a tu Voluntad. Puedes intentar mover el objeto tantas yardas como tu Bonificador por Voluntad. Si alguien intenta impedir el movimiento del objeto, se requiere un Chequeo<strong>Enfrentado Voluntad/Fuerza</strong>.Por cada +2 NE, puedes incrementar la distancia a la que se mueve el objeto tantas yardas como tu Bonificador por Voluntad.</p>",
         "effects": [
             {
                 "_id": "nyYoxiEE7ZnYKrOt",
@@ -7131,10 +7131,10 @@
             }
         ],
         "id": "Move Object (Heavens)",
-        "name": "Déplacement d'objet (Cielos)"
+        "name": "Mover objecto (Cielos)"
     },
     {
-        "description": "<p>En utilisant la magie, vous aggripez un objet inanimé pas plus grand que vous, et le déplaçez par la seule force de votre colonté, qui est considérée comme ayant une Force égale à votre Force Mentale. Vous pouvez déplacer l'objet jusqu'à une distance en mètres égale à votre Bonus de Force Mentale. Si quelqu'un tente de gêner le déplacement de l'objet, effectuez un Test <strong>Opposé de Force Mentale/Force</strong>.Pour chaque +2 DR, vous pouvez augmenter la distance sur laquelle l'objet est déplacé d'un nombre de mètres égal à votre Bonus de Force Mentale.</p>",
+        "description": "<p>Utilizando la magia, te haces con un objeto no inteligente y que no es más agrende que tú, moviéndolo sólo mediante la mente,  que se considera que tiene una Fuerza igual a tu Voluntad. Puedes intentar mover el objeto tantas yardas como tu Bonificador por Voluntad. Si alguien intenta impedir el movimiento del objeto, se requiere un Chequeo<strong>Enfrentado Voluntad/Fuerza</strong>.Por cada +2 NE, puedes incrementar la distancia a la que se mueve el objeto tantas yardas como tu Bonificador por Voluntad.</p>",
         "effects": [
             {
                 "_id": "OIENrC6dgBe8M7J3",
@@ -7154,10 +7154,10 @@
             }
         ],
         "id": "Move Object (Life)",
-        "name": "Déplacement d'objet (Vida)"
+        "name": "Mover objecto (Vida)"
     },
     {
-        "description": "<p>En utilisant la magie, vous aggripez un objet inanimé pas plus grand que vous, et le déplaçez par la seule force de votre colonté, qui est considérée comme ayant une Force égale à votre Force Mentale. Vous pouvez déplacer l'objet jusqu'à une distance en mètres égale à votre Bonus de Force Mentale. Si quelqu'un tente de gêner le déplacement de l'objet, effectuez un Test <strong>Opposé de Force Mentale/Force</strong>.Pour chaque +2 DR, vous pouvez augmenter la distance sur laquelle l'objet est déplacé d'un nombre de mètres égal à votre Bonus de Force Mentale.</p>",
+        "description": "<p>Utilizando la magia, te haces con un objeto no inteligente y que no es más agrende que tú, moviéndolo sólo mediante la mente,  que se considera que tiene una Fuerza igual a tu Voluntad. Puedes intentar mover el objeto tantas yardas como tu Bonificador por Voluntad. Si alguien intenta impedir el movimiento del objeto, se requiere un Chequeo<strong>Enfrentado Voluntad/Fuerza</strong>.Por cada +2 NE, puedes incrementar la distancia a la que se mueve el objeto tantas yardas como tu Bonificador por Voluntad.</p>",
         "effects": [
             {
                 "_id": "CYCko3nPt59ktqtu",
@@ -7177,10 +7177,10 @@
             }
         ],
         "id": "Move Object (Light)",
-        "name": "Déplacement d'objet (Luz)"
+        "name": "Mover objecto (Luz)"
     },
     {
-        "description": "<p>En utilisant la magie, vous aggripez un objet inanimé pas plus grand que vous, et le déplaçez par la seule force de votre colonté, qui est considérée comme ayant une Force égale à votre Force Mentale. Vous pouvez déplacer l'objet jusqu'à une distance en mètres égale à votre Bonus de Force Mentale. Si quelqu'un tente de gêner le déplacement de l'objet, effectuez un Test <strong>Opposé de Force Mentale/Force</strong>.Pour chaque +2 DR, vous pouvez augmenter la distance sur laquelle l'objet est déplacé d'un nombre de mètres égal à votre Bonus de Force Mentale.</p>",
+        "description": "<p>Utilizando la magia, te haces con un objeto no inteligente y que no es más agrende que tú, moviéndolo sólo mediante la mente,  que se considera que tiene una Fuerza igual a tu Voluntad. Puedes intentar mover el objeto tantas yardas como tu Bonificador por Voluntad. Si alguien intenta impedir el movimiento del objeto, se requiere un Chequeo<strong>Enfrentado Voluntad/Fuerza</strong>.Por cada +2 NE, puedes incrementar la distancia a la que se mueve el objeto tantas yardas como tu Bonificador por Voluntad.</p>",
         "effects": [
             {
                 "_id": "ALeNamBuSv2W2hx4",
@@ -7200,16 +7200,16 @@
             }
         ],
         "id": "Move Object (Metal)",
-        "name": "Déplacement d'objet (Metal)"
+        "name": "Mover objecto (Metal)"
     },
     {
-        "description": "<p>En utilisant la magie, vous aggripez un objet inanimé pas plus grand que vous, et le déplaçez par la seule force de votre colonté, qui est considérée comme ayant une Force égale à votre Force Mentale. Vous pouvez déplacer l'objet jusqu'à une distance en mètres égale à votre Bonus de Force Mentale. Si quelqu'un tente de gêner le déplacement de l'objet, effectuez un Test <strong>Opposé de Force Mentale/Force</strong>.Pour chaque +2 DR, vous pouvez augmenter la distance sur laquelle l'objet est déplacé d'un nombre de mètres égal à votre Bonus de Force Mentale.</p>",
+        "description": "<p>Utilizando la magia, te haces con un objeto no inteligente y que no es más agrende que tú, moviéndolo sólo mediante la mente,  que se considera que tiene una Fuerza igual a tu Voluntad. Puedes intentar mover el objeto tantas yardas como tu Bonificador por Voluntad. Si alguien intenta impedir el movimiento del objeto, se requiere un Chequeo<strong>Enfrentado Voluntad/Fuerza</strong>.Por cada +2 NE, puedes incrementar la distancia a la que se mueve el objeto tantas yardas como tu Bonificador por Voluntad.</p>",
         "effects": [],
         "id": "Move Object (Necromancy)",
-        "name": "Déplacement d'objet (Nigromancia)"
+        "name": "Mover objecto (Nigromancia)"
     },
     {
-        "description": "<p>En utilisant la magie, vous aggripez un objet inanimé pas plus grand que vous, et le déplaçez par la seule force de votre colonté, qui est considérée comme ayant une Force égale à votre Force Mentale. Vous pouvez déplacer l'objet jusqu'à une distance en mètres égale à votre Bonus de Force Mentale. Si quelqu'un tente de gêner le déplacement de l'objet, effectuez un Test <strong>Opposé de Force Mentale/Force</strong>.Pour chaque +2 DR, vous pouvez augmenter la distance sur laquelle l'objet est déplacé d'un nombre de mètres égal à votre Bonus de Force Mentale.</p>",
+        "description": "<p>Utilizando la magia, te haces con un objeto no inteligente y que no es más agrende que tú, moviéndolo sólo mediante la mente,  que se considera que tiene una Fuerza igual a tu Voluntad. Puedes intentar mover el objeto tantas yardas como tu Bonificador por Voluntad. Si alguien intenta impedir el movimiento del objeto, se requiere un Chequeo<strong>Enfrentado Voluntad/Fuerza</strong>.Por cada +2 NE, puedes incrementar la distancia a la que se mueve el objeto tantas yardas como tu Bonificador por Voluntad.</p>",
         "effects": [
             {
                 "_id": "VQO2htgBYSO52Lwb",
@@ -7229,7 +7229,7 @@
             }
         ],
         "id": "Move Object (Shadow)",
-        "name": "Déplacement d'objet (Sombras)"
+        "name": "Mover objecto (Sombras)"
     },
     {
         "description": "<p>Drenas todos los Vientos de la Magia del interior de tu cuerpo y de tus posesiones, eliminando toda aura mágica. Mientras dure el hechizo aparecerás como mundano ante el Talento <em>Sentir magia</em> y similares. En esos momentos no dispones de aptitud mágica y tu naturaleza mágica no puede ser detectada en modo alguno. Mientras este hechizo dura, no puedes lanzar ningún otro. <em>Aura mudana</em> se disipa de inmediato si llevas a cabo un Chequeo de Canalización.</p>",
@@ -8171,7 +8171,7 @@
         "name": "La Faux de Shyish"
     },
     {
-        "description": "<p>Vous invoquez un destrier fantomatique. La chair surnaturelle de la création est noire comme la nuit, et semble parfois aussi solide qu'immatérielle. Utilisez les règles pour un cheval de monte. Quand le Destrier d'Ombre est hors de la Luz du soleil, il gagne également les Traits de Créature suivants : <em>Éthéré, Infravision, Magique, Insensible à la douleur, Furtif, Foulée, Peur (1) et Protection (+9)</em></p>\n<p>&nbsp;</p>\n<p>Même quand ils sont immatériels, les Destriers d'Ombre peuvent être chevauchés. Les cavaliers possédant le Talent <em>Magie des Arcanes (Ombre)</em> le font avec une bonus de +20 au Tests de Chevaucher. Ceux qui ne possèdent pas le Talent subissent une pénalité de -20 aux Tests de Chevaucher. Les Destriers d'Ombre sont infatigables, ils n'ont donc pas besoin de repos (bien que leurs cavaliers, eux, puissent en avoir besoin !). Aux premiers rayons de l'aube pointant à l'horizon, les Destriers se fondent dans la brume. S'ils sont toujours chevauchés quand le Sort prend fin, ou quand il est dissipé, les cavaliers subissent des Dégâts de Chute.</p>",
+        "description": "<p>Vous invoquez un destrier fantomatique. La chair surnaturelle de la création est noire comme la nuit, et semble parfois aussi solide qu'immatérielle. Utilisez les règles pour un cheval de monte. Quand le Destrier d'Ombre est hors de la Luz du soleil, il gagne également les Traits de Créature suivants : <em>Éthéré, Infravision, Magique, Insensible à la douleur, Furtif, Foulée, Peur (1) et Protection (+9)</em></p>\n<p>&nbsp;</p>\n<p>Même quand ils sont immatériels, les Destriers d'Ombre peuvent être chevauchés. Les cavaliers possédant le Talent <em>Magie des Arcanes (Ombre)</em> le font avec une bonus de +20 au Tests de Chevaucher. Ceux qui ne possèdent pas le Talent subissent une pénalité de -20 aux Tests de Chevaucher. Les Destriers d'Ombre sont infatigables, ils n'ont donc pas besoin de repos (bien que leurs cavaliers, eux, puissent en avoir besoin !). Aux premiers rayons de l'aube pointant à l'horizon, les Destriers se fondent dans la brume. S'ils sont toujours chevauchés quand le Sort prend fin, ou quand il est dissipé, les cavaliers subissent des Dégâts de Soltar.</p>",
         "effects": [
             {
                 "_id": "SbXJBxCGleLFmoEQ",
@@ -8549,13 +8549,13 @@
         "name": "Arc de T'essla"
     },
     {
-        "description": "<p>En utilisant la magie, vous pouvez vous téléporter jusqu'à une distance en mètres égale à votre Bonus de Force Mentale. Ce déplacement vous permet de traverser des espaces, d'éviter des dangers et des pièges et d'ignorer les obstacles. Pour chaque +2 DR, vous pouvez augmenter la distance parcourue d'un nombre de mètres égal à votre Bonus de Force Mentale.</p>",
+        "description": "<p>Utilizando tu magia, te puedes teletransportar tantas yardas como tu Bonificador por Voluntad. Este movimiento te permite atravesar grietas, evitar peligros y trampas e ignorar obstáculos. Por cada +2 NE puedes aumentar la distancia recorrida tantas yardas como tu Bonificador por Voluntad.</p>",
         "effects": [],
         "id": "Teleport",
-        "name": "Téléportation"
+        "name": "Teletransporte"
     },
     {
-        "description": "<p>En utilisant la magie, vous pouvez vous téléporter jusqu'à une distance en mètres égale à votre Bonus de Force Mentale. Ce déplacement vous permet de traverser des espaces, d'éviter des dangers et des pièges et d'ignorer les obstacles. Pour chaque +2 DR, vous pouvez augmenter la distance parcourue d'un nombre de mètres égal à votre Bonus de Force Mentale.</p>",
+        "description": "<p>Utilizando tu magia, te puedes teletransportar tantas yardas como tu Bonificador por Voluntad. Este movimiento te permite atravesar grietas, evitar peligros y trampas e ignorar obstáculos. Por cada +2 NE puedes aumentar la distancia recorrida tantas yardas como tu Bonificador por Voluntad.</p>",
         "effects": [
             {
                 "_id": "A7tybqDQrIIa2LAK",
@@ -8575,16 +8575,16 @@
             }
         ],
         "id": "Teleport (Beasts)",
-        "name": "Téléportation (Bestias)"
+        "name": "Teletransporte (Bestias)"
     },
     {
-        "description": "<p>En utilisant la magie, vous pouvez vous téléporter jusqu'à une distance en mètres égale à votre Bonus de Force Mentale. Ce déplacement vous permet de traverser des espaces, d'éviter des dangers et des pièges et d'ignorer les obstacles. Pour chaque +2 DR, vous pouvez augmenter la distance parcourue d'un nombre de mètres égal à votre Bonus de Force Mentale.</p>",
+        "description": "<p>Utilizando tu magia, te puedes teletransportar tantas yardas como tu Bonificador por Voluntad. Este movimiento te permite atravesar grietas, evitar peligros y trampas e ignorar obstáculos. Por cada +2 NE puedes aumentar la distancia recorrida tantas yardas como tu Bonificador por Voluntad.</p>",
         "effects": [],
         "id": "Teleport (Daemonology)",
-        "name": "Téléportation (Demonologia)"
+        "name": "Teletransporte (Demonologia)"
     },
     {
-        "description": "<p>En utilisant la magie, vous pouvez vous téléporter jusqu'à une distance en mètres égale à votre Bonus de Force Mentale. Ce déplacement vous permet de traverser des espaces, d'éviter des dangers et des pièges et d'ignorer les obstacles. Pour chaque +2 DR, vous pouvez augmenter la distance parcourue d'un nombre de mètres égal à votre Bonus de Force Mentale.</p>",
+        "description": "<p>Utilizando tu magia, te puedes teletransportar tantas yardas como tu Bonificador por Voluntad. Este movimiento te permite atravesar grietas, evitar peligros y trampas e ignorar obstáculos. Por cada +2 NE puedes aumentar la distancia recorrida tantas yardas como tu Bonificador por Voluntad.</p>",
         "effects": [
             {
                 "_id": "VE0fdr5JAaQuXevA",
@@ -8604,10 +8604,10 @@
             }
         ],
         "id": "Teleport (Death)",
-        "name": "Téléportation (Muerte)"
+        "name": "Teletransporte (Muerte)"
     },
     {
-        "description": "<p>En utilisant la magie, vous pouvez vous téléporter jusqu'à une distance en mètres égale à votre Bonus de Force Mentale. Ce déplacement vous permet de traverser des espaces, d'éviter des dangers et des pièges et d'ignorer les obstacles. Pour chaque +2 DR, vous pouvez augmenter la distance parcourue d'un nombre de mètres égal à votre Bonus de Force Mentale.</p>",
+        "description": "<p>Utilizando tu magia, te puedes teletransportar tantas yardas como tu Bonificador por Voluntad. Este movimiento te permite atravesar grietas, evitar peligros y trampas e ignorar obstáculos. Por cada +2 NE puedes aumentar la distancia recorrida tantas yardas como tu Bonificador por Voluntad.</p>",
         "effects": [
             {
                 "_id": "CBxHqZRrqTZn8J0D",
@@ -8627,10 +8627,10 @@
             }
         ],
         "id": "Teleport (Fire)",
-        "name": "Téléportation (Fuego)"
+        "name": "Teletransporte (Fuego)"
     },
     {
-        "description": "<p>En utilisant la magie, vous pouvez vous téléporter jusqu'à une distance en mètres égale à votre Bonus de Force Mentale. Ce déplacement vous permet de traverser des espaces, d'éviter des dangers et des pièges et d'ignorer les obstacles. Pour chaque +2 DR, vous pouvez augmenter la distance parcourue d'un nombre de mètres égal à votre Bonus de Force Mentale.</p>",
+        "description": "<p>Utilizando tu magia, te puedes teletransportar tantas yardas como tu Bonificador por Voluntad. Este movimiento te permite atravesar grietas, evitar peligros y trampas e ignorar obstáculos. Por cada +2 NE puedes aumentar la distancia recorrida tantas yardas como tu Bonificador por Voluntad.</p>",
         "effects": [
             {
                 "_id": "vLQcHI2UCsJYHZA2",
@@ -8650,10 +8650,10 @@
             }
         ],
         "id": "Teleport (Heavens)",
-        "name": "Téléportation (Cielos)"
+        "name": "Teletransporte (Cielos)"
     },
     {
-        "description": "<p>En utilisant la magie, vous pouvez vous téléporter jusqu'à une distance en mètres égale à votre Bonus de Force Mentale. Ce déplacement vous permet de traverser des espaces, d'éviter des dangers et des pièges et d'ignorer les obstacles. Pour chaque +2 DR, vous pouvez augmenter la distance parcourue d'un nombre de mètres égal à votre Bonus de Force Mentale.</p>",
+        "description": "<p>Utilizando tu magia, te puedes teletransportar tantas yardas como tu Bonificador por Voluntad. Este movimiento te permite atravesar grietas, evitar peligros y trampas e ignorar obstáculos. Por cada +2 NE puedes aumentar la distancia recorrida tantas yardas como tu Bonificador por Voluntad.</p>",
         "effects": [
             {
                 "_id": "APuaHCzXFNOv4npb",
@@ -8673,10 +8673,10 @@
             }
         ],
         "id": "Teleport (Life)",
-        "name": "Téléportation (Vida)"
+        "name": "Teletransporte (Vida)"
     },
     {
-        "description": "<p>En utilisant la magie, vous pouvez vous téléporter jusqu'à une distance en mètres égale à votre Bonus de Force Mentale. Ce déplacement vous permet de traverser des espaces, d'éviter des dangers et des pièges et d'ignorer les obstacles. Pour chaque +2 DR, vous pouvez augmenter la distance parcourue d'un nombre de mètres égal à votre Bonus de Force Mentale.</p>",
+        "description": "<p>Utilizando tu magia, te puedes teletransportar tantas yardas como tu Bonificador por Voluntad. Este movimiento te permite atravesar grietas, evitar peligros y trampas e ignorar obstáculos. Por cada +2 NE puedes aumentar la distancia recorrida tantas yardas como tu Bonificador por Voluntad.</p>",
         "effects": [
             {
                 "_id": "tuM6gkMUM5mbCi0a",
@@ -8696,10 +8696,10 @@
             }
         ],
         "id": "Teleport (Light)",
-        "name": "Téléportation (Luz)"
+        "name": "Teletransporte (Luz)"
     },
     {
-        "description": "<p>En utilisant la magie, vous pouvez vous téléporter jusqu'à une distance en mètres égale à votre Bonus de Force Mentale. Ce déplacement vous permet de traverser des espaces, d'éviter des dangers et des pièges et d'ignorer les obstacles. Pour chaque +2 DR, vous pouvez augmenter la distance parcourue d'un nombre de mètres égal à votre Bonus de Force Mentale.</p>",
+        "description": "<p>Utilizando tu magia, te puedes teletransportar tantas yardas como tu Bonificador por Voluntad. Este movimiento te permite atravesar grietas, evitar peligros y trampas e ignorar obstáculos. Por cada +2 NE puedes aumentar la distancia recorrida tantas yardas como tu Bonificador por Voluntad.</p>",
         "effects": [
             {
                 "_id": "8yVFAKonbiQ0hdbd",
@@ -8719,16 +8719,16 @@
             }
         ],
         "id": "Teleport (Metal)",
-        "name": "Téléportation (Metal)"
+        "name": "Teletransporte (Metal)"
     },
     {
-        "description": "<p>En utilisant la magie, vous pouvez vous téléporter jusqu'à une distance en mètres égale à votre Bonus de Force Mentale. Ce déplacement vous permet de traverser des espaces, d'éviter des dangers et des pièges et d'ignorer les obstacles. Pour chaque +2 DR, vous pouvez augmenter la distance parcourue d'un nombre de mètres égal à votre Bonus de Force Mentale.</p>",
+        "description": "<p>Utilizando tu magia, te puedes teletransportar tantas yardas como tu Bonificador por Voluntad. Este movimiento te permite atravesar grietas, evitar peligros y trampas e ignorar obstáculos. Por cada +2 NE puedes aumentar la distancia recorrida tantas yardas como tu Bonificador por Voluntad.</p>",
         "effects": [],
         "id": "Teleport (Necromancy)",
-        "name": "Téléportation (Nigromancia)"
+        "name": "Teletransporte (Nigromancia)"
     },
     {
-        "description": "<p>En utilisant la magie, vous pouvez vous téléporter jusqu'à une distance en mètres égale à votre Bonus de Force Mentale. Ce déplacement vous permet de traverser des espaces, d'éviter des dangers et des pièges et d'ignorer les obstacles. Pour chaque +2 DR, vous pouvez augmenter la distance parcourue d'un nombre de mètres égal à votre Bonus de Force Mentale.</p>",
+        "description": "<p>Utilizando tu magia, te puedes teletransportar tantas yardas como tu Bonificador por Voluntad. Este movimiento te permite atravesar grietas, evitar peligros y trampas e ignorar obstáculos. Por cada +2 NE puedes aumentar la distancia recorrida tantas yardas como tu Bonificador por Voluntad.</p>",
         "effects": [
             {
                 "_id": "TFTDwFlfmaQFGb0h",
@@ -8748,7 +8748,7 @@
             }
         ],
         "id": "Teleport (Shadow)",
-        "name": "Téléportation (Sombras)"
+        "name": "Teletransporte (Sombras)"
     },
     {
         "description": "<p>&nbsp;</p>\n<p>Vous gagnez le Trait de créature Terreur (1).</p>\n<p>&nbsp;</p>\n<blockquote>\n<p>Certaines créatures sont si profondément perturbantes qu'elles parVidannent à provoquer une terreur glaçante auprès de leurs adversaires. Lorsque vous rencontrez pour la première fois une créature qui inspire la Terreur, effectuez un Test de Psychologie. Sur un succès, vous ne subissez aucun effet supplémentaire à cause de la Terreur. Sur un échec, vous gagnez autant l'État Brisé que l'Indice de Terreur de la créature, auquel vous rajoutez les DR inférieurs à 0.</p>\n<p>&nbsp;</p>\n<p>Une fois ce test de Psychologie effectué, la créature cause la Peur, avec un Indice de Peur équivalent à son Indice de Terreur.</p>\n</blockquote>\n<p>&nbsp;</p>",
