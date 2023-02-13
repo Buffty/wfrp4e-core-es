@@ -4309,7 +4309,7 @@
         "name": "Jumeau maléfique"
     },
     {
-        "description": "<p>Tocas a tus objetivos, drenando su fuerza vital. Esto cuenta como un proyectil mágico con Daño +0, que ignora los puntos de ARmadura. A continuación, te curas 1 Herida.</p>",
+        "description": "<p>Tocas a tus objetivos, drenando su fuerza vital. Esto cuenta como un proyectil mágico con Daño +0, que ignora los puntos de Armadura. A continuación, te curas 1 Herida.</p>",
         "effects": [
             {
                 "_id": "iDhfCzLVKQ90SdAN",
@@ -4543,7 +4543,7 @@
         "name": "Soltar (Sombras)"
     },
     {
-        "description": "<p>En touchant le corps d'une créature récemment disparue (lors de la journée précédente), vous rappelez brièvement son âme. Pour la durée du Sort, vous pouvez communiquer avec elle, bien qu'elle ne puisse rien faire d'autre que parler. Elle n'est pas forcée de vous répondre, mais elle ne ment pas.</p>",
+        "description": "<p>Tocando el cuerpo de alguien recientemente fallecido (que muriera en las últimas 24 horas), llamas de vuelta brevemente a su alma. Mientras dura el hechizo, te puedes comunicar con el alma del fallecido, aunque éste no puede llevar a cabo otra acción que hablar. No está obligado a responderte, pero los muertos no mienten.</p>",
         "effects": [
             {
                 "_id": "c1LDvMjpw7la180m",
@@ -4563,10 +4563,10 @@
             }
         ],
         "id": "Dying Words",
-        "name": "Dernières paroles"
+        "name": "Últimas palabras"
     },
     {
-        "description": "<p>Pour lancer ce Sort, vous devez être debout et pieds nus, en contact direct avec la terre. Pour la durée du Sort, toutes les créatures également en contact direct avec la terre à l'intérieur de la Zone d'Effet guérisseent d'un nombre de Blessures égal à votre Bonus de Force Mentale au début de chaque round.</p>",
+        "description": "<p>Para lanzar este hechizo, debes estar en contacto directo con el suelo. Estar descalzo cuenta. Mientras dura el hechizo, toda criatura en contacto directo con el suelo dentro del Área de Efecto se cura tantas Heridas como tu Bonificador por Voluntad al inicio de cada Asalto.</p>",
         "effects": [
             {
                 "_id": "c32DjCbePouMb7cz",
@@ -4589,7 +4589,7 @@
                       }
                 },
                 "icon": "modules/wfrp4e-core/icons/spells/earthblood.png",
-                "label": "Sang de la Terre",
+                "label": "Sangre terrenal",
                 "tint": "",
                 "transfer": false
             },
@@ -4611,10 +4611,10 @@
             }
         ],
         "id": "Earthblood",
-        "name": "Sang de la Terre"
+        "name": "Sangre terrenal"
     },
     {
-        "description": "<p>En lançant ce Sort, vous disparaissez immédiatement dans le sol, dans un torrent sauvage de <em>Ghyran</em>. Vous apparaissez au début du prochain round à n'importe quel endroit situé à n'importe quel endroit situé à une distance en mètres égale à votre Force Mentale, faisant violemment irruption de la terre. Pour chaque +2 DR, vous pouvez augmenter la distance parcourue d'un nombre de mètres égal à votre Force Mentale. Tous les ennemis que vous avez Engagés lors de votre apparition gagnent l'État <em>Surpris</em>. Ce Sort ne vous permettra pas de vous déplacer à travers la pierre, mais vous permettra de vous déplacer à travers l'eau.</p>",
+        "description": "<p>Al lanzar el hechizo, desapareces de inmediato en el suelo en medio de un torrente salvaje de <em>Ghyran</em>. Apareces al inicio del siguiente Asalto en cualquier punto a una distancia en yardas menor o igual que tu Voluntad, surgiendo violentamente de la tierra. Por cada +2 NE puedes aumentar la distancia recorrida en tantas yardas como tu Voluntad. Todos los enemigos a quienes te enfrentes cuando aparezcas sufrirán 1 Estado de <em>Sorprendido</em>. Este hechizo no te permite moverte a través de la piedra, pero sí a través del agua.</p>",
         "effects": [
             {
                 "_id": "o3F68LyalFnyxZD7",
@@ -4634,16 +4634,16 @@
             }
         ],
         "id": "Earthpool",
-        "name": "Eau de la terre"
+        "name": "Manantial de la tierra"
     },
     {
-        "description": "<p>Puedes oír lo que dicen tus objetivos como si estuVidaras junto a ellos..</p>",
+        "description": "<p>Puedes oír lo que dicen tus objetivos como si estuvieras junto a ellos..</p>",
         "effects": [],
         "id": "Eavesdrop",
         "name": "Escuchar"
     },
     {
-        "description": "<p>Vous enveloppez une arme non magique de lourdes bandes de Chamon, ce qui améliore sa puissance. Pour la durée du Sort, l'arme est considérée comme Magique et gagne un bonus au Dégâts égal à votre Bonus de Force Mentale, et l'Atout <em>Incassable</em> Quality. Pour chaque +3 DR, vous pouvez aussi ajouter + Atout ou retirer 1 Défaut de l'arme, tant que le Sort est actif.</p>",
+        "description": "<p>Envuelves un solo objeto no mágico en gruesas bandas de <em>Chamon</em>, mejorando su potencia. Mientras dure el hechizo contará como mágico, obtendrá un Bonificador al Daño igual a tu Bonificador por Voluntad y además tendrá la Cualidad <em>Irrompible</em>. Por cada +3 NE podrás añadir 1 Cualidad o eliminar 1 Defecto del arma mientras dure el hechizo.</p>",
         "effects": [
             {
                 "_id": "VaLCOzVKbzKHZS17",
@@ -4663,10 +4663,10 @@
             }
         ],
         "id": "Enchant Weapon",
-        "name": "Arme enchantée"
+        "name": "Hechizar el arma"
     },
     {
-        "description": "<p>En utilisant la magie, vous piégez votre cible, l'enveloppant dans tout ce qui conVidant à votre Domaine : des vignes graimpantes, des Sombras, ses propres vêtements... Votre cible gagnez un État <em>Empêtré</em> d'une Force égale à votre Intelligence. Pour chaque +2 DR, vous pouvez donner +1 État Empêtré à la cible. Le Sort dure jusqu'à ce que tous les États Empêtré soient retirés</p>",
+        "description": "<p>Utilizando la magia, inmovilizas a tu objetivo, envolviéndole en lo que mejor encaja con tu Saber: zarcillos, sombras, su propia ropa... Tu objetivo sufre 1 Estado de <em>Enmarañado</em> con una Fuerza igual a tu Inteligencia. Por cada +2 NE, puedes imponer al objetivo +1 Estado adicional de <em>Enmarañado</em>. El hechizo dura hasta que se eliminan todos los Estados de <em>Enmarañado</em>.</p>",
         "effects": [
             {
                 "_id": "rkdNgKmock9JyCuI",
@@ -4689,16 +4689,16 @@
                     }
                 },
                 "icon": "modules/wfrp4e-core/icons/blank.png",
-                "label": "Enchevêtrement",
+                "label": "Enmarañar",
                 "tint": "",
                 "transfer": false
             }
         ],
         "id": "Entangle",
-        "name": "Enchevêtrement"
+        "name": "Enmarañar"
     },
     {
-        "description": "<p>En utilisant la magie, vous piégez votre cible, l'enveloppant dans tout ce qui conVidant à votre Domaine : des vignes graimpantes, des Sombras, ses propres vêtements... Votre cible gagnez un État <em>Empêtré</em> d'une Force égale à votre Intelligence. Pour chaque +2 DR, vous pouvez donner +1 État Empêtré à la cible. Le Sort dure jusqu'à ce que tous les États Empêtré soient retirés</p>",
+        "description": "<p>Utilizando la magia, inmovilizas a tu objetivo, envolviéndole en lo que mejor encaja con tu Saber: zarcillos, sombras, su propia ropa... Tu objetivo sufre 1 Estado de <em>Enmarañado</em> con una Fuerza igual a tu Inteligencia. Por cada +2 NE, puedes imponer al objetivo +1 Estado adicional de <em>Enmarañado</em>. El hechizo dura hasta que se eliminan todos los Estados de <em>Enmarañado</em>.</p>",
         "effects": [
             {
                 "_id": "sKt0LZW6GhLfOIG0",
@@ -4721,7 +4721,7 @@
                     }
                 },
                 "icon": "modules/wfrp4e-core/icons/spells/beasts.png",
-                "label": "Enchevêtrement (Bestias)",
+                "label": "Enmarañar (Bestias)",
                 "tint": "",
                 "transfer": false
             },
@@ -4743,10 +4743,10 @@
             }
         ],
         "id": "Entangle (Beasts)",
-        "name": "Enchevêtrement (Bestias)"
+        "name": "Enmarañar (Bestias)"
     },
     {
-        "description": "<p>En utilisant la magie, vous piégez votre cible, l'enveloppant dans tout ce qui conVidant à votre Domaine : des vignes graimpantes, des Sombras, ses propres vêtements... Votre cible gagnez un État <em>Empêtré</em> d'une Force égale à votre Intelligence. Pour chaque +2 DR, vous pouvez donner +1 État Empêtré à la cible. Le Sort dure jusqu'à ce que tous les États Empêtré soient retirés</p>",
+        "description": "<p>Utilizando la magia, inmovilizas a tu objetivo, envolviéndole en lo que mejor encaja con tu Saber: zarcillos, sombras, su propia ropa... Tu objetivo sufre 1 Estado de <em>Enmarañado</em> con una Fuerza igual a tu Inteligencia. Por cada +2 NE, puedes imponer al objetivo +1 Estado adicional de <em>Enmarañado</em>. El hechizo dura hasta que se eliminan todos los Estados de <em>Enmarañado</em>.</p>",
         "effects": [
             {
                 "_id": "TqTR2863RzMSKYQI",
@@ -4769,16 +4769,16 @@
                     }
                 },
                 "icon": "modules/wfrp4e-core/icons/spells/daemonology.png",
-                "label": "Enchevêtrement (Demonologia)",
+                "label": "Enmarañar (Demonologia)",
                 "tint": "",
                 "transfer": false
             }
         ],
         "id": "Entangle (Daemonology)",
-        "name": "Enchevêtrement (Demonologia)"
+        "name": "Enmarañar (Demonologia)"
     },
     {
-        "description": "<p>En utilisant la magie, vous piégez votre cible, l'enveloppant dans tout ce qui conVidant à votre Domaine : des vignes graimpantes, des Sombras, ses propres vêtements... Votre cible gagnez un État <em>Empêtré</em> d'une Force égale à votre Intelligence. Pour chaque +2 DR, vous pouvez donner +1 État Empêtré à la cible. Le Sort dure jusqu'à ce que tous les États Empêtré soient retirés</p>",
+        "description": "<p>Utilizando la magia, inmovilizas a tu objetivo, envolviéndole en lo que mejor encaja con tu Saber: zarcillos, sombras, su propia ropa... Tu objetivo sufre 1 Estado de <em>Enmarañado</em> con una Fuerza igual a tu Inteligencia. Por cada +2 NE, puedes imponer al objetivo +1 Estado adicional de <em>Enmarañado</em>. El hechizo dura hasta que se eliminan todos los Estados de <em>Enmarañado</em>.</p>",
         "effects": [
             {
                 "_id": "Mu3WnR09smrosiup",
@@ -4801,7 +4801,7 @@
                     }
                 },
                 "icon": "modules/wfrp4e-core/icons/spells/death.png",
-                "label": "Enchevêtrement (Muerte)",
+                "label": "Enmarañar (Muerte)",
                 "tint": "",
                 "transfer": false
             },
@@ -4823,10 +4823,10 @@
             }
         ],
         "id": "Entangle (Death)",
-        "name": "Enchevêtrement (Muerte)"
+        "name": "Enmarañar (Muerte)"
     },
     {
-        "description": "<p>En utilisant la magie, vous piégez votre cible, l'enveloppant dans tout ce qui conVidant à votre Domaine : des vignes graimpantes, des Sombras, ses propres vêtements... Votre cible gagnez un État <em>Empêtré</em> d'une Force égale à votre Intelligence. Pour chaque +2 DR, vous pouvez donner +1 État Empêtré à la cible. Le Sort dure jusqu'à ce que tous les États Empêtré soient retirés</p>",
+        "description": "<p>Utilizando la magia, inmovilizas a tu objetivo, envolviéndole en lo que mejor encaja con tu Saber: zarcillos, sombras, su propia ropa... Tu objetivo sufre 1 Estado de <em>Enmarañado</em> con una Fuerza igual a tu Inteligencia. Por cada +2 NE, puedes imponer al objetivo +1 Estado adicional de <em>Enmarañado</em>. El hechizo dura hasta que se eliminan todos los Estados de <em>Enmarañado</em>.</p>",
         "effects": [
             {
                 "_id": "B52dKwx9m9yq1GzC",
@@ -4849,7 +4849,7 @@
                     }
                 },
                 "icon": "modules/wfrp4e-core/icons/spells/fire.png",
-                "label": "Enchevêtrement (Fuego)",
+                "label": "Enmarañar (Fuego)",
                 "tint": "",
                 "transfer": false
             },
@@ -4871,10 +4871,10 @@
             }
         ],
         "id": "Entangle (Fire)",
-        "name": "Enchevêtrement (Fuego)"
+        "name": "Enmarañar (Fuego)"
     },
     {
-        "description": "<p>En utilisant la magie, vous piégez votre cible, l'enveloppant dans tout ce qui conVidant à votre Domaine : des vignes graimpantes, des Sombras, ses propres vêtements... Votre cible gagnez un État <em>Empêtré</em> d'une Force égale à votre Intelligence. Pour chaque +2 DR, vous pouvez donner +1 État Empêtré à la cible. Le Sort dure jusqu'à ce que tous les États Empêtré soient retirés</p>",
+        "description": "<p>Utilizando la magia, inmovilizas a tu objetivo, envolviéndole en lo que mejor encaja con tu Saber: zarcillos, sombras, su propia ropa... Tu objetivo sufre 1 Estado de <em>Enmarañado</em> con una Fuerza igual a tu Inteligencia. Por cada +2 NE, puedes imponer al objetivo +1 Estado adicional de <em>Enmarañado</em>. El hechizo dura hasta que se eliminan todos los Estados de <em>Enmarañado</em>.</p>",
         "effects": [
             {
                 "_id": "w3c2vrbpu05qJ3kM",
@@ -4897,7 +4897,7 @@
                     }
                 },
                 "icon": "modules/wfrp4e-core/icons/spells/heavens.png",
-                "label": "Enchevêtrement (Cielos)",
+                "label": "Enmarañar (Cielos)",
                 "tint": "",
                 "transfer": false
             },
@@ -4919,10 +4919,10 @@
             }
         ],
         "id": "Entangle (Heavens)",
-        "name": "Enchevêtrement (Cielos)"
+        "name": "Enmarañar (Cielos)"
     },
     {
-        "description": "<p>En utilisant la magie, vous piégez votre cible, l'enveloppant dans tout ce qui conVidant à votre Domaine : des vignes graimpantes, des Sombras, ses propres vêtements... Votre cible gagnez un État <em>Empêtré</em> d'une Force égale à votre Intelligence. Pour chaque +2 DR, vous pouvez donner +1 État Empêtré à la cible. Le Sort dure jusqu'à ce que tous les États Empêtré soient retirés</p>",
+        "description": "<p>Utilizando la magia, inmovilizas a tu objetivo, envolviéndole en lo que mejor encaja con tu Saber: zarcillos, sombras, su propia ropa... Tu objetivo sufre 1 Estado de <em>Enmarañado</em> con una Fuerza igual a tu Inteligencia. Por cada +2 NE, puedes imponer al objetivo +1 Estado adicional de <em>Enmarañado</em>. El hechizo dura hasta que se eliminan todos los Estados de <em>Enmarañado</em>.</p>",
         "effects": [
             {
                 "_id": "X1I1tLDoMesU8nf1",
@@ -4945,7 +4945,7 @@
                     }
                 },
                 "icon": "modules/wfrp4e-core/icons/spells/life.png",
-                "label": "Enchevêtrement (Vida)",
+                "label": "Enmarañar (Vida)",
                 "tint": "",
                 "transfer": false
             },
@@ -4967,10 +4967,10 @@
             }
         ],
         "id": "Entangle (Life)",
-        "name": "Enchevêtrement (Vida)"
+        "name": "Enmarañar (Vida)"
     },
     {
-        "description": "<p>En utilisant la magie, vous piégez votre cible, l'enveloppant dans tout ce qui conVidant à votre Domaine : des vignes graimpantes, des Sombras, ses propres vêtements... Votre cible gagnez un État <em>Empêtré</em> d'une Force égale à votre Intelligence. Pour chaque +2 DR, vous pouvez donner +1 État Empêtré à la cible. Le Sort dure jusqu'à ce que tous les États Empêtré soient retirés</p>",
+        "description": "<p>Utilizando la magia, inmovilizas a tu objetivo, envolviéndole en lo que mejor encaja con tu Saber: zarcillos, sombras, su propia ropa... Tu objetivo sufre 1 Estado de <em>Enmarañado</em> con una Fuerza igual a tu Inteligencia. Por cada +2 NE, puedes imponer al objetivo +1 Estado adicional de <em>Enmarañado</em>. El hechizo dura hasta que se eliminan todos los Estados de <em>Enmarañado</em>.</p>",
         "effects": [
             {
                 "_id": "8pi3tkafhSjeT3tQ",
@@ -4993,7 +4993,7 @@
                     }
                 },
                 "icon": "modules/wfrp4e-core/icons/spells/light.png",
-                "label": "Enchevêtrement (Luz)",
+                "label": "Enmarañar (Luz)",
                 "tint": "",
                 "transfer": false
             },
@@ -5015,10 +5015,10 @@
             }
         ],
         "id": "Entangle (Light)",
-        "name": "Enchevêtrement (Luz)"
+        "name": "Enmarañar (Luz)"
     },
     {
-        "description": "<p>En utilisant la magie, vous piégez votre cible, l'enveloppant dans tout ce qui conVidant à votre Domaine : des vignes graimpantes, des Sombras, ses propres vêtements... Votre cible gagnez un État <em>Empêtré</em> d'une Force égale à votre Intelligence. Pour chaque +2 DR, vous pouvez donner +1 État Empêtré à la cible. Le Sort dure jusqu'à ce que tous les États Empêtré soient retirés</p>",
+        "description": "<p>Utilizando la magia, inmovilizas a tu objetivo, envolviéndole en lo que mejor encaja con tu Saber: zarcillos, sombras, su propia ropa... Tu objetivo sufre 1 Estado de <em>Enmarañado</em> con una Fuerza igual a tu Inteligencia. Por cada +2 NE, puedes imponer al objetivo +1 Estado adicional de <em>Enmarañado</em>. El hechizo dura hasta que se eliminan todos los Estados de <em>Enmarañado</em>.</p>",
         "effects": [
             {
                 "_id": "Y2WsEoBoIBZjynji",
@@ -5041,7 +5041,7 @@
                     }
                 },
                 "icon": "modules/wfrp4e-core/icons/spells/metal.png",
-                "label": "Enchevêtrement (Metal)",
+                "label": "Enmarañar (Metal)",
                 "tint": "",
                 "transfer": false
             },
@@ -5063,10 +5063,10 @@
             }
         ],
         "id": "Entangle (Metal)",
-        "name": "Enchevêtrement (Metal)"
+        "name": "Enmarañar (Metal)"
     },
     {
-        "description": "<p>En utilisant la magie, vous piégez votre cible, l'enveloppant dans tout ce qui conVidant à votre Domaine : des vignes graimpantes, des Sombras, ses propres vêtements... Votre cible gagnez un État <em>Empêtré</em> d'une Force égale à votre Intelligence. Pour chaque +2 DR, vous pouvez donner +1 État Empêtré à la cible. Le Sort dure jusqu'à ce que tous les États Empêtré soient retirés</p>",
+        "description": "<p>Utilizando la magia, inmovilizas a tu objetivo, envolviéndole en lo que mejor encaja con tu Saber: zarcillos, sombras, su propia ropa... Tu objetivo sufre 1 Estado de <em>Enmarañado</em> con una Fuerza igual a tu Inteligencia. Por cada +2 NE, puedes imponer al objetivo +1 Estado adicional de <em>Enmarañado</em>. El hechizo dura hasta que se eliminan todos los Estados de <em>Enmarañado</em>.</p>",
         "effects": [
             {
                 "_id": "HV1cfQWe71Z1D8iA",
@@ -5089,16 +5089,16 @@
                     }
                 },
                 "icon": "modules/wfrp4e-core/icons/spells/necromancy.png",
-                "label": "Enchevêtrement (Nigromancia)",
+                "label": "Enmarañar (Nigromancia)",
                 "tint": "",
                 "transfer": false
             }
         ],
         "id": "Entangle (Necromancy)",
-        "name": "Enchevêtrement (Nigromancia)"
+        "name": "Enmarañar (Nigromancia)"
     },
     {
-        "description": "<p>En utilisant la magie, vous piégez votre cible, l'enveloppant dans tout ce qui conVidant à votre Domaine : des vignes graimpantes, des Sombras, ses propres vêtements... Votre cible gagnez un État <em>Empêtré</em> d'une Force égale à votre Intelligence. Pour chaque +2 DR, vous pouvez donner +1 État Empêtré à la cible. Le Sort dure jusqu'à ce que tous les États Empêtré soient retirés</p>",
+        "description": "<p>Utilizando la magia, inmovilizas a tu objetivo, envolviéndole en lo que mejor encaja con tu Saber: zarcillos, sombras, su propia ropa... Tu objetivo sufre 1 Estado de <em>Enmarañado</em> con una Fuerza igual a tu Inteligencia. Por cada +2 NE, puedes imponer al objetivo +1 Estado adicional de <em>Enmarañado</em>. El hechizo dura hasta que se eliminan todos los Estados de <em>Enmarañado</em>.</p>",
         "effects": [
             {
                 "_id": "xkRZK1nvJTYpZY2l",
@@ -5121,7 +5121,7 @@
                     }
                 },
                 "icon": "modules/wfrp4e-core/icons/spells/shadow.png",
-                "label": "Enchevêtrement (Sombras)",
+                "label": "Enmarañar (Sombras)",
                 "tint": "",
                 "transfer": false
             },
@@ -5143,10 +5143,10 @@
             }
         ],
         "id": "Entangle (Shadow)",
-        "name": "Enchevêtrement (Sombras)"
+        "name": "Enmarañar (Sombras)"
     },
     {
-        "description": "<p>Vous inondez le corps de la cible du si nourrissant <em>Ghyran</em>. Elle n'a pas besoin de manger ou de boire, mais elle excrétera normalement, bien que les humeurs soient d'un vert intense.</p>",
+        "description": "<p>Inundas el cuerpo del objetivo con el nutritivo <em>Ghyran</em>. El objetivo no necesita comer ni beber, pero sigue excretando de la forma habitual, aunque cualquier residuo será de un color verde intenso.</p>",
         "effects": [
             {
                 "_id": "3x85FIBIQ6WHgzaV",
@@ -5166,10 +5166,10 @@
             }
         ],
         "id": "Fat of the Land",
-        "name": "Graisse de la terre"
+        "name": "Grasa de la tierra"
     },
     {
-        "description": "<p>Tous les alliés situés dans la Zone d'Effet, y compris ceux qui possèdent le Talent <em>Magie des Arcanes (Cielos)</em>, forment une unique réserve pour leurs Points de Chance. Tous peuvent piocher dans la réserve, premier arrivé, premier servi. Quand le Sort prend fin, vous réallouez les Points de Chance, aussi équitablement que possible.</p>",
+        "description": "<p>Todos los aliados en el Área de efecto, excluyendo quienes tienen el Talento <em>Magia arcana (Cielos)</em>, crean una sola reserva de puntos de Fortuna. Todos pueden utilizar dicha reserva, por orden de llegada. Cuando el hechizo se acaba, redistribuyes los puntos de Fortuna restantes de la forma más justa posible.</p>",
         "effects": [
             {
                 "_id": "IUzrBAqS6K1U9jch",
@@ -5189,10 +5189,10 @@
             }
         ],
         "id": "Fate’s Fickle Fingers",
-        "name": "Ironie du Destin"
+        "name": "Volubles dedos del Destino"
     },
     {
-        "description": "<p>En vous recouvrant de magie, vous devenez effrayant et intimidant. Gagnez Peur 1. Pour chaque +3 DR, vous pouvez augmenter votre valeur de Peur de un.</p>\n<blockquote>\n<p>La Peur représente une aversion extrême pour quelque chose. Les créatures qui causent la Peur possèdent un Indice de Peur ; cette valeur représente le DR que vous devez atteindre lorsque vous effectuez votre Test étendu de Calme pour vaincre cette Peur.</p>\n<p>&nbsp;</p>\n<p>Lorsque vous êtes sous le coup de la Peur, vous subissez -1 DR à tous les Tests en rapport avec la source de votre peur. Vous êtes incapable de vous rapprocher de ce qui provoque cette Peur à moins de réussir un Test de <strong>Calme Intermédiaire (+0)</strong>.Si la source de votre Peur se rapproche de vous, vous devez réussir un Test de <strong>Calme Intermédiaire (+0)</strong> ou de gagner un État Brisé</p>\n<p>&nbsp;</p>\n</blockquote>",
+        "description": "<p>Envolviéndote en magia, te vuelves terrible e intimidante. Obtienes Miedo (1). Por cada +3 NE, puedes incrementar en 1 tu puntuación de Miedo. ",
         "effects": [
             {
                 "_id": "yYOb3L5u9zzOpA1a",
@@ -5215,7 +5215,7 @@
                     }
                 },
                 "icon": "modules/wfrp4e-core/icons/blank.png",
-                "label": "Effrayant",
+                "label": "Temible",
                 "tint": "",
                 "transfer": false
             },
@@ -5240,16 +5240,16 @@
                       }
                 },
                 "icon": "modules/wfrp4e-core/icons/blank.png",
-                "label": "Effrayant",
+                "label": "Temible",
                 "tint": "",
                 "transfer": false
             }
         ],
         "id": "Fearsome",
-        "name": "Effrayant"
+        "name": "Temible"
     },
     {
-        "description": "<p>En vous recouvrant de magie, vous devenez effrayant et intimidant. Gagnez Peur 1. Pour chaque +3 DR, vous pouvez augmenter votre valeur de Peur de un.</p>\n<blockquote>\n<p>La Peur représente une aversion extrême pour quelque chose. Les créatures qui causent la Peur possèdent un Indice de Peur ; cette valeur représente le DR que vous devez atteindre lorsque vous effectuez votre Test étendu de Calme pour vaincre cette Peur.</p>\n<p>&nbsp;</p>\n<p>Lorsque vous êtes sous le coup de la Peur, vous subissez -1 DR à tous les Tests en rapport avec la source de votre peur. Vous êtes incapable de vous rapprocher de ce qui provoque cette Peur à moins de réussir un Test de <strong>Calme Intermédiaire (+0)</strong>.Si la source de votre Peur se rapproche de vous, vous devez réussir un Test de <strong>Calme Intermédiaire (+0)</strong> ou de gagner un État Brisé</p>\n<p>&nbsp;</p>\n</blockquote>",
+        "description": "<p>Envolviéndote en magia, te vuelves terrible e intimidante. Obtienes Miedo (1). Por cada +3 NE, puedes incrementar en 1 tu puntuación de Miedo.. ",
         "effects": [
             {
                 "_id": "66ekfI3zFgYh6OkE",
@@ -5272,7 +5272,7 @@
                     }
                 },
                 "icon": "modules/wfrp4e-core/icons/spells/beasts.png",
-                "label": "Effrayant (Bestias)",
+                "label": "Temible (Bestias)",
                 "tint": "",
                 "transfer": false
             },
@@ -5294,10 +5294,10 @@
             }
         ],
         "id": "Fearsome (Beasts)",
-        "name": "Effrayant (Bestias)"
+        "name": "Temible (Bestias)"
     },
     {
-        "description": "<p>En vous recouvrant de magie, vous devenez effrayant et intimidant. Gagnez Peur 1. Pour chaque +3 DR, vous pouvez augmenter votre valeur de Peur de un.</p>\n<blockquote>\n<p>La Peur représente une aversion extrême pour quelque chose. Les créatures qui causent la Peur possèdent un Indice de Peur ; cette valeur représente le DR que vous devez atteindre lorsque vous effectuez votre Test étendu de Calme pour vaincre cette Peur.</p>\n<p>&nbsp;</p>\n<p>Lorsque vous êtes sous le coup de la Peur, vous subissez -1 DR à tous les Tests en rapport avec la source de votre peur. Vous êtes incapable de vous rapprocher de ce qui provoque cette Peur à moins de réussir un Test de <strong>Calme Intermédiaire (+0)</strong>.Si la source de votre Peur se rapproche de vous, vous devez réussir un Test de <strong>Calme Intermédiaire (+0)</strong> ou de gagner un État Brisé</p>\n<p>&nbsp;</p>\n</blockquote>",
+        "description": "<p>Envolviéndote en magia, te vuelves terrible e intimidante. Obtienes Miedo (1). Por cada +3 NE, puedes incrementar en 1 tu puntuación de Miedo.. ",
         "effects": [
             {
                 "_id": "7P2lVRPgSbVeIkmo",
@@ -5320,16 +5320,16 @@
                     }
                 },
                 "icon": "modules/wfrp4e-core/icons/spells/daemonology.png",
-                "label": "Effrayant (Demonologia)",
+                "label": "Temible (Demonologia)",
                 "tint": "",
                 "transfer": false
             }
         ],
         "id": "Fearsome (Daemonology)",
-        "name": "Effrayant (Demonologia)"
+        "name": "Temible (Demonologia)"
     },
     {
-        "description": "<p>En vous recouvrant de magie, vous devenez effrayant et intimidant. Gagnez Peur 1. Pour chaque +3 DR, vous pouvez augmenter votre valeur de Peur de un.</p>\n<blockquote>\n<p>La Peur représente une aversion extrême pour quelque chose. Les créatures qui causent la Peur possèdent un Indice de Peur ; cette valeur représente le DR que vous devez atteindre lorsque vous effectuez votre Test étendu de Calme pour vaincre cette Peur.</p>\n<p>&nbsp;</p>\n<p>Lorsque vous êtes sous le coup de la Peur, vous subissez -1 DR à tous les Tests en rapport avec la source de votre peur. Vous êtes incapable de vous rapprocher de ce qui provoque cette Peur à moins de réussir un Test de <strong>Calme Intermédiaire (+0)</strong>.Si la source de votre Peur se rapproche de vous, vous devez réussir un Test de <strong>Calme Intermédiaire (+0)</strong> ou de gagner un État Brisé</p>\n<p>&nbsp;</p>\n</blockquote>",
+        "description": "<p>Envolviéndote en magia, te vuelves terrible e intimidante. Obtienes Miedo (1). Por cada +3 NE, puedes incrementar en 1 tu puntuación de Miedo.. ",
         "effects": [
             {
                 "_id": "DqW2ksGOFVorEAWR",
@@ -5352,7 +5352,7 @@
                     }
                 },
                 "icon": "modules/wfrp4e-core/icons/spells/death.png",
-                "label": "Effrayant (Muerte)",
+                "label": "Temible (Muerte)",
                 "tint": "",
                 "transfer": false
             },
@@ -5374,10 +5374,10 @@
             }
         ],
         "id": "Fearsome (Death)",
-        "name": "Effrayant (Muerte)"
+        "name": "Temible (Muerte)"
     },
     {
-        "description": "<p>En vous recouvrant de magie, vous devenez effrayant et intimidant. Gagnez Peur 1. Pour chaque +3 DR, vous pouvez augmenter votre valeur de Peur de un.</p>\n<blockquote>\n<p>La Peur représente une aversion extrême pour quelque chose. Les créatures qui causent la Peur possèdent un Indice de Peur ; cette valeur représente le DR que vous devez atteindre lorsque vous effectuez votre Test étendu de Calme pour vaincre cette Peur.</p>\n<p>&nbsp;</p>\n<p>Lorsque vous êtes sous le coup de la Peur, vous subissez -1 DR à tous les Tests en rapport avec la source de votre peur. Vous êtes incapable de vous rapprocher de ce qui provoque cette Peur à moins de réussir un Test de <strong>Calme Intermédiaire (+0)</strong>.Si la source de votre Peur se rapproche de vous, vous devez réussir un Test de <strong>Calme Intermédiaire (+0)</strong> ou de gagner un État Brisé</p>\n<p>&nbsp;</p>\n</blockquote>",
+        "description": "<p>Envolviéndote en magia, te vuelves terrible e intimidante. Obtienes Miedo (1). Por cada +3 NE, puedes incrementar en 1 tu puntuación de Miedo.. ",
         "effects": [
             {
                 "_id": "AaJb9eSWJVc9I0dG",
@@ -5400,7 +5400,7 @@
                     }
                 },
                 "icon": "modules/wfrp4e-core/icons/spells/fire.png",
-                "label": "Effrayant (Fuego)",
+                "label": "Temible (Fuego)",
                 "tint": "",
                 "transfer": false
             },
@@ -5422,10 +5422,10 @@
             }
         ],
         "id": "Fearsome (Fire)",
-        "name": "Effrayant (Fuego)"
+        "name": "Temible (Fuego)"
     },
     {
-        "description": "<p>En vous recouvrant de magie, vous devenez effrayant et intimidant. Gagnez Peur 1. Pour chaque +3 DR, vous pouvez augmenter votre valeur de Peur de un.</p>\n<blockquote>\n<p>La Peur représente une aversion extrême pour quelque chose. Les créatures qui causent la Peur possèdent un Indice de Peur ; cette valeur représente le DR que vous devez atteindre lorsque vous effectuez votre Test étendu de Calme pour vaincre cette Peur.</p>\n<p>&nbsp;</p>\n<p>Lorsque vous êtes sous le coup de la Peur, vous subissez -1 DR à tous les Tests en rapport avec la source de votre peur. Vous êtes incapable de vous rapprocher de ce qui provoque cette Peur à moins de réussir un Test de <strong>Calme Intermédiaire (+0)</strong>.Si la source de votre Peur se rapproche de vous, vous devez réussir un Test de <strong>Calme Intermédiaire (+0)</strong> ou de gagner un État Brisé</p>\n<p>&nbsp;</p>\n</blockquote>",
+        "description": "<p>Envolviéndote en magia, te vuelves terrible e intimidante. Obtienes Miedo (1). Por cada +3 NE, puedes incrementar en 1 tu puntuación de Miedo.. ",
         "effects": [
             {
                 "_id": "yqyESk94xtKG9e2Z",
@@ -5448,7 +5448,7 @@
                     }
                 },
                 "icon": "modules/wfrp4e-core/icons/spells/heavens.png",
-                "label": "Effrayant (Cielos)",
+                "label": "Temible (Cielos)",
                 "tint": "",
                 "transfer": false
             },
@@ -5470,10 +5470,10 @@
             }
         ],
         "id": "Fearsome (Heavens)",
-        "name": "Effrayant (Cielos)"
+        "name": "Temible (Cielos)"
     },
     {
-        "description": "<p>En vous recouvrant de magie, vous devenez effrayant et intimidant. Gagnez Peur 1. Pour chaque +3 DR, vous pouvez augmenter votre valeur de Peur de un.</p>\n<blockquote>\n<p>La Peur représente une aversion extrême pour quelque chose. Les créatures qui causent la Peur possèdent un Indice de Peur ; cette valeur représente le DR que vous devez atteindre lorsque vous effectuez votre Test étendu de Calme pour vaincre cette Peur.</p>\n<p>&nbsp;</p>\n<p>Lorsque vous êtes sous le coup de la Peur, vous subissez -1 DR à tous les Tests en rapport avec la source de votre peur. Vous êtes incapable de vous rapprocher de ce qui provoque cette Peur à moins de réussir un Test de <strong>Calme Intermédiaire (+0)</strong>.Si la source de votre Peur se rapproche de vous, vous devez réussir un Test de <strong>Calme Intermédiaire (+0)</strong> ou de gagner un État Brisé</p>\n<p>&nbsp;</p>\n</blockquote>",
+        "description": "<p>Envolviéndote en magia, te vuelves terrible e intimidante. Obtienes Miedo (1). Por cada +3 NE, puedes incrementar en 1 tu puntuación de Miedo.. ",
         "effects": [
             {
                 "_id": "KnZV2v47uujjJq0y",
@@ -5496,7 +5496,7 @@
                     }
                 },
                 "icon": "modules/wfrp4e-core/icons/spells/life.png",
-                "label": "Effrayant (Vida)",
+                "label": "Temible (Vida)",
                 "tint": "",
                 "transfer": false
             },
@@ -5518,10 +5518,10 @@
             }
         ],
         "id": "Fearsome (Life)",
-        "name": "Effrayant (Vida)"
+        "name": "Temible (Vida)"
     },
     {
-        "description": "<p>En vous recouvrant de magie, vous devenez effrayant et intimidant. Gagnez Peur 1. Pour chaque +3 DR, vous pouvez augmenter votre valeur de Peur de un.</p>\n<blockquote>\n<p>La Peur représente une aversion extrême pour quelque chose. Les créatures qui causent la Peur possèdent un Indice de Peur ; cette valeur représente le DR que vous devez atteindre lorsque vous effectuez votre Test étendu de Calme pour vaincre cette Peur.</p>\n<p>&nbsp;</p>\n<p>Lorsque vous êtes sous le coup de la Peur, vous subissez -1 DR à tous les Tests en rapport avec la source de votre peur. Vous êtes incapable de vous rapprocher de ce qui provoque cette Peur à moins de réussir un Test de <strong>Calme Intermédiaire (+0)</strong>.Si la source de votre Peur se rapproche de vous, vous devez réussir un Test de <strong>Calme Intermédiaire (+0)</strong> ou de gagner un État Brisé</p>\n<p>&nbsp;</p>\n</blockquote>",
+        "description": "<p>Envolviéndote en magia, te vuelves terrible e intimidante. Obtienes Miedo (1). Por cada +3 NE, puedes incrementar en 1 tu puntuación de Miedo.. ",
         "effects": [
             {
                 "_id": "0TUeQSSRSy8U34xP",
@@ -5544,7 +5544,7 @@
                     }
                 },
                 "icon": "modules/wfrp4e-core/icons/spells/light.png",
-                "label": "Effrayant (Luz)",
+                "label": "Temible (Luz)",
                 "tint": "",
                 "transfer": false
             },
@@ -5566,10 +5566,10 @@
             }
         ],
         "id": "Fearsome (Light)",
-        "name": "Effrayant (Luz)"
+        "name": "Temible (Luz)"
     },
     {
-        "description": "<p>En vous recouvrant de magie, vous devenez effrayant et intimidant. Gagnez Peur 1. Pour chaque +3 DR, vous pouvez augmenter votre valeur de Peur de un.</p>\n<blockquote>\n<p>La Peur représente une aversion extrême pour quelque chose. Les créatures qui causent la Peur possèdent un Indice de Peur ; cette valeur représente le DR que vous devez atteindre lorsque vous effectuez votre Test étendu de Calme pour vaincre cette Peur.</p>\n<p>&nbsp;</p>\n<p>Lorsque vous êtes sous le coup de la Peur, vous subissez -1 DR à tous les Tests en rapport avec la source de votre peur. Vous êtes incapable de vous rapprocher de ce qui provoque cette Peur à moins de réussir un Test de <strong>Calme Intermédiaire (+0)</strong>.Si la source de votre Peur se rapproche de vous, vous devez réussir un Test de <strong>Calme Intermédiaire (+0)</strong> ou de gagner un État Brisé</p>\n<p>&nbsp;</p>\n</blockquote>",
+        "description": "<p>Envolviéndote en magia, te vuelves terrible e intimidante. Obtienes Miedo (1). Por cada +3 NE, puedes incrementar en 1 tu puntuación de Miedo.. ",
         "effects": [
             {
                 "_id": "xta2nDZv5vnjHseC",
@@ -5592,7 +5592,7 @@
                     }
                 },
                 "icon": "modules/wfrp4e-core/icons/spells/metal.png",
-                "label": "Effrayant (Metal)",
+                "label": "Temible (Metal)",
                 "tint": "",
                 "transfer": false
             },
@@ -5614,10 +5614,10 @@
             }
         ],
         "id": "Fearsome (Metal)",
-        "name": "Effrayant (Metal)"
+        "name": "Temible (Metal)"
     },
     {
-        "description": "<p>En vous recouvrant de magie, vous devenez effrayant et intimidant. Gagnez Peur 1. Pour chaque +3 DR, vous pouvez augmenter votre valeur de Peur de un.</p>\n<blockquote>\n<p>La Peur représente une aversion extrême pour quelque chose. Les créatures qui causent la Peur possèdent un Indice de Peur ; cette valeur représente le DR que vous devez atteindre lorsque vous effectuez votre Test étendu de Calme pour vaincre cette Peur.</p>\n<p>&nbsp;</p>\n<p>Lorsque vous êtes sous le coup de la Peur, vous subissez -1 DR à tous les Tests en rapport avec la source de votre peur. Vous êtes incapable de vous rapprocher de ce qui provoque cette Peur à moins de réussir un Test de <strong>Calme Intermédiaire (+0)</strong>.Si la source de votre Peur se rapproche de vous, vous devez réussir un Test de <strong>Calme Intermédiaire (+0)</strong> ou de gagner un État Brisé</p>\n<p>&nbsp;</p>\n</blockquote>",
+        "description": "<p>Envolviéndote en magia, te vuelves terrible e intimidante. Obtienes Miedo (1). Por cada +3 NE, puedes incrementar en 1 tu puntuación de Miedo.. ",
         "effects": [
             {
                 "_id": "0IC3xaAT9x78ci7w",
@@ -5640,16 +5640,16 @@
                     }
                 },
                 "icon": "modules/wfrp4e-core/icons/spells/necromancy.png",
-                "label": "Effrayant (Nigromancia)",
+                "label": "Temible (Nigromancia)",
                 "tint": "",
                 "transfer": false
             }
         ],
         "id": "Fearsome (Necromancy)",
-        "name": "Effrayant (Nigromancia)"
+        "name": "Temible (Nigromancia)"
     },
     {
-        "description": "<p>En vous recouvrant de magie, vous devenez effrayant et intimidant. Gagnez Peur 1. Pour chaque +3 DR, vous pouvez augmenter votre valeur de Peur de un.</p>\n<blockquote>\n<p>La Peur représente une aversion extrême pour quelque chose. Les créatures qui causent la Peur possèdent un Indice de Peur ; cette valeur représente le DR que vous devez atteindre lorsque vous effectuez votre Test étendu de Calme pour vaincre cette Peur.</p>\n<p>&nbsp;</p>\n<p>Lorsque vous êtes sous le coup de la Peur, vous subissez -1 DR à tous les Tests en rapport avec la source de votre peur. Vous êtes incapable de vous rapprocher de ce qui provoque cette Peur à moins de réussir un Test de <strong>Calme Intermédiaire (+0)</strong>.Si la source de votre Peur se rapproche de vous, vous devez réussir un Test de <strong>Calme Intermédiaire (+0)</strong> ou de gagner un État Brisé</p>\n<p>&nbsp;</p>\n</blockquote>",
+        "description": "<p>Envolviéndote en magia, te vuelves terrible e intimidante. Obtienes Miedo (1). Por cada +3 NE, puedes incrementar en 1 tu puntuación de Miedo.. ",
         "effects": [
             {
                 "_id": "kRuAJlNi891asvJ4",
@@ -5672,7 +5672,7 @@
                     }
                 },
                 "icon": "modules/wfrp4e-core/icons/spells/shadow.png",
-                "label": "Effrayant (Sombras)",
+                "label": "Temible (Sombras)",
                 "tint": "",
                 "transfer": false
             },
@@ -5694,10 +5694,10 @@
             }
         ],
         "id": "Fearsome (Shadow)",
-        "name": "Effrayant (Sombras)"
+        "name": "Temible (Sombras)"
     },
     {
-        "description": "<p>En faisant appel au vent Doré, vous modifiez la densité des biens de votre cible, augmentant ou diminuant leur poids. Pour la durée du Sort, choisissez l'un des effets suivants pour quiconque se trouve dans la Zone d'Effet :&nbsp;</p>\n<ul type=\"disc\">\n<li>Considéré comme Surchargé au double de la limite</li>\n<li>N'est pas considéré comme Surchargé</li>\n</ul>",
+        "description": "<p>LLamando al viento dorado, alteras la densidad de las pertenencias de tu objetivo, incrementando o reduciendo su peso. Mientras dura el hechizo, elige un efecto para todo el mundo dentro del Área de efecto: &nbsp;</p>\n<ul type=\"disc\">\n<li>Cuenta como dos pasos más de Impedido</li>\n<li>No cuenta como Sobrecargado</li>\n</ul>",
         "effects": [
             {
                 "_id": "dThQOqhp4tned27Q",
@@ -5720,7 +5720,7 @@
                     }
                 },
                 "icon": "modules/wfrp4e-core/icons/spells/feather-of-lead.png",
-                "label": "Plume de Plomb - 2",
+                "label": "Pluma de plomo - 2",
                 "tint": "",
                 "transfer": false
             },
@@ -5745,7 +5745,7 @@
                     }
                 },
                 "icon": "modules/wfrp4e-core/icons/spells/feather-of-lead.png",
-                "label": "Plume de Plomb - 1",
+                "label": "Pluma de plomo - 1",
                 "tint": "",
                 "transfer": false
             },
@@ -5767,10 +5767,10 @@
             }
         ],
         "id": "Feather of Lead",
-        "name": "Plume de plomb"
+        "name": "Pluma de plomo"
     },
     {
-        "description": "<p>Vous focalisez une traînée ardente d'Aqshy, pour créer un mur de flammes. Le Mur de Fuego est large d'un nombre de mètres égal à votre Bonus de Force Mentale, et épais de 1 mètre. Pour chaque +2 DR, vous pouvez allonger la ongueur du Mur de Fuego d'un nombre de mètres égal à votre Bonus de Force Mentale. Quiconque traverse mur de Fuego gagne 1 État <em>Ablaze</em>&nbsp; et subit une frappe avec un nombre de Dégâts égal à votre Bonus de Force Mentale, traitée comme un projectile magique.</p>",
+        "description": "<p>Canalizas una flamígera veta de <em>Aqshy</em>, creando un muro de llamas. El muro de fuego tiene tantas yardas de ancho como tu Bonificador por VOluntad y 1 yarda de grueso. Por cada +2NE, puedes extender la longitud del <em>Muro de fuego</em> tantas yardas como tu Bonificador por Voluntad. Quien cruce el <em>Muro de fuego</em> sufrirá 1 Estado de <em>Ardiendo</em> y un impacto con un Daño igual a tu Bonificador por Voluntad, que se tratará igual que un <em>proyectil mágico</em>.</p>",
         "effects": [
             {
                 "_id": "gs7bAYlGCSfRYAsh",
@@ -5793,7 +5793,7 @@
                     }
                 },
                 "icon": "modules/wfrp4e-core/icons/spells/firewall.png",
-                "label": "Mur de Fuego",
+                "label": "Muro de fuego",
                 "tint": "",
                 "transfer": false
             },
@@ -5815,10 +5815,10 @@
             }
         ],
         "id": "Firewall",
-        "name": "Mur de Fuego"
+        "name": "Muro de fuego"
     },
     {
-        "description": "<p>Votre voix profonde résonne, faisant écho à la passion fougueuse d'Aqshy. Les alliés affectés perdent tous leurs États <em>Brisé</em> and <em>Exténué</em>, et gagnent +1 Talent <em>Coude-à-coude</em>, <em>Sans peur</em> et <em>Coeur vaillant</em> tant que le sort est Actif.</p>",
+        "description": "<p>Tu voz adopta una rica resonancia, debida a la feroz pasión del <em>Aqshy</em>. Los aliados afectados pierden todos los estados de <em>Quebrantado</em> y <em>Fatigado</em>, y obtienen +1 Talento de <em>Entrenado</em>, <em>Intrépido</em> y <em>Denodado</em> mientras el hechizo permanece activo.</p>",
         "effects": [
             {
                 "_id": "7bwkiS3twOnU5mzb",
@@ -5838,10 +5838,10 @@
             }
         ],
         "id": "Flaming Hearts",
-        "name": "Coeurs ardents"
+        "name": "Corazones llameantes"
     },
     {
-        "description": "<p>Vous enveloppez une épée de flammes magiques. L'arme possède Dégâts +5 et l'Atout <em>Percutante</em>, et quiconque est frappé par la lame gagne +1 État <em>Enflammé</em>. Si les porteurs ne possèdent pas le Talent Magie des Arcanes (Fuego), et  obtiennent une maladresse lors d'une attaque avec l'Epée Enflammée, ils gagnent +1 État <em>Enflammé</em>.</p>",
+        "description": "<p>Envuelves una espada en llamas mágicas. El arma tiene +6 y la cualidad Impactante, y todo aquel a quien impacta sufre +1 Estado de <em>Ardiendo</em>.Si quien la empuña no tiene el Talento <em>Magia arcana (Fuego)</em> y pifia un ataque con la <em>Espada flamígera</em>, sufre +1 Estado de <em>Ardiendo</em>.</p>",
         "effects": [
             {
                 "_id": "QQ0bVgbKXhqEkyQ5",
@@ -5861,10 +5861,10 @@
             }
         ],
         "id": "Flaming Sword of Rhuin",
-        "name": "L'Épée ardente de Rhuin"
+        "name": "Espada ígnea de Rhuin"
     },
     {
-        "description": "<p><span style=\"color: #231f20;\">Vous pouvez voler, en vous faisant pousser des ailes, en montant sur une colonne de Luz magique, ou toute autre méthode. Gagnez le Trait </span><span style=\"color: #231f20;\">Vol (x)</span></p>\n<p>&nbsp;</p>\n<blockquote>\n<p>Quand la créature se Déplace, elle peut voler jusqu'à x mètres. Elle ignore alors tous les terrains, obstacles et personnages qui s'interposent. À la fin de son Mouvement, elle décide si elle atterrit ou si elle continue de voler. Elle peut utiliser ce Mouvement pour Charger. Si elle commence son tour en volant, elle doit choisir le Vol pour son Mouvement. Si elle ne peut pas voler, le MJ décide à quelle distance elle tombe.</p>\n<p>Lorsqu'elle est une cible en vol, il faut mesurer la distance horizontale normalement, puis augmenter la distance de 1. Ainsi, une Longue Distance deVidant une Distance Extrême, et une créature volante à une Distance Extrême ne peut pas être touchée.</p>\n<p>Quand elle vole, elle subit une pénalité de -20 à toutes les tentatives de combat à distance, alors qu'elle virevolte dans le ciel.&nbsp;</p>\n<p>&nbsp;</p>\n</blockquote>",
+        "description": "<p><span style=\"color: #231f20;\">Puedes volar, haciendo que te crezcan alas, trepando por una columna mágica de Luz o por cualquier otro método. Ganar el rasgo </span><span style=\"color: #231f20;\">Vuelo (x)</span></p>\n<p>&nbsp;</p>\n<blockquote>\n<p>Cuando la criatura se mueve, puede volar hasta x metros. A continuación, ignora todos los terrenos, obstáculos y personajes que se interpongan en su camino. Al final de su movimiento, decide si aterriza o sigue volando. Puede usar este movimiento para Cargar. Si comienza su turno volando, debe elegir Vuelo para su Movimiento. Si no puede volar, el GM decide a qué distancia cae.</p>\n<p>Cuando se trata de un objetivo volador, mide la distancia horizontal normalmente, luego incrementa la distancia en 1. Así, un deVidente a Larga Distancia es una Distancia Extrema, y una criatura voladora a Distancia Extrema no puede ser golpeada.</p>\n<p>Cuando vuela, sufre una penalización de -20 a todos los intentos de combate a distancia mientras gira por el cielo..&nbsp;</p>\n<p>&nbsp;</p>\n</blockquote>",
         "effects": [
             {
                 "_id": "ZSGvMxczaTcygVrt",
@@ -5887,16 +5887,16 @@
                     }
                 },
                 "icon": "modules/wfrp4e-core/icons/blank.png",
-                "label": "Envol",
+                "label": "Vuelo",
                 "tint": "",
                 "transfer": false
             }
         ],
         "id": "Flight",
-        "name": "Envol"
+        "name": "Vuelo"
     },
     {
-        "description": "<p><span style=\"color: #231f20;\">Vous pouvez voler, en vous faisant pousser des ailes, en montant sur une colonne de Luz magique, ou toute autre méthode. Gagnez le Trait </span><span style=\"color: #231f20;\">Vol (x)</span></p>\n<p>&nbsp;</p>\n<blockquote>\n<p>Quand la créature se Déplace, elle peut voler jusqu'à x mètres. Elle ignore alors tous les terrains, obstacles et personnages qui s'interposent. À la fin de son Mouvement, elle décide si elle atterrit ou si elle continue de voler. Elle peut utiliser ce Mouvement pour Charger. Si elle commence son tour en volant, elle doit choisir le Vol pour son Mouvement. Si elle ne peut pas voler, le MJ décide à quelle distance elle tombe.</p>\n<p>Lorsqu'elle est une cible en vol, il faut mesurer la distance horizontale normalement, puis augmenter la distance de 1. Ainsi, une Longue Distance deVidant une Distance Extrême, et une créature volante à une Distance Extrême ne peut pas être touchée.</p>\n<p>Quand elle vole, elle subit une pénalité de -20 à toutes les tentatives de combat à distance, alors qu'elle virevolte dans le ciel.&nbsp;</p>\n<p>&nbsp;</p>\n</blockquote>",
+        "description": "<p><span style=\"color: #231f20;\">Puedes volar, haciendo que te crezcan alas, trepando por una columna mágica de Luz o por cualquier otro método. Ganar el rasgo </span><span style=\"color: #231f20;\">Vuelo (x)</span></p>\n<p>&nbsp;</p>\n<blockquote>\n<p>Cuando la criatura se mueve, puede volar hasta x metros. A continuación, ignora todos los terrenos, obstáculos y personajes que se interpongan en su camino. Al final de su movimiento, decide si aterriza o sigue volando. Puede usar este movimiento para Cargar. Si comienza su turno volando, debe elegir Vuelo para su Movimiento. Si no puede volar, el GM decide a qué distancia cae.</p>\n<p>Cuando se trata de un objetivo volador, mide la distancia horizontal normalmente, luego incrementa la distancia en 1. Así, un deVidente a Larga Distancia es una Distancia Extrema, y una criatura voladora a Distancia Extrema no puede ser golpeada.</p>\n<p>Cuando vuela, sufre una penalización de -20 a todos los intentos de combate a distancia mientras gira por el cielo..&nbsp;</p>\n<p>&nbsp;</p>\n</blockquote>",
         "effects": [
             {
                 "_id": "Wlcmo7UeUkUeMkdB",
@@ -5919,7 +5919,7 @@
                     }
                 },
                 "icon": "modules/wfrp4e-core/icons/spells/beasts.png",
-                "label": "Envol (Bestias)",
+                "label": "Vuelo (Bestias)",
                 "tint": "",
                 "transfer": false
             },
@@ -5941,10 +5941,10 @@
             }
         ],
         "id": "Flight (Beasts)",
-        "name": "Envol (Bestias)"
+        "name": "Vuelo (Bestias)"
     },
     {
-        "description": "<p><span style=\"color: #231f20;\">Vous pouvez voler, en vous faisant pousser des ailes, en montant sur une colonne de Luz magique, ou toute autre méthode. Gagnez le Trait </span><span style=\"color: #231f20;\">Vol (x)</span></p>\n<p>&nbsp;</p>\n<blockquote>\n<p>Quand la créature se Déplace, elle peut voler jusqu'à x mètres. Elle ignore alors tous les terrains, obstacles et personnages qui s'interposent. À la fin de son Mouvement, elle décide si elle atterrit ou si elle continue de voler. Elle peut utiliser ce Mouvement pour Charger. Si elle commence son tour en volant, elle doit choisir le Vol pour son Mouvement. Si elle ne peut pas voler, le MJ décide à quelle distance elle tombe.</p>\n<p>Lorsqu'elle est une cible en vol, il faut mesurer la distance horizontale normalement, puis augmenter la distance de 1. Ainsi, une Longue Distance deVidant une Distance Extrême, et une créature volante à une Distance Extrême ne peut pas être touchée.</p>\n<p>Quand elle vole, elle subit une pénalité de -20 à toutes les tentatives de combat à distance, alors qu'elle virevolte dans le ciel.&nbsp;</p>\n<p>&nbsp;</p>\n</blockquote>",
+        "description": "<p><span style=\"color: #231f20;\">Puedes volar, haciendo que te crezcan alas, trepando por una columna mágica de Luz o por cualquier otro método. Ganar el rasgo </span><span style=\"color: #231f20;\">Vuelo (x)</span></p>\n<p>&nbsp;</p>\n<blockquote>\n<p>Cuando la criatura se mueve, puede volar hasta x metros. A continuación, ignora todos los terrenos, obstáculos y personajes que se interpongan en su camino. Al final de su movimiento, decide si aterriza o sigue volando. Puede usar este movimiento para Cargar. Si comienza su turno volando, debe elegir Vuelo para su Movimiento. Si no puede volar, el GM decide a qué distancia cae.</p>\n<p>Cuando se trata de un objetivo volador, mide la distancia horizontal normalmente, luego incrementa la distancia en 1. Así, un deVidente a Larga Distancia es una Distancia Extrema, y una criatura voladora a Distancia Extrema no puede ser golpeada.</p>\n<p>Cuando vuela, sufre una penalización de -20 a todos los intentos de combate a distancia mientras gira por el cielo..&nbsp;</p>\n<p>&nbsp;</p>\n</blockquote>",
         "effects": [
             {
                 "_id": "SC5vM7wSWVsnPRo7",
@@ -5967,16 +5967,16 @@
                     }
                 },
                 "icon": "modules/wfrp4e-core/icons/spells/daemonology.png",
-                "label": "Envol (Demonologia)",
+                "label": "Vuelo (Demonologia)",
                 "tint": "",
                 "transfer": false
             }
         ],
         "id": "Flight (Daemonology)",
-        "name": "Envol (Demonologia)"
+        "name": "Vuelo (Demonologia)"
     },
     {
-        "description": "<p><span style=\"color: #231f20;\">Vous pouvez voler, en vous faisant pousser des ailes, en montant sur une colonne de Luz magique, ou toute autre méthode. Gagnez le Trait </span><span style=\"color: #231f20;\">Vol (x)</span></p>\n<p>&nbsp;</p>\n<blockquote>\n<p>Quand la créature se Déplace, elle peut voler jusqu'à x mètres. Elle ignore alors tous les terrains, obstacles et personnages qui s'interposent. À la fin de son Mouvement, elle décide si elle atterrit ou si elle continue de voler. Elle peut utiliser ce Mouvement pour Charger. Si elle commence son tour en volant, elle doit choisir le Vol pour son Mouvement. Si elle ne peut pas voler, le MJ décide à quelle distance elle tombe.</p>\n<p>Lorsqu'elle est une cible en vol, il faut mesurer la distance horizontale normalement, puis augmenter la distance de 1. Ainsi, une Longue Distance deVidant une Distance Extrême, et une créature volante à une Distance Extrême ne peut pas être touchée.</p>\n<p>Quand elle vole, elle subit une pénalité de -20 à toutes les tentatives de combat à distance, alors qu'elle virevolte dans le ciel.&nbsp;</p>\n<p>&nbsp;</p>\n</blockquote>",
+        "description": "<p><span style=\"color: #231f20;\">Puedes volar, haciendo que te crezcan alas, trepando por una columna mágica de Luz o por cualquier otro método. Ganar el rasgo </span><span style=\"color: #231f20;\">Vuelo (x)</span></p>\n<p>&nbsp;</p>\n<blockquote>\n<p>Cuando la criatura se mueve, puede volar hasta x metros. A continuación, ignora todos los terrenos, obstáculos y personajes que se interpongan en su camino. Al final de su movimiento, decide si aterriza o sigue volando. Puede usar este movimiento para Cargar. Si comienza su turno volando, debe elegir Vuelo para su Movimiento. Si no puede volar, el GM decide a qué distancia cae.</p>\n<p>Cuando se trata de un objetivo volador, mide la distancia horizontal normalmente, luego incrementa la distancia en 1. Así, un deVidente a Larga Distancia es una Distancia Extrema, y una criatura voladora a Distancia Extrema no puede ser golpeada.</p>\n<p>Cuando vuela, sufre una penalización de -20 a todos los intentos de combate a distancia mientras gira por el cielo..&nbsp;</p>\n<p>&nbsp;</p>\n</blockquote>",
         "effects": [
             {
                 "_id": "mpIzJHvcN4RSmTdr",
@@ -5999,7 +5999,7 @@
                     }
                 },
                 "icon": "modules/wfrp4e-core/icons/spells/death.png",
-                "label": "Envol (Muerte)",
+                "label": "Vuelo (Muerte)",
                 "tint": "",
                 "transfer": false
             },
@@ -6021,10 +6021,10 @@
             }
         ],
         "id": "Flight (Death)",
-        "name": "Envol (Muerte)"
+        "name": "Vuelo (Muerte)"
     },
     {
-        "description": "<p><span style=\"color: #231f20;\">Vous pouvez voler, en vous faisant pousser des ailes, en montant sur une colonne de Luz magique, ou toute autre méthode. Gagnez le Trait </span><span style=\"color: #231f20;\">Vol (x)</span></p>\n<p>&nbsp;</p>\n<blockquote>\n<p>Quand la créature se Déplace, elle peut voler jusqu'à x mètres. Elle ignore alors tous les terrains, obstacles et personnages qui s'interposent. À la fin de son Mouvement, elle décide si elle atterrit ou si elle continue de voler. Elle peut utiliser ce Mouvement pour Charger. Si elle commence son tour en volant, elle doit choisir le Vol pour son Mouvement. Si elle ne peut pas voler, le MJ décide à quelle distance elle tombe.</p>\n<p>Lorsqu'elle est une cible en vol, il faut mesurer la distance horizontale normalement, puis augmenter la distance de 1. Ainsi, une Longue Distance deVidant une Distance Extrême, et une créature volante à une Distance Extrême ne peut pas être touchée.</p>\n<p>Quand elle vole, elle subit une pénalité de -20 à toutes les tentatives de combat à distance, alors qu'elle virevolte dans le ciel.&nbsp;</p>\n<p>&nbsp;</p>\n</blockquote>",
+        "description": "<p><span style=\"color: #231f20;\">Puedes volar, haciendo que te crezcan alas, trepando por una columna mágica de Luz o por cualquier otro método. Ganar el rasgo </span><span style=\"color: #231f20;\">Vuelo (x)</span></p>\n<p>&nbsp;</p>\n<blockquote>\n<p>Cuando la criatura se mueve, puede volar hasta x metros. A continuación, ignora todos los terrenos, obstáculos y personajes que se interpongan en su camino. Al final de su movimiento, decide si aterriza o sigue volando. Puede usar este movimiento para Cargar. Si comienza su turno volando, debe elegir Vuelo para su Movimiento. Si no puede volar, el GM decide a qué distancia cae.</p>\n<p>Cuando se trata de un objetivo volador, mide la distancia horizontal normalmente, luego incrementa la distancia en 1. Así, un deVidente a Larga Distancia es una Distancia Extrema, y una criatura voladora a Distancia Extrema no puede ser golpeada.</p>\n<p>Cuando vuela, sufre una penalización de -20 a todos los intentos de combate a distancia mientras gira por el cielo..&nbsp;</p>\n<p>&nbsp;</p>\n</blockquote>",
         "effects": [
             {
                 "_id": "ilqvsNpt1O1vIGBY",
@@ -6047,7 +6047,7 @@
                     }
                 },
                 "icon": "modules/wfrp4e-core/icons/spells/fire.png",
-                "label": "Envol (Fuego)",
+                "label": "Vuelo (Fuego)",
                 "tint": "",
                 "transfer": false
             },
@@ -6069,10 +6069,10 @@
             }
         ],
         "id": "Flight (Fire)",
-        "name": "Envol (Fuego)"
+        "name": "Vuelo (Fuego)"
     },
     {
-        "description": "<p><span style=\"color: #231f20;\">Vous pouvez voler, en vous faisant pousser des ailes, en montant sur une colonne de Luz magique, ou toute autre méthode. Gagnez le Trait </span><span style=\"color: #231f20;\">Vol (x)</span></p>\n<p>&nbsp;</p>\n<blockquote>\n<p>Quand la créature se Déplace, elle peut voler jusqu'à x mètres. Elle ignore alors tous les terrains, obstacles et personnages qui s'interposent. À la fin de son Mouvement, elle décide si elle atterrit ou si elle continue de voler. Elle peut utiliser ce Mouvement pour Charger. Si elle commence son tour en volant, elle doit choisir le Vol pour son Mouvement. Si elle ne peut pas voler, le MJ décide à quelle distance elle tombe.</p>\n<p>Lorsqu'elle est une cible en vol, il faut mesurer la distance horizontale normalement, puis augmenter la distance de 1. Ainsi, une Longue Distance deVidant une Distance Extrême, et une créature volante à une Distance Extrême ne peut pas être touchée.</p>\n<p>Quand elle vole, elle subit une pénalité de -20 à toutes les tentatives de combat à distance, alors qu'elle virevolte dans le ciel.&nbsp;</p>\n<p>&nbsp;</p>\n</blockquote>",
+        "description": "<p><span style=\"color: #231f20;\">Puedes volar, haciendo que te crezcan alas, trepando por una columna mágica de Luz o por cualquier otro método. Ganar el rasgo </span><span style=\"color: #231f20;\">Vuelo (x)</span></p>\n<p>&nbsp;</p>\n<blockquote>\n<p>Cuando la criatura se mueve, puede volar hasta x metros. A continuación, ignora todos los terrenos, obstáculos y personajes que se interpongan en su camino. Al final de su movimiento, decide si aterriza o sigue volando. Puede usar este movimiento para Cargar. Si comienza su turno volando, debe elegir Vuelo para su Movimiento. Si no puede volar, el GM decide a qué distancia cae.</p>\n<p>Cuando se trata de un objetivo volador, mide la distancia horizontal normalmente, luego incrementa la distancia en 1. Así, un deVidente a Larga Distancia es una Distancia Extrema, y una criatura voladora a Distancia Extrema no puede ser golpeada.</p>\n<p>Cuando vuela, sufre una penalización de -20 a todos los intentos de combate a distancia mientras gira por el cielo..&nbsp;</p>\n<p>&nbsp;</p>\n</blockquote>",
         "effects": [
             {
                 "_id": "mPtrAwHjzrMPyL9o",
@@ -6095,7 +6095,7 @@
                     }
                 },
                 "icon": "modules/wfrp4e-core/icons/spells/heavens.png",
-                "label": "Envol (Cielos)",
+                "label": "Vuelo (Cielos)",
                 "tint": "",
                 "transfer": false
             },
@@ -6117,10 +6117,10 @@
             }
         ],
         "id": "Flight (Heavens)",
-        "name": "Envol (Cielos)"
+        "name": "Vuelo (Cielos)"
     },
     {
-        "description": "<p><span style=\"color: #231f20;\">Vous pouvez voler, en vous faisant pousser des ailes, en montant sur une colonne de Luz magique, ou toute autre méthode. Gagnez le Trait </span><span style=\"color: #231f20;\">Vol (x)</span></p>\n<p>&nbsp;</p>\n<blockquote>\n<p>Quand la créature se Déplace, elle peut voler jusqu'à x mètres. Elle ignore alors tous les terrains, obstacles et personnages qui s'interposent. À la fin de son Mouvement, elle décide si elle atterrit ou si elle continue de voler. Elle peut utiliser ce Mouvement pour Charger. Si elle commence son tour en volant, elle doit choisir le Vol pour son Mouvement. Si elle ne peut pas voler, le MJ décide à quelle distance elle tombe.</p>\n<p>Lorsqu'elle est une cible en vol, il faut mesurer la distance horizontale normalement, puis augmenter la distance de 1. Ainsi, une Longue Distance deVidant une Distance Extrême, et une créature volante à une Distance Extrême ne peut pas être touchée.</p>\n<p>Quand elle vole, elle subit une pénalité de -20 à toutes les tentatives de combat à distance, alors qu'elle virevolte dans le ciel.&nbsp;</p>\n<p>&nbsp;</p>\n</blockquote>",
+        "description": "<p><span style=\"color: #231f20;\">Puedes volar, haciendo que te crezcan alas, trepando por una columna mágica de Luz o por cualquier otro método. Ganar el rasgo </span><span style=\"color: #231f20;\">Vuelo (x)</span></p>\n<p>&nbsp;</p>\n<blockquote>\n<p>Cuando la criatura se mueve, puede volar hasta x metros. A continuación, ignora todos los terrenos, obstáculos y personajes que se interpongan en su camino. Al final de su movimiento, decide si aterriza o sigue volando. Puede usar este movimiento para Cargar. Si comienza su turno volando, debe elegir Vuelo para su Movimiento. Si no puede volar, el GM decide a qué distancia cae.</p>\n<p>Cuando se trata de un objetivo volador, mide la distancia horizontal normalmente, luego incrementa la distancia en 1. Así, un deVidente a Larga Distancia es una Distancia Extrema, y una criatura voladora a Distancia Extrema no puede ser golpeada.</p>\n<p>Cuando vuela, sufre una penalización de -20 a todos los intentos de combate a distancia mientras gira por el cielo..&nbsp;</p>\n<p>&nbsp;</p>\n</blockquote>",
         "effects": [
             {
                 "_id": "HEEMowxEAskvHTqI",
@@ -6143,7 +6143,7 @@
                     }
                 },
                 "icon": "modules/wfrp4e-core/icons/spells/life.png",
-                "label": "Envol (Vida)",
+                "label": "Vuelo (Vida)",
                 "tint": "",
                 "transfer": false
             },
@@ -6165,10 +6165,10 @@
             }
         ],
         "id": "Flight (Life)",
-        "name": "Envol (Vida)"
+        "name": "Vuelo (Vida)"
     },
     {
-        "description": "<p><span style=\"color: #231f20;\">Vous pouvez voler, en vous faisant pousser des ailes, en montant sur une colonne de Luz magique, ou toute autre méthode. Gagnez le Trait </span><span style=\"color: #231f20;\">Vol (x)</span></p>\n<p>&nbsp;</p>\n<blockquote>\n<p>Quand la créature se Déplace, elle peut voler jusqu'à x mètres. Elle ignore alors tous les terrains, obstacles et personnages qui s'interposent. À la fin de son Mouvement, elle décide si elle atterrit ou si elle continue de voler. Elle peut utiliser ce Mouvement pour Charger. Si elle commence son tour en volant, elle doit choisir le Vol pour son Mouvement. Si elle ne peut pas voler, le MJ décide à quelle distance elle tombe.</p>\n<p>Lorsqu'elle est une cible en vol, il faut mesurer la distance horizontale normalement, puis augmenter la distance de 1. Ainsi, une Longue Distance deVidant une Distance Extrême, et une créature volante à une Distance Extrême ne peut pas être touchée.</p>\n<p>Quand elle vole, elle subit une pénalité de -20 à toutes les tentatives de combat à distance, alors qu'elle virevolte dans le ciel.&nbsp;</p>\n<p>&nbsp;</p>\n</blockquote>",
+        "description": "<p><span style=\"color: #231f20;\">Puedes volar, haciendo que te crezcan alas, trepando por una columna mágica de Luz o por cualquier otro método. Ganar el rasgo </span><span style=\"color: #231f20;\">Vuelo (x)</span></p>\n<p>&nbsp;</p>\n<blockquote>\n<p>Cuando la criatura se mueve, puede volar hasta x metros. A continuación, ignora todos los terrenos, obstáculos y personajes que se interpongan en su camino. Al final de su movimiento, decide si aterriza o sigue volando. Puede usar este movimiento para Cargar. Si comienza su turno volando, debe elegir Vuelo para su Movimiento. Si no puede volar, el GM decide a qué distancia cae.</p>\n<p>Cuando se trata de un objetivo volador, mide la distancia horizontal normalmente, luego incrementa la distancia en 1. Así, un deVidente a Larga Distancia es una Distancia Extrema, y una criatura voladora a Distancia Extrema no puede ser golpeada.</p>\n<p>Cuando vuela, sufre una penalización de -20 a todos los intentos de combate a distancia mientras gira por el cielo..&nbsp;</p>\n<p>&nbsp;</p>\n</blockquote>",
         "effects": [
             {
                 "_id": "Z6VVttxZkdCc7Iww",
@@ -6191,7 +6191,7 @@
                     }
                 },
                 "icon": "modules/wfrp4e-core/icons/spells/light.png",
-                "label": "Envol (Luz)",
+                "label": "Vuelo (Luz)",
                 "tint": "",
                 "transfer": false
             },
@@ -6213,10 +6213,10 @@
             }
         ],
         "id": "Flight (Light)",
-        "name": "Envol (Luz)"
+        "name": "Vuelo (Luz)"
     },
     {
-        "description": "<p><span style=\"color: #231f20;\">Vous pouvez voler, en vous faisant pousser des ailes, en montant sur une colonne de Luz magique, ou toute autre méthode. Gagnez le Trait </span><span style=\"color: #231f20;\">Vol (x)</span></p>\n<p>&nbsp;</p>\n<blockquote>\n<p>Quand la créature se Déplace, elle peut voler jusqu'à x mètres. Elle ignore alors tous les terrains, obstacles et personnages qui s'interposent. À la fin de son Mouvement, elle décide si elle atterrit ou si elle continue de voler. Elle peut utiliser ce Mouvement pour Charger. Si elle commence son tour en volant, elle doit choisir le Vol pour son Mouvement. Si elle ne peut pas voler, le MJ décide à quelle distance elle tombe.</p>\n<p>Lorsqu'elle est une cible en vol, il faut mesurer la distance horizontale normalement, puis augmenter la distance de 1. Ainsi, une Longue Distance deVidant une Distance Extrême, et une créature volante à une Distance Extrême ne peut pas être touchée.</p>\n<p>Quand elle vole, elle subit une pénalité de -20 à toutes les tentatives de combat à distance, alors qu'elle virevolte dans le ciel.&nbsp;</p>\n<p>&nbsp;</p>\n</blockquote>",
+        "description": "<p><span style=\"color: #231f20;\">Puedes volar, haciendo que te crezcan alas, trepando por una columna mágica de Luz o por cualquier otro método. Ganar el rasgo </span><span style=\"color: #231f20;\">Vuelo (x)</span></p>\n<p>&nbsp;</p>\n<blockquote>\n<p>Cuando la criatura se mueve, puede volar hasta x metros. A continuación, ignora todos los terrenos, obstáculos y personajes que se interpongan en su camino. Al final de su movimiento, decide si aterriza o sigue volando. Puede usar este movimiento para Cargar. Si comienza su turno volando, debe elegir Vuelo para su Movimiento. Si no puede volar, el GM decide a qué distancia cae.</p>\n<p>Cuando se trata de un objetivo volador, mide la distancia horizontal normalmente, luego incrementa la distancia en 1. Así, un deVidente a Larga Distancia es una Distancia Extrema, y una criatura voladora a Distancia Extrema no puede ser golpeada.</p>\n<p>Cuando vuela, sufre una penalización de -20 a todos los intentos de combate a distancia mientras gira por el cielo..&nbsp;</p>\n<p>&nbsp;</p>\n</blockquote>",
         "effects": [
             {
                 "_id": "FAccQCDysAjLWR4k",
@@ -6239,7 +6239,7 @@
                     }
                 },
                 "icon": "modules/wfrp4e-core/icons/spells/metal.png",
-                "label": "Envol (Metal)",
+                "label": "Vuelo (Metal)",
                 "tint": "",
                 "transfer": false
             },
@@ -6261,10 +6261,10 @@
             }
         ],
         "id": "Flight (Metal)",
-        "name": "Envol (Metal)"
+        "name": "Vuelo (Metal)"
     },
     {
-        "description": "<p><span style=\"color: #231f20;\">Vous pouvez voler, en vous faisant pousser des ailes, en montant sur une colonne de Luz magique, ou toute autre méthode. Gagnez le Trait </span><span style=\"color: #231f20;\">Vol (x)</span></p>\n<p>&nbsp;</p>\n<blockquote>\n<p>Quand la créature se Déplace, elle peut voler jusqu'à x mètres. Elle ignore alors tous les terrains, obstacles et personnages qui s'interposent. À la fin de son Mouvement, elle décide si elle atterrit ou si elle continue de voler. Elle peut utiliser ce Mouvement pour Charger. Si elle commence son tour en volant, elle doit choisir le Vol pour son Mouvement. Si elle ne peut pas voler, le MJ décide à quelle distance elle tombe.</p>\n<p>Lorsqu'elle est une cible en vol, il faut mesurer la distance horizontale normalement, puis augmenter la distance de 1. Ainsi, une Longue Distance deVidant une Distance Extrême, et une créature volante à une Distance Extrême ne peut pas être touchée.</p>\n<p>Quand elle vole, elle subit une pénalité de -20 à toutes les tentatives de combat à distance, alors qu'elle virevolte dans le ciel.&nbsp;</p>\n<p>&nbsp;</p>\n</blockquote>",
+        "description": "<p><span style=\"color: #231f20;\">Puedes volar, haciendo que te crezcan alas, trepando por una columna mágica de Luz o por cualquier otro método. Ganar el rasgo </span><span style=\"color: #231f20;\">Vuelo (x)</span></p>\n<p>&nbsp;</p>\n<blockquote>\n<p>Cuando la criatura se mueve, puede volar hasta x metros. A continuación, ignora todos los terrenos, obstáculos y personajes que se interpongan en su camino. Al final de su movimiento, decide si aterriza o sigue volando. Puede usar este movimiento para Cargar. Si comienza su turno volando, debe elegir Vuelo para su Movimiento. Si no puede volar, el GM decide a qué distancia cae.</p>\n<p>Cuando se trata de un objetivo volador, mide la distancia horizontal normalmente, luego incrementa la distancia en 1. Así, un deVidente a Larga Distancia es una Distancia Extrema, y una criatura voladora a Distancia Extrema no puede ser golpeada.</p>\n<p>Cuando vuela, sufre una penalización de -20 a todos los intentos de combate a distancia mientras gira por el cielo..&nbsp;</p>\n<p>&nbsp;</p>\n</blockquote>",
         "effects": [
             {
                 "_id": "5dmiMrIZR4kWmxGe",
@@ -6287,16 +6287,16 @@
                     }
                 },
                 "icon": "modules/wfrp4e-core/icons/spells/necromancy.png",
-                "label": "Envol (Nigromancia)",
+                "label": "Vuelo (Nigromancia)",
                 "tint": "",
                 "transfer": false
             }
         ],
         "id": "Flight (Necromancy)",
-        "name": "Envol (Nigromancia)"
+        "name": "Vuelo (Nigromancia)"
     },
     {
-        "description": "<p><span style=\"color: #231f20;\">Vous pouvez voler, en vous faisant pousser des ailes, en montant sur une colonne de Luz magique, ou toute autre méthode. Gagnez le Trait </span><span style=\"color: #231f20;\">Vol (x)</span></p>\n<p>&nbsp;</p>\n<blockquote>\n<p>Quand la créature se Déplace, elle peut voler jusqu'à x mètres. Elle ignore alors tous les terrains, obstacles et personnages qui s'interposent. À la fin de son Mouvement, elle décide si elle atterrit ou si elle continue de voler. Elle peut utiliser ce Mouvement pour Charger. Si elle commence son tour en volant, elle doit choisir le Vol pour son Mouvement. Si elle ne peut pas voler, le MJ décide à quelle distance elle tombe.</p>\n<p>Lorsqu'elle est une cible en vol, il faut mesurer la distance horizontale normalement, puis augmenter la distance de 1. Ainsi, une Longue Distance deVidant une Distance Extrême, et une créature volante à une Distance Extrême ne peut pas être touchée.</p>\n<p>Quand elle vole, elle subit une pénalité de -20 à toutes les tentatives de combat à distance, alors qu'elle virevolte dans le ciel.&nbsp;</p>\n<p>&nbsp;</p>\n</blockquote>",
+        "description": "<p><span style=\"color: #231f20;\">Puedes volar, haciendo que te crezcan alas, trepando por una columna mágica de Luz o por cualquier otro método. Ganar el rasgo </span><span style=\"color: #231f20;\">Vuelo (x)</span></p>\n<p>&nbsp;</p>\n<blockquote>\n<p>Cuando la criatura se mueve, puede volar hasta x metros. A continuación, ignora todos los terrenos, obstáculos y personajes que se interpongan en su camino. Al final de su movimiento, decide si aterriza o sigue volando. Puede usar este movimiento para Cargar. Si comienza su turno volando, debe elegir Vuelo para su Movimiento. Si no puede volar, el GM decide a qué distancia cae.</p>\n<p>Cuando se trata de un objetivo volador, mide la distancia horizontal normalmente, luego incrementa la distancia en 1. Así, un deVidente a Larga Distancia es una Distancia Extrema, y una criatura voladora a Distancia Extrema no puede ser golpeada.</p>\n<p>Cuando vuela, sufre una penalización de -20 a todos los intentos de combate a distancia mientras gira por el cielo..&nbsp;</p>\n<p>&nbsp;</p>\n</blockquote>",
         "effects": [
             {
                 "_id": "jVocrS6Ewt0dQ7j6",
@@ -6319,7 +6319,7 @@
                     }
                 },
                 "icon": "modules/wfrp4e-core/icons/spells/shadow.png",
-                "label": "Envol (Sombras)",
+                "label": "Vuelo (Sombras)",
                 "tint": "",
                 "transfer": false
             },
@@ -6341,10 +6341,10 @@
             }
         ],
         "id": "Flight (Shadow)",
-        "name": "Envol (Sombras)"
+        "name": "Vuelo (Sombras)"
     },
     {
-        "description": "<p>Vous appelez une bande de corbeaux ou des oiseaux locaux similaires pour assaillir vos ennemis.</p>\n<p>&nbsp;</p>\n<p>La volée attaque farouchement quiconque se trouve dans la Zone d'Effet et qui ne possède pas le Talent <em>Magie des Arcanes (Bestias)</em>, infligeant +7 Dégâts à la fin du Round. La volée reste en jeu pour la durée du Sort. Pour votre Action, vous pouvez effectuer un Test d'<strong>Emprise sur les animaux Accessible (+20)</strong> pour déplacer la volée sur une autre cible à l'intérieur de la portée. Tant qu'elles se trouvent dans la Zone d'Effet, toutes les créatures gagnent +1 État <em>Aveuglé</em></p>",
+        "description": "<p>La bandada ataca ferozmente a cualquiera en el Área de efecto que no tiene el Talento <em>Magia arcana (Bestias)</em>, infligiendo un impacto de +7 al Daño al final del Asalto. La bandada permanece en juego mientras dura el hechizo. como tu Acción, puedes llevar a cabo un Chequeo <strong>Normal (+20) de Carisma animal</strong> para mover la bandada a otro objetivo dentro del alcance. dentro del Área de efecto, todas las criaturas sufren +1 Estado de <em>Cegado</em>.</p>",
         "effects": [
             {
                 "_id": "XWqRPuOIRqT7ADcq",
@@ -6364,10 +6364,10 @@
             }
         ],
         "id": "Flock of Doom",
-        "name": "Vol du destin"
+        "name": "Bandada de muerte"
     },
     {
-        "description": "<p>Vous tissez des vents de <em>Chamon</em> dans un objet non magique constitué de Metal, modifiant fondamentalement sa nature alchimique. Pour la durée du Sort, tout le Metal de l'objet deVidant de l'or. Ce n'est pas une illusion : il s'est réellement transformé en or. Quand le Sort prend fin, l'objet reVidant à son Metal d'origine. Ce Sort peut ruiner de bonnes armes, rendre les armures trop lourdes à porter, et changer les pièces de plomb en quelque chose de plus attrayant. Les effets découlant de ce Sort sont à l'entière préférence du MJ.</p>",
+        "description": "<p>Tejes <em>Chamon</em> en un objeto no mágico hecho de metal, alterando fundamentalmente su naturaleza alquímica. Mientras dure el hechizo, todo el metal del objeto se convertirá en oro. No se trata de una ilusión: se ha transformado realmente en oro. Cuando el hechizo acaba, el objeto revierte a su metal original. Este hechizo puede arruinar armas de buena calidad, hacer que la armadura sea demasiado pesada como para soportarse y convertir monedas de plomo en algo mucho más apetecible. Otros efectos derivados de este hechizo se dejan en manos del DJ.</p>",
         "effects": [
             {
                 "_id": "N8aouxs2vmoIColj",
@@ -6387,10 +6387,10 @@
             }
         ],
         "id": "Fool’s Gold",
-        "name": "L'Or des fous"
+        "name": "Oro de los tontos"
     },
     {
-        "description": "<p>Ce Sort peut uniquement cibler un carré de terre (même très petit). Vous faites jaillir un amas dense de ronces et de vignes grimpantes qui recouvre la Zone d'Effet.</p>\n<p>&nbsp;</p>\n<p>Tant que le Sort est actif, quiconque tente de traverser la zone à pied sans posséder le Talent <em>Magie des Arcanes (Vida)</em> doit réussir un Test d' <strong>Agilité Difficile (-20)</strong>. Un échec signifie qu'il gagne 1 État <em>Hémorragique</em>, et 1 État <em>Empêtré</em>, qui utilise votre Force Mentale pour sa Force. Une fois le Sort terminé, la végétation persiste mais perd ses propriétés surnaturelles.</p>",
+        "description": "<p>Este hechizo puede tan solo tener como objetivo un parche de tierra (que puede ser muy pequeño). Haces que un denso nudo de zarzas con espinas muy afiladas y matorrales enmarañados surja del suelo, cubriendo el Área de efecto. Mientras el hechizo permanece activo, todo el que intenta atravesar el área a pie sin el Talento <em>Magia arcana (Vida)</em> debe llevar a cabo un Chequeo <strong>Difícil (-20) de Agilidad</strong>. Un fallo significa que sufre 1 Estado de <em>Sangrando</em>, y 1 Estado de <em>Enmarañado</em>, cuya Fuerza es idéntica a tu Voluntad. Una vez concluye el hechizo, el brote persiste, pero pierde sus propiedades preternaturales.</p>",
         "effects": [
             {
                 "_id": "nRe2A94ofAcIzWYc",
@@ -6410,10 +6410,10 @@
             }
         ],
         "id": "Forest of Thorns",
-        "name": "Forêt d'épines"
+        "name": "Bosque de espinas"
     },
     {
-        "description": "<p>Vous modifiez la qualité d'un objet composé de Metal. Vous pouvez ajouter 1 Atout ou retirer 1 Défaut. Pour chaque +2 DR, vous pouvez ajouter un autre Atout ou retirer un autre Défaut.</p>",
+        "description": "<p>Alteras la calidad de un solo objeto hecho de metal. Puedes añadir 1 Cualidad o eliminar 1 Defecto. Por cada +2NE puedes añadir otra Cualidad o eliminar otro Defecto.</p>",
         "effects": [
             {
                 "_id": "Aj28nFHuzYErCLeM",
@@ -6433,7 +6433,7 @@
             }
         ],
         "id": "Forge of Chamon",
-        "name": "Forge de Chamon"
+        "name": "Forja de Chamon"
     },
     {
         "description": "<p>Les rafales sauvages de <em>Chamon</em> déviant les coups et interceptant les projectiles et les attaques magiques. Gagnez le Trait de Créature <em>Protection (9+)</em> contre toutes les attaques et Sorts vous prenant pour cible. CHaque frappe évitée avec succès augmente l'efficacité de Protection de 1, jusqu'à un maximum de <em>Protection (3+).</em></p>",
