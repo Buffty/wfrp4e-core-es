@@ -735,7 +735,7 @@
         "name": "Brazos del Aethyr (Sombras)"
     },
     {
-        "description": "<p>Vos ongles se transforment en serres acérées de cristal ambre. Les attaques à mains nues effectuées en utilisant Corps à Corps (Bagarre) sont considérées comme magiques, possèdent une valeur de Dégâtségale à votre Bonus de Forme Mentale et infligent +1 État <em>Hémorragique</em> chaque fois qu'elles entraînent la perte des Blessures.</p>",
+        "description": "<p>Tus uñas crecen hasta convertirse en garras tremedamente afiladas de cristal color ámbar. Tus ataques sin armas hechos utilizando Cuerpo a cuerpo (pelea) cuentann como mágicos, tienen un Daño igual a tu Bonificador por Voluntad e infligen +1 Estado de Sangrando cada vez que causan una pérdidas de Heridas.</p>",
         "effects": [
             {
                 "_id": "WVkwwEeE8P2XhuTW",
@@ -755,7 +755,7 @@
             }
         ],
         "id": "Amber Talons",
-        "name": "Serres d'ambre"
+        "name": "Garras de ámbar"
     },
     {
         "description": "<p>Te haces amigo de una criatura más pequeña que tú, poseedora del Rasgo de criatura Bestial. El animal confía en ti por completo y te ve como un amigo.</p>",
@@ -764,7 +764,7 @@
         "name": "Amigo animal"
     },
     {
-        "description": "<p style=\"margin: 0in; font-family: Calibri; font-size: 11.0pt;\"><span style=\"color: #231f20;\">Vous vous enroulez dans une cape ardente de <em>Aqshy</em>, qui concentre les flammes sous forme d'Égide. Vous êtes complètement immunisé aux Dégâts de Fuego non magiques, y compris les attaques de souffle des monstres et ignorez tous les États <em>Enflammé</em></span><span style=\"color: #231f20;\"> que vous subissez. Vous recevez le Trait de créature <em>Protection</em> (+9) contre les attaques de Fuego magiques, y compris les Sorts du Saber del Fuego.</span></p>\n<p style=\"margin: 0in; font-family: Calibri; font-size: 11.0pt;\">&nbsp;</p>\n<blockquote>\n<p>Parce qu'elles sont magiques, bénéficient d'un talisman particulier ou sont juste chanceuses, certaines créatures semblent éviter les coups. Lancer 1d10 après chaque coup reçu. En cas de résultat supérieur ou égal, le coup est ignoré même s'il s'agit d'un Critique.</p>\n</blockquote>",
+        "description": "<p style=\"margin: 0in; font-family: Calibri; font-size: 11.0pt;\"><span style=\"color: #231f20;\">Te envuelves en un flamígero manto de <em>Aqshy</em>, que canaliza llamas hacia la égida. Eres completamente inmune al Daño procedente de fuegos no mágicos, incluyendo las armas de aliento de los monstruos, e ignoras todo Estado de <em>Ardiendo</em></span><span style=\"color: #231f20;\"> que sufres. Obtienes el Rasgo de criatura <em>Custodiado</em> (+9) contra los ataques de fuego mágico, incluyendo los hechizos del Saber del Fuego.</p>\n</blockquote>",
         "effects": [
             {
                 "_id": "tpZci6jMLS2uplK4",
@@ -787,13 +787,13 @@
         "name": "Égida de Aqshy"
     },
     {
-        "description": "<p>Tous les projectiles constitués de matière organique, comme des flèches en bois, sont automatiquement détruits s'ils entrent dans la Zone d'Effet, n'infligeant aucun Dégât à leur cible. Les projectiles constitués uniquement de matière non organique, comme les couteux de lancer ou les munitions de pistolet, ne sont pas affectés</p>",
+        "description": "<p>Todo proyectil que contenga materia orgánica, como por ejemplo las flechas con el astil de madera, quedará automáticamente destruido si atraviesa el Área de efecto, sin causar daño alguno a su objetivo. Los proyectiles que tan sólo contienen materia inorgánica, como por ejemplo los cuchillos arrojadizos o los disparos de pistola, no se ven afectados.</p>",
         "effects": [],
         "id": "Arrow Shield",
-        "name": "Bouclier anti-flèches"
+        "name": "Escudo contra las flechas"
     },
     {
-        "description": "<p>Tous les projectiles constitués de matière organique, comme des flèches en bois, sont automatiquement détruits s'ils entrent dans la Zone d'Effet, n'infligeant aucun Dégât à leur cible. Les projectiles constitués uniquement de matière non organique, comme les couteux de lancer ou les munitions de pistolet, ne sont pas affectés</p>\n\n <b>Domaine :</b> Chaque fois que vous lancez avec succès un Sort du Domaine de la Bestias, vous pouvez aussi gagner le Trait de créature Peur (1).",
+        "description": "<p>Todo proyectil que contenga materia orgánica, como por ejemplo las flechas con el astil de madera, quedará automáticamente destruido si atraviesa el Área de efecto, sin causar daño alguno a su objetivo. Los proyectiles que tan sólo contienen materia inorgánica, como por ejemplo los cuchillos arrojadizos o los disparos de pistola, no se ven afectados.</p>",
         "effects": [
             {
                 "_id": "8PoG9X9j174Vpp99",
@@ -813,16 +813,16 @@
             }
         ],
         "id": "Arrow Shield (Beasts)",
-        "name": "Bouclier anti-flèches (Bestias)"
+        "name": "Escudo contra las flechas (Bestias)"
     },
     {
-        "description": "<p>Tous les projectiles constitués de matière organique, comme des flèches en bois, sont automatiquement détruits s'ils entrent dans la Zone d'Effet, n'infligeant aucun Dégât à leur cible. Les projectiles constitués uniquement de matière non organique, comme les couteux de lancer ou les munitions de pistolet, ne sont pas affectés</p>",
+        "description": "<p>Todo proyectil que contenga materia orgánica, como por ejemplo las flechas con el astil de madera, quedará automáticamente destruido si atraviesa el Área de efecto, sin causar daño alguno a su objetivo. Los proyectiles que tan sólo contienen materia inorgánica, como por ejemplo los cuchillos arrojadizos o los disparos de pistola, no se ven afectados.</p>",
         "effects": [],
         "id": "Arrow Shield (Daemonology)",
-        "name": "Bouclier anti-flèches (Demonologia)"
+        "name": "Escudo contra las flechas (Demonologia)"
     },
     {
-        "description": "<p>Tous les projectiles constitués de matière organique, comme des flèches en bois, sont automatiquement détruits s'ils entrent dans la Zone d'Effet, n'infligeant aucun Dégât à leur cible. Les projectiles constitués uniquement de matière non organique, comme les couteux de lancer ou les munitions de pistolet, ne sont pas affectés</p>",
+        "description": "<p>Todo proyectil que contenga materia orgánica, como por ejemplo las flechas con el astil de madera, quedará automáticamente destruido si atraviesa el Área de efecto, sin causar daño alguno a su objetivo. Los proyectiles que tan sólo contienen materia inorgánica, como por ejemplo los cuchillos arrojadizos o los disparos de pistola, no se ven afectados.</p>",
         "effects": [
             {
                 "_id": "sG0UCdR2vhPIxae2",
@@ -842,10 +842,10 @@
             }
         ],
         "id": "Arrow Shield (Death)",
-        "name": "Bouclier anti-flèches (Muerte)"
+        "name": "Escudo contra las flechas (Muerte)"
     },
     {
-        "description": "<p>Tous les projectiles constitués de matière organique, comme des flèches en bois, sont automatiquement détruits s'ils entrent dans la Zone d'Effet, n'infligeant aucun Dégât à leur cible. Les projectiles constitués uniquement de matière non organique, comme les couteux de lancer ou les munitions de pistolet, ne sont pas affectés.</p>",
+        "description": "<p>Todo proyectil que contenga materia orgánica, como por ejemplo las flechas con el astil de madera, quedará automáticamente destruido si atraviesa el Área de efecto, sin causar daño alguno a su objetivo. Los proyectiles que tan sólo contienen materia inorgánica, como por ejemplo los cuchillos arrojadizos o los disparos de pistola, no se ven afectados..</p>",
         "effects": [
             {
                 "_id": "CkWfpT9n0qLmT7p5",
@@ -865,10 +865,10 @@
             }
         ],
         "id": "Arrow Shield (Fire)",
-        "name": "Bouclier anti-flèches (Fuego)"
+        "name": "Escudo contra las flechas (Fuego)"
     },
     {
-        "description": "<p>Tous les projectiles constitués de matière organique, comme des flèches en bois, sont automatiquement détruits s'ils entrent dans la Zone d'Effet, n'infligeant aucun Dégât à leur cible. Les projectiles constitués uniquement de matière non organique, comme les couteux de lancer ou les munitions de pistolet, ne sont pas affectés.</p>\n\n <b>Domaine :</b> Les Sorts infligeant des Dégâts ignorent les PA des armures en Metal, et se dirigent vers toutes les autres cibles dans les 2 mètres, à l'exception de ceux possédant le Talent Magie des Arcanes (Cielos), infligeant un nombre de Dégâts égal à votre Bonus de Force Mentale, traités comme un projectile magique.",
+        "description": "<p>Todo proyectil que contenga materia orgánica, como por ejemplo las flechas con el astil de madera, quedará automáticamente destruido si atraviesa el Área de efecto, sin causar daño alguno a su objetivo. Los proyectiles que tan sólo contienen materia inorgánica, como por ejemplo los cuchillos arrojadizos o los disparos de pistola, no se ven afectados..</p>\n\n <b>Domaine :</b> Les Sorts infligeant des Dégâts ignorent les PA des armures en Metal, et se dirigent vers toutes les autres cibles dans les 2 mètres, à l'exception de ceux possédant le Talent Magie des Arcanes (Cielos), infligeant un nombre de Dégâts égal à votre Bonus de Force Mentale, traités comme un projectile magique.",
         "effects": [
             {
                 "_id": "k8QHDpAVOuwVoLZV",
@@ -888,10 +888,10 @@
             }
         ],
         "id": "Arrow Shield (Heavens)",
-        "name": "Bouclier anti-flèches (Cielos)"
+        "name": "Escudo contra las flechas (Cielos)"
     },
     {
-        "description": "<p>Tous les projectiles constitués de matière organique, comme des flèches en bois, sont automatiquement détruits s'ils entrent dans la Zone d'Effet, n'infligeant aucun Dégât à leur cible. Les projectiles constitués uniquement de matière non organique, comme les couteux de lancer ou les munitions de pistolet, ne sont pas affectés.</p>\n\n <b>Domaine :</b> Recevez un bonus de +10 aux lancers pour Incanter ou Focaliser dans un environnement rural ou sauvage. Les créatures vivantes - par exemple, les créatures ne possédant pas les Traites Démonique ou Muerte-vivant - ciblées par des Sorts d'Arcane issus du Saber de la Vida se voient retirer tous les États Exténué ou Hémorragique, après que tous les autres effets ont été appliqués, alors que des flots magiques de Vida les traversent. Les créature avec le Trait de créature Muerte-vivant, à l'inverse, subissent un nombre de Dégâts supplémentaires égal à votre Bonus de Force Mentale, ignorant le Bonus d'Endurance et les PA, si elles sont affectées par un Sort issu du Saber de la Vida.",
+        "description": "<p>Todo proyectil que contenga materia orgánica, como por ejemplo las flechas con el astil de madera, quedará automáticamente destruido si atraviesa el Área de efecto, sin causar daño alguno a su objetivo. Los proyectiles que tan sólo contienen materia inorgánica, como por ejemplo los cuchillos arrojadizos o los disparos de pistola, no se ven afectados..</p>\n\n <b>Domaine :</b> Recevez un bonus de +10 aux lancers pour Incanter ou Focaliser dans un environnement rural ou sauvage. Les créatures vivantes - par exemple, les créatures ne possédant pas les Traites Démonique ou Muerte-vivant - ciblées par des Sorts d'Arcane issus du Saber de la Vida se voient retirer tous les États Exténué ou Hémorragique, après que tous les autres effets ont été appliqués, alors que des flots magiques de Vida les traversent. Les créature avec le Trait de créature Muerte-vivant, à l'inverse, subissent un nombre de Dégâts supplémentaires égal à votre Bonus de Force Mentale, ignorant le Bonus d'Endurance et les PA, si elles sont affectées par un Sort issu du Saber de la Vida.",
         "effects": [
             {
                 "_id": "zDTGrjRsCg6JHfj3",
@@ -911,10 +911,10 @@
             }
         ],
         "id": "Arrow Shield (Life)",
-        "name": "Bouclier anti-flèches (Vida)"
+        "name": "Escudo contra las flechas (Vida)"
     },
     {
-        "description": "<p>Tous les projectiles constitués de matière organique, comme des flèches en bois, sont automatiquement détruits s'ils entrent dans la Zone d'Effet, n'infligeant aucun Dégât à leur cible. Les projectiles constitués uniquement de matière non organique, comme les couteux de lancer ou les munitions de pistolet, ne sont pas affectés.</p>\n\n <b>Domaine :</b> Vous pouvez infliger un État Aveuglé aux cibles des Sorts du Saber de la Luz, à moins qu'ils ne possèdent le Talent Magie des Arcanes (Luz).",
+        "description": "<p>Todo proyectil que contenga materia orgánica, como por ejemplo las flechas con el astil de madera, quedará automáticamente destruido si atraviesa el Área de efecto, sin causar daño alguno a su objetivo. Los proyectiles que tan sólo contienen materia inorgánica, como por ejemplo los cuchillos arrojadizos o los disparos de pistola, no se ven afectados..</p>\n\n <b>Domaine :</b> Vous pouvez infliger un État Aveuglé aux cibles des Sorts du Saber de la Luz, à moins qu'ils ne possèdent le Talent Magie des Arcanes (Luz).",
         "effects": [
             {
                 "_id": "IYVruVM12S9802P8",
@@ -934,10 +934,10 @@
             }
         ],
         "id": "Arrow Shield (Light)",
-        "name": "Bouclier anti-flèches (Luz)"
+        "name": "Escudo contra las flechas (Luz)"
     },
     {
-        "description": "<p>Tous les projectiles constitués de matière organique, comme des flèches en bois, sont automatiquement détruits s'ils entrent dans la Zone d'Effet, n'infligeant aucun Dégât à leur cible. Les projectiles constitués uniquement de matière non organique, comme les couteux de lancer ou les munitions de pistolet, ne sont pas affectés.</p>\n\n <b>Domaine :</b> Les Sorts infligeant des Dégâts ignorent les PA des armures Metalliques, et infligent un bonus de Dégât égal au nombre de PA de l'armure Metallique portée à n'importe quelle Localisation frappée. Donc, si votre Sort frappe un Bras protégé par 2 PA d'une armure Metallique, il inflige +2 Dégâts supplémentaires et ignore les PA.",
+        "description": "<p>Todo proyectil que contenga materia orgánica, como por ejemplo las flechas con el astil de madera, quedará automáticamente destruido si atraviesa el Área de efecto, sin causar daño alguno a su objetivo. Los proyectiles que tan sólo contienen materia inorgánica, como por ejemplo los cuchillos arrojadizos o los disparos de pistola, no se ven afectados..</p>\n\n <b>Domaine :</b> Les Sorts infligeant des Dégâts ignorent les PA des armures Metalliques, et infligent un bonus de Dégât égal au nombre de PA de l'armure Metallique portée à n'importe quelle Localisation frappée. Donc, si votre Sort frappe un Bras protégé par 2 PA d'une armure Metallique, il inflige +2 Dégâts supplémentaires et ignore les PA.",
         "effects": [
             {
                 "_id": "LS2DEnM4L64MLRe4",
@@ -957,16 +957,16 @@
             }
         ],
         "id": "Arrow Shield (Metal)",
-        "name": "Bouclier anti-flèches (Metal)"
+        "name": "Escudo contra las flechas (Metal)"
     },
     {
-        "description": "<p>Tous les projectiles constitués de matière organique, comme des flèches en bois, sont automatiquement détruits s'ils entrent dans la Zone d'Effet, n'infligeant aucun Dégât à leur cible. Les projectiles constitués uniquement de matière non organique, comme les couteux de lancer ou les munitions de pistolet, ne sont pas affectés.</p>",
+        "description": "<p>Todo proyectil que contenga materia orgánica, como por ejemplo las flechas con el astil de madera, quedará automáticamente destruido si atraviesa el Área de efecto, sin causar daño alguno a su objetivo. Los proyectiles que tan sólo contienen materia inorgánica, como por ejemplo los cuchillos arrojadizos o los disparos de pistola, no se ven afectados..</p>",
         "effects": [],
         "id": "Arrow Shield (Necromancy)",
-        "name": "Bouclier anti-flèches (Nigromancia)"
+        "name": "Escudo contra las flechas (Nigromancia)"
     },
     {
-        "description": "<p>Tous les projectiles constitués de matière organique, comme des flèches en bois, sont automatiquement détruits s'ils entrent dans la Zone d'Effet, n'infligeant aucun Dégât à leur cible. Les projectiles constitués uniquement de matière non organique, comme les couteux de lancer ou les munitions de pistolet, ne sont pas affectés.</p>",
+        "description": "<p>Todo proyectil que contenga materia orgánica, como por ejemplo las flechas con el astil de madera, quedará automáticamente destruido si atraviesa el Área de efecto, sin causar daño alguno a su objetivo. Los proyectiles que tan sólo contienen materia inorgánica, como por ejemplo los cuchillos arrojadizos o los disparos de pistola, no se ven afectados..</p>",
         "effects": [
             {
                 "_id": "rErH56I60yPxm10o",
@@ -986,10 +986,10 @@
             }
         ],
         "id": "Arrow Shield (Shadow)",
-        "name": "Bouclier anti-flèches (Sombras)"
+        "name": "Escudo contra las flechas (Sombras)"
     },
     {
-        "description": "<p>Vous envoyez depuis vos mains un halo purificateur de <em>Hysh</em>, affectant toutes les créatures à l'intérieur de la Zone d'Effet dont l'Endurance est inférieure à votre Force Mentale. Les cibles possédant les Traits de crétaure <em>Muerte-vivant</em> et <em>Démoniaque</em> gagnent le Trait de créature <em>Instable</em>&nbsp;. Si elles possèdent déjà le Trait <em>Instable</em>, elles sont réduites à 0 Points de Blessure.</p>",
+        "description": "<p>Envías un halo limpiador de <em>Hysh</em>, que sale de tus manos, y que afecta a todas las criaturas del Área de efecto cuya Resistencia es menor que tu Voluntad. Los objetivos con los Rasgos de criatura <em>Muerto viviente</em> o <em>Demoníaco</em> obtienen el Rasgo de criatura <em>Inestable</em>&nbsp;. Si ya tienen dicho rasgo, quedan reducidos a 0 Heridas.</p>",
         "effects": [
             {
                 "_id": "5d4TlRuekyu6xW2g",
@@ -1034,10 +1034,10 @@
             }
         ],
         "id": "Banishment",
-        "name": "Bannissement"
+        "name": "Destierro"
     },
     {
-        "description": "<p>Vous faites en sorte que la peau de la cible deVidanne dure et ruguese comme l'écorce d'un arbre. Tant qu'elle est affectée par le Sort, la cible gagne +2 à son Bonus d'Endurance, mais subit une pénalité de -10 en Agilité et Dextérité.</p>",
+        "description": "<p>Haces que la piel del objetivo se vuelva recia y rugosa como la corteza de un árbol. Mientras permanece afectado por el hechizo, suma +2 al Bonificador por Resistencia del objetivo, a la vez que éste sufre un penalizador -10 a su Agilidad y a su Destreza.</p>",
         "effects": [
             {
                 "_id": "Fs44PSPJ1je56N62",
@@ -1071,7 +1071,7 @@
                     }
                 },
                 "icon": "modules/wfrp4e-core/icons/spells/barkskin.png",
-                "label": "Écorce",
+                "label": "Piel de corteza",
                 "tint": "",
                 "transfer": false
             },
@@ -1093,7 +1093,7 @@
             }
         ],
         "id": "Barkskin",
-        "name": "Écorce"
+        "name": "Piel de corteza"
     },
     {
         "description": "<p>Notas el influjo de los Vidantos de la Magia desde su origen. Sabes en qué dirección se encuentra el Norte.</p>",
@@ -1102,7 +1102,7 @@
         "name": "Dirección"
     },
     {
-        "description": "<p>Vous imprégnez vos os et votre chair de <em>Ghur</em>, transformant votre corps en celui d'une créature. Quand vous incantez, choisissez une nouvelle forme parmi les Bestiass du Reikland présentées dans le Bestiaire. Gagnez tous les Traits standard de la créature sauf <em>Bestial</em>. De plus, remplacez votre <strong>F</strong>, <strong>E</strong>, <strong>Ag</strong>, et <strong>Dex</strong> avec celles de la créature, puis recalculez vos Points de Blessure. Pour chaque + 2 DR, vous pouvez intégrer 1 des Traits de créature Facultatifs.</p>\n<p>Sous Forme bestiale, vous ressemblez à la version normale de la créature, avec des reflets ambres et bruns. Vous ne pouvez pas parler, ce qui signifie que vous ne pouvez pas lancer de Sorts ou tenter de les dissiper. Lorsque le Sort s'achève et que vous reprenez votre vraie forme, les Points de Blessure éventuellement perdus le demeurent, avec un minimum de 0.</p>",
+        "description": "<p>Infundes tus propios huesos y tu carne con el <em>Ghur</em>, transformando tu cuerpo en el de una criatura. Cuando lo lanzas, selecciona una forma nueva de cualquiera de las que encontrarás en la sección del Bestiario BNestias de Reikland. Obtienes los Rasgos estándar de la criatura excepto <em>Bestial</em>. Además, reemplaza tu <strong>F</strong>, <strong>R</strong>, <strong>Ag</strong>, y <strong>Des</strong> por los de la criatura, y a continuación recalcula tus Heridas. Por cada +2 NE, puedes incluir 1 de los Rasgos de criatura opcionales incluidos. En forma de bestia, pareces una versión normal de la criatura, de colores ámbar y marrón. No puedes hablar, lo que significa que no puedes lanzar hechizos, ni intentar dispersarlos.</p>",
         "effects": [
             {
                 "_id": "bg17oLfkKKvDuKSJ",
@@ -1122,10 +1122,10 @@
             }
         ],
         "id": "Beast Form",
-        "name": "Forme bestiale"
+        "name": "Forma de bestia"
     },
     {
-        "description": "<p>Votre souffle s'embrase et vos yeux prennent une lueur ambre alors que Ghur s'installe en vous. Votre regard et vos mots persuadent 1 créature possédant le trait Bestial que vous êtes le chef de sa meute, et elle combattra jusqu'à la Muerte pour vous protéger. Tant qu'elle sera sous votre contrôle, elle suivra vos instructions, comprenant instinctivement des instructions simples. Si la créature est libérée du Sort - parce que la durée est écoulée ou parce que le SSort a été dissipé - elle conservera suffisamment de respect et de crainte résiduels pour ne pas vous attaquer, à moins d'y être contrainte. Vos alliés pourraient ne pas avoir cette chance.</p>",
+        "description": "<p>Tu aliento se condensa y tus ojos adoptan un brillo ámbar mientras el <em>Ghur</em> te infunde. Tu mirada y tus palabras convencen a 1 criatura con el Rasgo <em>Bestial</em> de que eres el líder de su manada, y luchará a muerte para protegerte. Mientras esté sujeta a tu dominio, seguirá a tus instrucciones, entendiendo de forma instintiva cosas sencillas. Si la criaturaes es liberada del hechizo (o bien porque ha concluido su duración, o bien porque ha sido dispersado) te tendrá el suficiente respeto y miedo residuales como para no atacarte, a menos que se le obligue a ello. Tus aliados podrían no tener tanta suerte.</p>",
         "effects": [
             {
                 "_id": "v2komrktUSQkUFsq",
@@ -1145,10 +1145,10 @@
             }
         ],
         "id": "Beast Master",
-        "name": "Maître de la Bestias"
+        "name": "Amo de las bestias"
     },
     {
-        "description": "<p>Vous pouvez communiquer avec toutes les créatures possédant le Trait Bestial. <em>Ghur</em> obstrue votre gorge et votre langage deVidant des grondements, des sifflements ou des rugissements en fonction des Bestiass auxquelles vous voulez parler. Bien queles créatures ne soient pas forcées de vous répondre, ou de faire ce que vous demandez, la plupart seront suffisamment curieuses pour vous écouter.</p>",
+        "description": "<p>Puedes comunicarte con todas criaturas que tienen el Rasgo de criatura <em>Bestial</em>.El <em>Ghur</em> se aferra a tu garganta, y tu habla surge como gruñidos, siseos y rugidos, según las bestias a las que hablas. Si bien las criaturas no están obligadas a hacer lo que tú dices, la mayoría serán lo suficientemente curiosas como para querer oír lo que tienes que decirles.</p>\n<p>Obtienes un +20 a todos los Chequeos de Carisma animal y Adiestrar animales. Mientras este hechizo permanece activo, tan sólo puedes hablar con las bestias; no puedes hablar ninguna lengua civilizada y tan sólo puedes comunicarte con tu grupo utilizando gestos o bien Hablar idioma (batalla). Toma nota de que esto también significa que no puedes lanzar ningún hechizo ni dispersarlo mientras <em>Lengua de las bestias</em> está activo.</p>",
         "effects": [
             {
                 "_id": "UW3d5MaZw81uZEnR",
@@ -1171,7 +1171,7 @@
                     }
                 },
                 "icon": "modules/wfrp4e-core/icons/spells/beast-tongue.png",
-                "label": "Langue bestiale",
+                "label": "Lengua de las bestias",
                 "tint": "",
                 "transfer": false
             },
@@ -1193,16 +1193,16 @@
             }
         ],
         "id": "Beast Tongue",
-        "name": "Langue bestiale"
+        "name": "Lengua de las bestias"
     },
     {
-        "description": "<p>Vous focalisez la magie en une onde de choc explosive. Il s'agit d'un projectile magique de +3 Dégâts qui cible quiconque se trouve dans la Zone d'Effet</p>",
+        "description": "<p>Canalizas magia en forma de detonación explosiva. Este es un <em>proyectil mágico</em> con Daño +3 que tiene como objetivo a todo el que se encuentra en su Área de efecto.</p>",
         "effects": [],
         "id": "Blast",
-        "name": "Explosion"
+        "name": "Explosión"
     },
     {
-        "description": "<p>Vous focalisez la magie en une onde de choc explosive. Il s'agit d'un projectile magique de +3 Dégâts qui cible quiconque se trouve dans la Zone d'Effet</p>",
+        "description": "<p>Canalizas magia en forma de detonación explosiva. Este es un <em>proyectil mágico</em> con Daño +3 que tiene como objetivo a todo el que se encuentra en su Área de efecto.</p>",
         "effects": [
             {
                 "_id": "U22tsE1DUjaF2ykB",
@@ -1222,16 +1222,16 @@
             }
         ],
         "id": "Blast (Beasts)",
-        "name": "Explosion (Bestias)"
+        "name": "Explosión (Bestias)"
     },
     {
-        "description": "<p>Vous focalisez la magie en une onde de choc explosive. Il s'agit d'un projectile magique de +3 Dégâts qui cible quiconque se trouve dans la Zone d'Effet</p>",
+        "description": "<p>Canalizas magia en forma de detonación explosiva. Este es un <em>proyectil mágico</em> con Daño +3 que tiene como objetivo a todo el que se encuentra en su Área de efecto.</p>",
         "effects": [],
         "id": "Blast (Daemonology)",
-        "name": "Explosion (Demonologia)"
+        "name": "Explosión (Demonologia)"
     },
     {
-        "description": "<p>Vous focalisez la magie en une onde de choc explosive. Il s'agit d'un projectile magique de +3 Dégâts qui cible quiconque se trouve dans la Zone d'Effet</p>",
+        "description": "<p>Canalizas magia en forma de detonación explosiva. Este es un <em>proyectil mágico</em> con Daño +3 que tiene como objetivo a todo el que se encuentra en su Área de efecto.</p>",
         "effects": [
             {
                 "_id": "zui1eFvhYxc6QZAM",
@@ -1251,10 +1251,10 @@
             }
         ],
         "id": "Blast (Death)",
-        "name": "Explosion (Muerte)"
+        "name": "Explosión (Muerte)"
     },
     {
-        "description": "<p>Vous focalisez la magie en une onde de choc explosive. Il s'agit d'un projectile magique de +3 Dégâts qui cible quiconque se trouve dans la Zone d'Effet</p>",
+        "description": "<p>Canalizas magia en forma de detonación explosiva. Este es un <em>proyectil mágico</em> con Daño +3 que tiene como objetivo a todo el que se encuentra en su Área de efecto.</p>",
         "effects": [
             {
                 "_id": "oJd9MRwyeoUQ2Y29",
@@ -1274,10 +1274,10 @@
             }
         ],
         "id": "Blast (Fire)",
-        "name": "Explosion (Fuego)"
+        "name": "Explosión (Fuego)"
     },
     {
-        "description": "<p>Vous focalisez la magie en une onde de choc explosive. Il s'agit d'un projectile magique de +3 Dégâts qui cible quiconque se trouve dans la Zone d'Effet</p>",
+        "description": "<p>Canalizas magia en forma de detonación explosiva. Este es un <em>proyectil mágico</em> con Daño +3 que tiene como objetivo a todo el que se encuentra en su Área de efecto.</p>",
         "effects": [
             {
                 "_id": "88r0a45MWE0zk74Q",
@@ -1297,10 +1297,10 @@
             }
         ],
         "id": "Blast (Heavens)",
-        "name": "Explosion (Cielos)"
+        "name": "Explosión (Cielos)"
     },
     {
-        "description": "<p>Vous focalisez la magie en une onde de choc explosive. Il s'agit d'un projectile magique de +3 Dégâts qui cible quiconque se trouve dans la Zone d'Effet</p>",
+        "description": "<p>Canalizas magia en forma de detonación explosiva. Este es un <em>proyectil mágico</em> con Daño +3 que tiene como objetivo a todo el que se encuentra en su Área de efecto.</p>",
         "effects": [
             {
                 "_id": "HNDWTEuQXx3fguGn",
@@ -1320,10 +1320,10 @@
             }
         ],
         "id": "Blast (Life)",
-        "name": "Explosion (Vida)"
+        "name": "Explosión (Vida)"
     },
     {
-        "description": "<p>Vous focalisez la magie en une onde de choc explosive. Il s'agit d'un projectile magique de +3 Dégâts qui cible quiconque se trouve dans la Zone d'Effet</p>",
+        "description": "<p>Canalizas magia en forma de detonación explosiva. Este es un <em>proyectil mágico</em> con Daño +3 que tiene como objetivo a todo el que se encuentra en su Área de efecto.</p>",
         "effects": [
             {
                 "_id": "gLKNTa6GsPrBHXSE",
@@ -1343,10 +1343,10 @@
             }
         ],
         "id": "Blast (Light)",
-        "name": "Explosion (Luz)"
+        "name": "Explosión (Luz)"
     },
     {
-        "description": "<p>Vous focalisez la magie en une onde de choc explosive. Il s'agit d'un projectile magique de +3 Dégâts qui cible quiconque se trouve dans la Zone d'Effet</p>",
+        "description": "<p>Canalizas magia en forma de detonación explosiva. Este es un <em>proyectil mágico</em> con Daño +3 que tiene como objetivo a todo el que se encuentra en su Área de efecto.</p>",
         "effects": [
             {
                 "_id": "koxqXWhVruOPsXvN",
@@ -1366,16 +1366,16 @@
             }
         ],
         "id": "Blast (Metal)",
-        "name": "Explosion (Metal)"
+        "name": "Explosión (Metal)"
     },
     {
-        "description": "<p>Vous focalisez la magie en une onde de choc explosive. Il s'agit d'un projectile magique de +3 Dégâts qui cible quiconque se trouve dans la Zone d'Effet</p>",
+        "description": "<p>Canalizas magia en forma de detonación explosiva. Este es un <em>proyectil mágico</em> con Daño +3 que tiene como objetivo a todo el que se encuentra en su Área de efecto.</p>",
         "effects": [],
         "id": "Blast (Necromancy)",
-        "name": "Explosion (Nigromancia)"
+        "name": "Explosión (Nigromancia)"
     },
     {
-        "description": "<p>Vous focalisez la magie en une onde de choc explosive. Il s'agit d'un projectile magique de +3 Dégâts qui cible quiconque se trouve dans la Zone d'Effet</p>",
+        "description": "<p>Canalizas magia en forma de detonación explosiva. Este es un <em>proyectil mágico</em> con Daño +3 que tiene como objetivo a todo el que se encuentra en su Área de efecto.</p>",
         "effects": [
             {
                 "_id": "oGGqXnxPvP5anmxB",
@@ -1395,10 +1395,10 @@
             }
         ],
         "id": "Blast (Shadow)",
-        "name": "Explosion (Sombras)"
+        "name": "Explosión (Sombras)"
     },
     {
-        "description": "<p>Vous pouvez cibler aussi bien un puit, qu'un champ ou encore un animal domestique. Si vous parvenez à lancer le Sort, la cible subit un dégradation de son état : </p>\n<ul type=\"disc\">\n<li>L'eau d'un puit deVidant immédiatement stagnante et saumâtre</li>\n<li>Les cultures d'un champ visé pourrissent en une nuit</li>\n<li>Un animal deVidant malade. La pauvre Bestias ne produit plus rien (les vaches ne donnent plus de lait, les poules ne pondent plus, les pelages et les peaux sont galeux et inutilisables) et mourra en 10 - DR jours.</li>\n</ul>",
+        "description": "<p>Puedes tomar como objetivo un pozo, un campo o un animal doméstico. Si consigues lanzar con éxito el hechizo, el objetivo sufre de un marchitamiento: </p>\n<ul type=\"disc\">\n<li>Un pozo marchito se vuelve instantáneamente salino y estancado.</li>\n<li>Cualquier cosecha plantada en un campo marchito se pudre de la noche a la mañana.</li>\n<li>Un animal marchito enferma. La bestia afligida ya no produce nada (las vacas no producen leche, las gallinas no ponen huevos, las pieles se vuelven sarnosas e inutilizables) y muere en 10 - NE días.</li>\n</ul>",
         "effects": [
             {
                 "_id": "N5PqixtHJJjzAwHS",
@@ -1413,15 +1413,15 @@
                     }
                 },
                 "icon": "modules/wfrp4e-core/icons/spells/witchcraft.png",
-                "label": "Lore of Witchcraft",
+                "label": "Saber de la brujería",
                 "transfer": true
             }
         ],
         "id": "Blight",
-        "name": "Dégradation"
+        "name": "Marchitar"
     },
     {
-        "description": "<p>Vous émettez un éclair lumineux et aveuglant depuis votre main ou votre bâton. Quiconque regarde dans votre direction, à moins qu'il ne possède le Talent<em>Magie des Arcanes (Luz)</em> reçoit +DR État <em>Aveuglé</em>.</p>",
+        "description": "<p>Emites un fogonazo brillante y cegador de luz desde tu mano o tu bastón. Todos los que te están mirando, si no tienen el Talento <em>Magia arcana (Luz)</em> sufren tantos Estados de <em>Cegado</em> como tus NE.</p>",
         "effects": [
             {
                 "_id": "cu2P7Zg9f68sp27i",
@@ -1444,7 +1444,7 @@
                     }
                 },
                 "icon": "modules/wfrp4e-core/icons/spells/blinding-light.png",
-                "label": "Luz aveuglante",
+                "label": "Luz cegadora",
                 "tint": "",
                 "transfer": false
             },
@@ -1466,7 +1466,7 @@
             }
         ],
         "id": "Blinding Light",
-        "name": "Luz aveuglante"
+        "name": "Luz cegadora"
     },
     {
         "description": "<p>Canalizas magia en forma de un rayo dañino. Rayo es un proyectil mágico con Daño +4</p>",
@@ -1873,13 +1873,13 @@
         "name": "Aliento (Sombras)"
     },
     {
-        "description": "<p>Vous créez un pont d'énergie magique, d'une longueur et d'une largeur maximales en mètres égales à votre Bonus de Force Mentale. Pour chaque +2 DR, vous pouvez augmenter la longueur ou la largeur d'un nombre de mètres égal à votre Bonus de Force Mentale.</p>",
+        "description": "<p>Creas un puente de energía mágica, con una longitud y anchura máxima iguales a tu Bonificador por Voluntad en yardas. Por cada +2 NE puedes aumentar la longitud o la anchura tantas yardas como tu Bonificador por Voluntad.</p>",
         "effects": [],
         "id": "Bridge",
-        "name": "Pont"
+        "name": "Puente"
     },
     {
-        "description": "<p>Vous créez un pont d'énergie magique, d'une longueur et d'une largeur maximales en mètres égales à votre Bonus de Force Mentale. Pour chaque +2 DR, vous pouvez augmenter la longueur ou la largeur d'un nombre de mètres égal à votre Bonus de Force Mentale.</p>",
+        "description": "<p>Creas un puente de energía mágica, con una longitud y anchura máxima iguales a tu Bonificador por Voluntad en yardas. Por cada +2 NE puedes aumentar la longitud o la anchura tantas yardas como tu Bonificador por Voluntad.</p>",
         "effects": [
             {
                 "_id": "Cuizn5ik4kLm4yyR",
@@ -1899,16 +1899,16 @@
             }
         ],
         "id": "Bridge (Beasts)",
-        "name": "Pont (Bestias)"
+        "name": "Puente (Bestias)"
     },
     {
-        "description": "<p>Vous créez un pont d'énergie magique, d'une longueur et d'une largeur maximales en mètres égales à votre Bonus de Force Mentale. Pour chaque +2 DR, vous pouvez augmenter la longueur ou la largeur d'un nombre de mètres égal à votre Bonus de Force Mentale.</p>",
+        "description": "<p>Creas un puente de energía mágica, con una longitud y anchura máxima iguales a tu Bonificador por Voluntad en yardas. Por cada +2 NE puedes aumentar la longitud o la anchura tantas yardas como tu Bonificador por Voluntad.</p>",
         "effects": [],
         "id": "Bridge (Daemonology)",
-        "name": "Pont (Demonologia)"
+        "name": "Puente (Demonologia)"
     },
     {
-        "description": "<p>Vous créez un pont d'énergie magique, d'une longueur et d'une largeur maximales en mètres égales à votre Bonus de Force Mentale. Pour chaque +2 DR, vous pouvez augmenter la longueur ou la largeur d'un nombre de mètres égal à votre Bonus de Force Mentale.</p>",
+        "description": "<p>Creas un puente de energía mágica, con una longitud y anchura máxima iguales a tu Bonificador por Voluntad en yardas. Por cada +2 NE puedes aumentar la longitud o la anchura tantas yardas como tu Bonificador por Voluntad.</p>",
         "effects": [
             {
                 "_id": "MzcNDW9kCg6qJzT1",
@@ -1928,10 +1928,10 @@
             }
         ],
         "id": "Bridge (Death)",
-        "name": "Pont (Muerte)"
+        "name": "Puente (Muerte)"
     },
     {
-        "description": "<p>Vous créez un pont d'énergie magique, d'une longueur et d'une largeur maximales en mètres égales à votre Bonus de Force Mentale. Pour chaque +2 DR, vous pouvez augmenter la longueur ou la largeur d'un nombre de mètres égal à votre Bonus de Force Mentale.</p>",
+        "description": "<p>Creas un puente de energía mágica, con una longitud y anchura máxima iguales a tu Bonificador por Voluntad en yardas. Por cada +2 NE puedes aumentar la longitud o la anchura tantas yardas como tu Bonificador por Voluntad.</p>",
         "effects": [
             {
                 "_id": "MPdZLN88DijeFzgr",
@@ -1951,10 +1951,10 @@
             }
         ],
         "id": "Bridge (Fire)",
-        "name": "Pont (Fuego)"
+        "name": "Puente (Fuego)"
     },
     {
-        "description": "<p>Vous créez un pont d'énergie magique, d'une longueur et d'une largeur maximales en mètres égales à votre Bonus de Force Mentale. Pour chaque +2 DR, vous pouvez augmenter la longueur ou la largeur d'un nombre de mètres égal à votre Bonus de Force Mentale.</p>",
+        "description": "<p>Creas un puente de energía mágica, con una longitud y anchura máxima iguales a tu Bonificador por Voluntad en yardas. Por cada +2 NE puedes aumentar la longitud o la anchura tantas yardas como tu Bonificador por Voluntad.</p>",
         "effects": [
             {
                 "_id": "ajvDLMtZrSc8H0Yt",
@@ -1974,10 +1974,10 @@
             }
         ],
         "id": "Bridge (Heavens)",
-        "name": "Pont (Cielos)"
+        "name": "Puente (Cielos)"
     },
     {
-        "description": "<p>Vous créez un pont d'énergie magique, d'une longueur et d'une largeur maximales en mètres égales à votre Bonus de Force Mentale. Pour chaque +2 DR, vous pouvez augmenter la longueur ou la largeur d'un nombre de mètres égal à votre Bonus de Force Mentale.</p>",
+        "description": "<p>Creas un puente de energía mágica, con una longitud y anchura máxima iguales a tu Bonificador por Voluntad en yardas. Por cada +2 NE puedes aumentar la longitud o la anchura tantas yardas como tu Bonificador por Voluntad.</p>",
         "effects": [
             {
                 "_id": "4utK9eKlDv7GT7ZO",
@@ -1997,10 +1997,10 @@
             }
         ],
         "id": "Bridge (Life)",
-        "name": "Pont (Vida)"
+        "name": "Puente (Vida)"
     },
     {
-        "description": "<p>Vous créez un pont d'énergie magique, d'une longueur et d'une largeur maximales en mètres égales à votre Bonus de Force Mentale. Pour chaque +2 DR, vous pouvez augmenter la longueur ou la largeur d'un nombre de mètres égal à votre Bonus de Force Mentale.</p>",
+        "description": "<p>Creas un puente de energía mágica, con una longitud y anchura máxima iguales a tu Bonificador por Voluntad en yardas. Por cada +2 NE puedes aumentar la longitud o la anchura tantas yardas como tu Bonificador por Voluntad.</p>",
         "effects": [
             {
                 "_id": "uSs4iU72wLWJYkLF",
@@ -2020,10 +2020,10 @@
             }
         ],
         "id": "Bridge (Light)",
-        "name": "Pont (Luz)"
+        "name": "Puente (Luz)"
     },
     {
-        "description": "<p>Vous créez un pont d'énergie magique, d'une longueur et d'une largeur maximales en mètres égales à votre Bonus de Force Mentale. Pour chaque +2 DR, vous pouvez augmenter la longueur ou la largeur d'un nombre de mètres égal à votre Bonus de Force Mentale.</p>",
+        "description": "<p>Creas un puente de energía mágica, con una longitud y anchura máxima iguales a tu Bonificador por Voluntad en yardas. Por cada +2 NE puedes aumentar la longitud o la anchura tantas yardas como tu Bonificador por Voluntad.</p>",
         "effects": [
             {
                 "_id": "wO9R5kCgwmvuexDS",
@@ -2043,16 +2043,16 @@
             }
         ],
         "id": "Bridge (Metal)",
-        "name": "Pont (Metal)"
+        "name": "Puente (Metal)"
     },
     {
-        "description": "<p>Vous créez un pont d'énergie magique, d'une longueur et d'une largeur maximales en mètres égales à votre Bonus de Force Mentale. Pour chaque +2 DR, vous pouvez augmenter la longueur ou la largeur d'un nombre de mètres égal à votre Bonus de Force Mentale.</p>",
+        "description": "<p>Creas un puente de energía mágica, con una longitud y anchura máxima iguales a tu Bonificador por Voluntad en yardas. Por cada +2 NE puedes aumentar la longitud o la anchura tantas yardas como tu Bonificador por Voluntad.</p>",
         "effects": [],
         "id": "Bridge (Necromancy)",
-        "name": "Pont (Nigromancia)"
+        "name": "Puente (Nigromancia)"
     },
     {
-        "description": "<p>Vous créez un pont d'énergie magique, d'une longueur et d'une largeur maximales en mètres égales à votre Bonus de Force Mentale. Pour chaque +2 DR, vous pouvez augmenter la longueur ou la largeur d'un nombre de mètres égal à votre Bonus de Force Mentale.</p>",
+        "description": "<p>Creas un puente de energía mágica, con una longitud y anchura máxima iguales a tu Bonificador por Voluntad en yardas. Por cada +2 NE puedes aumentar la longitud o la anchura tantas yardas como tu Bonificador por Voluntad.</p>",
         "effects": [
             {
                 "_id": "WIy6LU1zq4JrTlGN",
@@ -2072,7 +2072,7 @@
             }
         ],
         "id": "Bridge (Shadow)",
-        "name": "Pont (Sombras)"
+        "name": "Puente (Sombras)"
     },
     {
         "description": "<p>La magia que fluye a través de tus pies hace que toda la materia orgánica que pisas quede incólume: las ramas no se rompen, la hierba vuelve a su posición original e incluso las flores más delicadas permanecen intactas. Quienes pretendan utilizar la Habilidad Rastrear para perseguirte a través de terreno rural sufrirán un penalizador -30 a sus Chequeos.</p>",
@@ -2081,7 +2081,7 @@
         "name": "Paso cuidadoso"
     },
     {
-        "description": "<p>Alors que vous tendez les mains, elles semblent désséchées, même squelettiques, draînant Shyish du corps de votre cible. C'est considéré comme un projectile magique avec Dégâts +6 qui ignore le Bonus d'Endurance et les PA. Pour chaque tranche de 2 Points de Blessure infligés, vous pouvez récupérer 1 Point de Blessure.</p>",
+        "description": "<p>Conforme extiendes la mano, ésta parece marchita, e incluso esquelética, atrayendo el <em>Shyish</em> del cuerpo de tu objetivo. Esto cuenta como un <em>proyectil mágico</em> con Daño +6, que ignora el Bonificador por Resistencia y los puntos de Armadura. Por cada 2 Heridas infligidas, puedes recuperar 1 Herida sufrida.</p>",
         "effects": [
             {
                 "_id": "oyPvSJ706ELzF7Qb",
@@ -2104,7 +2104,7 @@
                     }
                 },
                 "icon": "modules/wfrp4e-core/icons/spells/caress-of-laniph.png",
-                "label": "Caresse de Laniph",
+                "label": "Caricia de Laniph",
                 "tint": "",
                 "transfer": false
             },
@@ -2126,10 +2126,10 @@
             }
         ],
         "id": "Caress of Laniph",
-        "name": "Caresse de Laniph"
+        "name": "Caricia de Laniph"
     },
     {
-        "description": "<p>Vous focalisez <em>Aqshy</em> pour les poser sur les blessures d'un allié. Guérissez immédiatement 1d10 Blessures et retirez tous les États <em>Hémorragique </em>. De plus, les Blessures ne s'infecteront pas.</p>\n<p>&nbsp;</p>\n<p>Les cibles ne possédant pas le Talent <em>Magie des Arcanes (Fuego)</em>, doivent réussir un Test de <strong>Calme Intermédiaire</strong> ou hurler de douleur. Si elle échoue de -6 DR ou plus, la cible gagne l'État <em>Inconscient</em>&nbsp; et est marquée à vue, se réveillant 1d10 heures plus tard.</p>",
+        "description": "<p>Tras canalizar el <em>Aqshy</em> con las manos, las impones sobre las heridas de un aliado. Le curas de inmediato 1d10 Heridas y le eliminas todos los Estados de <em>Sangrando</em>. Además, las Heridas no se infectarán. Los objetivos sin el Talento <em>Magia arcana (fuego)</em> deberán superar un Chequeo <strong>Desafiante (+0)</strong> de <strong>Frialdad</strong> o gritar de agonía. Si falla por -6 o más NE, el objetivo pasa al Estado <em>Inconsciente</em> y queda permanentemente escarificado, despertándose 1d10 horas más tarde.</p>",
         "effects": [
             {
                 "_id": "miECAiZsYbFkZJwd",
@@ -2152,7 +2152,7 @@
                     }
                 },
                 "icon": "modules/wfrp4e-core/icons/spells/cauterise.png",
-                "label": "Cautériser",
+                "label": "Cauterizar",
                 "tint": "",
                 "transfer": false
             },
@@ -2174,10 +2174,10 @@
             }
         ],
         "id": "Cauterise",
-        "name": "Cauteriser"
+        "name": "Cauterizar"
     },
     {
-        "description": "<p>You Vous vous enfermez dans une cage crépitante d'étincelles d'électricité et d'<em>Azyr</em>. Pour la durée du Sort, gagnez + DR PA à toutes les Localisations contre les Attaques de Corps à corps. Si vous êtes attaqué par une arme en Metal -dagues, épées ou lances avec une pointe Metal - votre attaquant subit un nombre de Dégâts égal à votre Bonus de Force Mentale.</p>",
+        "description": "<p>Te envuelves a ti mismo en una crujiente jaula de brillante electricidad y de <em>Azyr</em>. Mientras el hechizo está activo, obtienes tantos puntos de Armadura como NE contra los ataques cuerpo a cuerpo en todas las Ubicaciones. Si te atacan con armas de metal (del tipo dagas, espadas y lanzas con punta metálica) tu atacante sufre tanto Daño como tu Bonificador por Voluntad.</p>",
         "effects": [
             {
                 "_id": "LLZJsIbfE5Y5fjYs",
@@ -2200,7 +2200,7 @@
                       }
                 },
                 "icon": "modules/wfrp4e-core/icons/spells/cerulean-shield.png",
-                "label": "Bouclier céruléen",
+                "label": "Escudo cerúleo",
                 "tint": "",
                 "transfer": false
             },
@@ -2225,7 +2225,7 @@
                       }
                 },
                 "icon": "modules/wfrp4e-core/icons/spells/cerulean-shield.png",
-                "label": "Cerulean Damage",
+                "label": "Escudo cerúleo",
                 "tint": "",
                 "transfer": false
             },
@@ -2247,7 +2247,7 @@
             }
         ],
         "id": "Cerulean Shield",
-        "name": "Bouclier céruléen"
+        "name": "Escudo cerúleo"
     },
     {
         "description": "<p>Canalizas una espuela giratoria de magia desgarradora contra tu objetivo. Esté es un proyectil mágico con un Daño de +4. Si <em>Ataque en cadena</em> redujera a un objetivo a 0 Heridas, saltaría a otro que se encontrara dentro del rango inicial del hechizo y a una distancia en yardas del objetivo previo menor que tu Bonificador por VOluntad, infligiendo el mismo Daño de nuevo. Puede saltar tantas veces como tu Bonificador por Voluntad. Por cada +2 NE obtenidos, puede encadenarse a un objetivo adicional.</p>",
@@ -2452,7 +2452,7 @@
         "name": "Ataque en cadena (Sombras)"
     },
     {
-        "description": "<p>Vous enroulez des tentacules d'ombre d'<em>Ulgu</em> autour du coup de vos ennemis. En supposant qu'ils aient besoin de respirer, ils gagnent +1 État <em>Exténué</em>, ne peuvent pas parler et sont soumis aux règles de la Suffocation.</p>",
+        "description": "<p>Enrollas zarcillos sombríos de <em>Ulgu</em> alrededor del cuello de tus enemigos. Suponiendo que tengan necesidad de respirar, sufrirán +1 Estado de <em>Fatigado</em>, no podrán hablar y estarán sujetos a las reglas de Asfixia.</p>",
         "effects": [
             {
                 "_id": "BYZhExaWoV0giDVw",
@@ -2475,7 +2475,7 @@
                     }
                 },
                 "icon": "modules/wfrp4e-core/icons/spells/choking-shadows.png",
-                "label": "Sombras étrangleuses",
+                "label": "Sombras ahogadoras",
                 "tint": "",
                 "transfer": false
             },
@@ -2497,10 +2497,10 @@
             }
         ],
         "id": "Choking Shadows",
-        "name": "Sombras étrangleuses"
+        "name": "Sombras ahogadoras"
     },
     {
-        "description": "<p>Vous apaisez l'esprit de votre cible, lui permettant de réfléchir avec lucidité. Tous les modificateurs négatifs agissant sur ces pensées — issus d'États, de mutations mentales, de Traits de Psychologie ou de n'importe quelle autre source — sont ignorés tant que le Sort est actif.</p>",
+        "description": "<p>Calmas la mente de tu objetivo, permitiéndole pensar con claridad. Todos los modificadores negativos a sus procesos mentales 8debidos a estados, Corrupciones mentales, Psicologías o cualquier otro origen) se ignoran mientras el hechizo está en funcionamiento.</p>",
         "effects": [
             {
                 "_id": "AcHXFjPCPbKcDQVN",
@@ -2520,10 +2520,10 @@
             }
         ],
         "id": "Clarity of Thought",
-        "name": "Clarté d'esprit"
+        "name": "Claridad de pensamientos"
     },
     {
-        "description": "<p>Vous focalisez tout l'Azyr que vous pouvez rassembler et levez les mains vers le ciel, en appelant une comète pour anéantir vos ennemis. Choisissez un point cible à portée. À la fin du prochain Round, effectuez un Test de <strong>Perception Accessible (+20)</strong> Test. Pour chaque +DR que vous obtenez, vous pouvez déplacer le point cible d'un nombre de mètres égal à votre Bonus d'Initiative. Pour chaque -DR, le MJ déplacera le point cible dans une direction aléatoire d'un nombre de mètres égal au Bonus d'Initiative. La Comète de Cassandora agit ensuite comme un projectile magique avec Dégâts +12 qui frappe toutes les cibles dans la Zone d'Effet, qui gagnent également +1 État <em>Enflammé</em> et +1 État <em>À Terre</em></p>",
+        "description": "<p>Canalizas todo el <em>Azyr</em> que puedes reunir y extiendes la mano a los cielos, llamando a un cometa para que traiga la confusión a tus enemigos. Selecciona un punto como objetivo a tu alcance. Al final del siguiente Asalto, deberás llevar a cabo un Chequeo <strong> Normal (+20)</strong> de <strong>Percepción</strong>. Por cada +NE que consigas, podrás mover tu punto de impacto tantas yardas como tu Bonificador por Iniciativa. Por cada -NE que consigas, el DJ moverá el punto de impacto tantas yardas como tu Bonificador por Iniciativa en una dirección aleatoria. El <em>Cometa de casandora</em> actúa en ese caso como un <em>proyectil mágico</em> con Daño +12, que impacta a todos los objetivos en su Área de efecto, y que también sufren +1 Estado de <em>Ardiendo</em> y pasan al Estado <em>Tumbado</em>.</p>",
         "effects": [
             {
                 "_id": "RgMufN4ojXxwM49O",
@@ -2546,7 +2546,7 @@
                     }
                 },
                 "icon": "modules/wfrp4e-core/icons/spells/comet-of-casandora.png",
-                "label": "Comète de Cassandora",
+                "label": "Cometa de Casandora",
                 "tint": "",
                 "transfer": false
             },
@@ -2568,7 +2568,7 @@
             }
         ],
         "id": "Comet of Casandora",
-        "name": "Comète de Cassandora"
+        "name": "Cometa de Casandora"
     },
     {
         "description": "<p>Conservas hasta 1 día de raciones. Durante ese tiempo no se pudren, desarrollan moho ni se enrancian, aunque siguen siendo vulnerables a factores externos, como por ejemplo mojarse, quemarse o ser envenenadas.</p>",
@@ -2577,7 +2577,7 @@
         "name": "Conservar"
     },
     {
-        "description": "<p>Vous vous imprégnez de magie, donnant à votre sang une puissance effroyable. Vous gagnez le trait de Créature Sang corrosif :&nbsp;</p>\n<p>&nbsp;</p>\n<blockquote>\n<p>Le sang de la créature est corrosif. Chaque fois qu'elle subit des Blessures dont le sang éclabousse, tous deux qui sont Engagés avec elle reçoivent 1d10 Points de Blessure modifiés par le Bonus d'Endurance et la PA.</p>\n</blockquote>",
+        "description": "<p>Te infundes a ti mismo de magia, confiriendo a tu sangre un tremendo poder. Obtienes el Rasgo de criatura <em>Sangre corrosiva</em>.</p>\n</blockquote>",
         "effects": [
             {
                 "_id": "ijAyrzxWflh17gvL",
@@ -2600,16 +2600,16 @@
                     }
                 },
                 "icon": "modules/wfrp4e-core/icons/blank.png",
-                "label": "Sang corrosif",
+                "label": "Sangre corrosiva",
                 "tint": "",
                 "transfer": false
             }
         ],
         "id": "Corrosive Blood",
-        "name": "Sang corrosif"
+        "name": "Sangre corrosiva"
     },
     {
-        "description": "<p>Vous vous imprégnez de magie, donnant à votre sang une puissance effroyable. Vous gagnez le trait de Créature Sang corrosif :&nbsp;</p>\n<p>&nbsp;</p>\n<blockquote>\n<p>Le sang de la créature est corrosif. Chaque fois qu'elle subit des Blessures dont le sang éclabousse, tous deux qui sont Engagés avec elle reçoivent 1d10 Points de Blessure modifiés par le Bonus d'Endurance et la PA.</p>\n</blockquote>",
+        "description": "<p>Te infundes a ti mismo de magia, confiriendo a tu sangre un tremendo poder. Obtienes el Rasgo de criatura <em>Sangre corrosiva</em>.</p>\n</blockquote>",
         "effects": [
             {
                 "_id": "uxJ68z65aa82x6lz",
@@ -2632,7 +2632,7 @@
                     }
                 },
                 "icon": "modules/wfrp4e-core/icons/spells/beasts.png",
-                "label": "Sang corrosif (Bestias)",
+                "label": "Sangre corrosiva (Bestias)",
                 "tint": "",
                 "transfer": false
             },
@@ -2654,10 +2654,10 @@
             }
         ],
         "id": "Corrosive Blood (Beasts)",
-        "name": "Sang corrosif (Bestias)"
+        "name": "Sangre corrosiva (Bestias)"
     },
     {
-        "description": "<p>Vous vous imprégnez de magie, donnant à votre sang une puissance effroyable. Vous gagnez le trait de Créature Sang corrosif :&nbsp;</p>\n<p>&nbsp;</p>\n<blockquote>\n<p>Le sang de la créature est corrosif. Chaque fois qu'elle subit des Blessures dont le sang éclabousse, tous deux qui sont Engagés avec elle reçoivent 1d10 Points de Blessure modifiés par le Bonus d'Endurance et la PA.</p>\n</blockquote>",
+        "description": "<p>Te infundes a ti mismo de magia, confiriendo a tu sangre un tremendo poder. Obtienes el Rasgo de criatura <em>Sangre corrosiva</em>.</p>\n</blockquote>",
         "effects": [
             {
                 "_id": "2Zr7zsa34PprJO60",
@@ -2680,16 +2680,16 @@
                     }
                 },
                 "icon": "modules/wfrp4e-core/icons/spells/daemonology.png",
-                "label": "Sang corrosif (Demonologia)",
+                "label": "Sangre corrosiva (Demonologia)",
                 "tint": "",
                 "transfer": false
             }
         ],
         "id": "Corrosive Blood (Daemonology)",
-        "name": "Sang corrosif (Demonologia)"
+        "name": "Sangre corrosiva (Demonologia)"
     },
     {
-        "description": "<p>Vous vous imprégnez de magie, donnant à votre sang une puissance effroyable. Vous gagnez le trait de Créature Sang corrosif :&nbsp;</p>\n<p>&nbsp;</p>\n<blockquote>\n<p>Le sang de la créature est corrosif. Chaque fois qu'elle subit des Blessures dont le sang éclabousse, tous deux qui sont Engagés avec elle reçoivent 1d10 Points de Blessure modifiés par le Bonus d'Endurance et la PA.</p>\n</blockquote>",
+        "description": "<p>Te infundes a ti mismo de magia, confiriendo a tu sangre un tremendo poder. Obtienes el Rasgo de criatura <em>Sangre corrosiva</em>.</p>\n</blockquote>",
         "effects": [
             {
                 "_id": "ZyISwBsXNEzt53l6",
@@ -2712,7 +2712,7 @@
                     }
                 },
                 "icon": "modules/wfrp4e-core/icons/spells/death.png",
-                "label": "Sang corrosif (Muerte)",
+                "label": "Sangre corrosiva (Muerte)",
                 "tint": "",
                 "transfer": false
             },
@@ -2734,10 +2734,10 @@
             }
         ],
         "id": "Corrosive Blood (Death)",
-        "name": "Sang corrosif (Muerte)"
+        "name": "Sangre corrosiva (Muerte)"
     },
     {
-        "description": "<p>Vous vous imprégnez de magie, donnant à votre sang une puissance effroyable. Vous gagnez le trait de Créature Sang corrosif :&nbsp;</p>\n<p>&nbsp;</p>\n<blockquote>\n<p>Le sang de la créature est corrosif. Chaque fois qu'elle subit des Blessures dont le sang éclabousse, tous deux qui sont Engagés avec elle reçoivent 1d10 Points de Blessure modifiés par le Bonus d'Endurance et la PA.</p>\n</blockquote>",
+        "description": "<p>Te infundes a ti mismo de magia, confiriendo a tu sangre un tremendo poder. Obtienes el Rasgo de criatura <em>Sangre corrosiva</em>.</p>\n</blockquote>",
         "effects": [
             {
                 "_id": "L20zbzBpxRd57Cdz",
@@ -2760,7 +2760,7 @@
                     }
                 },
                 "icon": "modules/wfrp4e-core/icons/spells/fire.png",
-                "label": "Sang corrosif (Fuego)",
+                "label": "Sangre corrosiva (Fuego)",
                 "tint": "",
                 "transfer": false
             },
@@ -2782,10 +2782,10 @@
             }
         ],
         "id": "Corrosive Blood (Fire)",
-        "name": "Sang corrosif (Fuego)"
+        "name": "Sangre corrosiva (Fuego)"
     },
     {
-        "description": "<p>Vous vous imprégnez de magie, donnant à votre sang une puissance effroyable. Vous gagnez le trait de Créature Sang corrosif :&nbsp;</p>\n<p>&nbsp;</p>\n<blockquote>\n<p>Le sang de la créature est corrosif. Chaque fois qu'elle subit des Blessures dont le sang éclabousse, tous deux qui sont Engagés avec elle reçoivent 1d10 Points de Blessure modifiés par le Bonus d'Endurance et la PA.</p>\n</blockquote>",
+        "description": "<p>Te infundes a ti mismo de magia, confiriendo a tu sangre un tremendo poder. Obtienes el Rasgo de criatura <em>Sangre corrosiva</em>.</p>\n</blockquote>",
         "effects": [
             {
                 "_id": "Jcn6S9AgpBdRx9jI",
@@ -2808,7 +2808,7 @@
                     }
                 },
                 "icon": "modules/wfrp4e-core/icons/spells/heavens.png",
-                "label": "Sang corrosif (Cielos)",
+                "label": "Sangre corrosiva (Cielos)",
                 "tint": "",
                 "transfer": false
             },
@@ -2830,10 +2830,10 @@
             }
         ],
         "id": "Corrosive Blood (Heavens)",
-        "name": "Sang corrosif (Cielos)"
+        "name": "Sangre corrosiva (Cielos)"
     },
     {
-        "description": "<p>Vous vous imprégnez de magie, donnant à votre sang une puissance effroyable. Vous gagnez le trait de Créature Sang corrosif :&nbsp;</p>\n<p>&nbsp;</p>\n<blockquote>\n<p>Le sang de la créature est corrosif. Chaque fois qu'elle subit des Blessures dont le sang éclabousse, tous deux qui sont Engagés avec elle reçoivent 1d10 Points de Blessure modifiés par le Bonus d'Endurance et la PA.</p>\n</blockquote>",
+        "description": "<p>Te infundes a ti mismo de magia, confiriendo a tu sangre un tremendo poder. Obtienes el Rasgo de criatura <em>Sangre corrosiva</em>.</p>\n</blockquote>",
         "effects": [
             {
                 "_id": "ep4NGWnLqAQEWNCv",
@@ -2856,7 +2856,7 @@
                     }
                 },
                 "icon": "modules/wfrp4e-core/icons/spells/life.png",
-                "label": "Sang corrosif (Vida)",
+                "label": "Sangre corrosiva (Vida)",
                 "tint": "",
                 "transfer": false
             },
@@ -2878,10 +2878,10 @@
             }
         ],
         "id": "Corrosive Blood (Life)",
-        "name": "Sang corrosif (Vida)"
+        "name": "Sangre corrosiva (Vida)"
     },
     {
-        "description": "<p>Vous vous imprégnez de magie, donnant à votre sang une puissance effroyable. Vous gagnez le trait de Créature Sang corrosif :&nbsp;</p>\n<p>&nbsp;</p>\n<blockquote>\n<p>Le sang de la créature est corrosif. Chaque fois qu'elle subit des Blessures dont le sang éclabousse, tous deux qui sont Engagés avec elle reçoivent 1d10 Points de Blessure modifiés par le Bonus d'Endurance et la PA.</p>\n</blockquote>",
+        "description": "<p>Te infundes a ti mismo de magia, confiriendo a tu sangre un tremendo poder. Obtienes el Rasgo de criatura <em>Sangre corrosiva</em>.</p>\n</blockquote>",
         "effects": [
             {
                 "_id": "GZYUi96n8vcnUb9G",
@@ -2904,7 +2904,7 @@
                     }
                 },
                 "icon": "modules/wfrp4e-core/icons/spells/light.png",
-                "label": "Sang corrosif (Luz)",
+                "label": "Sangre corrosiva (Luz)",
                 "tint": "",
                 "transfer": false
             },
@@ -2926,10 +2926,10 @@
             }
         ],
         "id": "Corrosive Blood (Light)",
-        "name": "Sang corrosif (Luz)"
+        "name": "Sangre corrosiva (Luz)"
     },
     {
-        "description": "<p>Vous vous imprégnez de magie, donnant à votre sang une puissance effroyable. Vous gagnez le trait de Créature Sang corrosif :&nbsp;</p>\n<p>&nbsp;</p>\n<blockquote>\n<p>Le sang de la créature est corrosif. Chaque fois qu'elle subit des Blessures dont le sang éclabousse, tous deux qui sont Engagés avec elle reçoivent 1d10 Points de Blessure modifiés par le Bonus d'Endurance et la PA.</p>\n</blockquote>",
+        "description": "<p>Te infundes a ti mismo de magia, confiriendo a tu sangre un tremendo poder. Obtienes el Rasgo de criatura <em>Sangre corrosiva</em>.</p>\n</blockquote>",
         "effects": [
             {
                 "_id": "2kqXlGN3vRYzGwUe",
@@ -2952,7 +2952,7 @@
                     }
                 },
                 "icon": "modules/wfrp4e-core/icons/spells/metal.png",
-                "label": "Sang corrosif (Metal)",
+                "label": "Sangre corrosiva (Metal)",
                 "tint": "",
                 "transfer": false
             },
@@ -2974,10 +2974,10 @@
             }
         ],
         "id": "Corrosive Blood (Metal)",
-        "name": "Sang corrosif (Metal)"
+        "name": "Sangre corrosiva (Metal)"
     },
     {
-        "description": "<p>Vous vous imprégnez de magie, donnant à votre sang une puissance effroyable. Vous gagnez le trait de Créature Sang corrosif :&nbsp;</p>\n<p>&nbsp;</p>\n<blockquote>\n<p>Le sang de la créature est corrosif. Chaque fois qu'elle subit des Blessures dont le sang éclabousse, tous deux qui sont Engagés avec elle reçoivent 1d10 Points de Blessure modifiés par le Bonus d'Endurance et la PA.</p>\n</blockquote>",
+        "description": "<p>Te infundes a ti mismo de magia, confiriendo a tu sangre un tremendo poder. Obtienes el Rasgo de criatura <em>Sangre corrosiva</em>.</p>\n</blockquote>",
         "effects": [
             {
                 "_id": "tlF4LFjOqoCv0Kpj",
@@ -3000,16 +3000,16 @@
                     }
                 },
                 "icon": "modules/wfrp4e-core/icons/spells/necromancy.png",
-                "label": "Sang corrosif (Nigromancia)",
+                "label": "Sangre corrosiva (Nigromancia)",
                 "tint": "",
                 "transfer": false
             }
         ],
         "id": "Corrosive Blood (Necromancy)",
-        "name": "Sang corrosif (Nigromancia)"
+        "name": "Sangre corrosiva (Nigromancia)"
     },
     {
-        "description": "<p>Vous vous imprégnez de magie, donnant à votre sang une puissance effroyable. Vous gagnez le trait de Créature Sang corrosif :&nbsp;</p>\n<p>&nbsp;</p>\n<blockquote>\n<p>Le sang de la créature est corrosif. Chaque fois qu'elle subit des Blessures dont le sang éclabousse, tous deux qui sont Engagés avec elle reçoivent 1d10 Points de Blessure modifiés par le Bonus d'Endurance et la PA.</p>\n</blockquote>",
+        "description": "<p>Te infundes a ti mismo de magia, confiriendo a tu sangre un tremendo poder. Obtienes el Rasgo de criatura <em>Sangre corrosiva</em>.</p>\n</blockquote>",
         "effects": [
             {
                 "_id": "WXWnl2mm3jPCTekB",
@@ -3032,7 +3032,7 @@
                     }
                 },
                 "icon": "modules/wfrp4e-core/icons/spells/shadow.png",
-                "label": "Sang corrosif (Sombras)",
+                "label": "Sangre corrosiva (Sombras)",
                 "tint": "",
                 "transfer": false
             },
@@ -3054,10 +3054,10 @@
             }
         ],
         "id": "Corrosive Blood (Shadow)",
-        "name": "Sang corrosif (Sombras)"
+        "name": "Sangre corrosiva (Sombras)"
     },
     {
-        "description": "<p>Vous invoquez une nuée de créatures rampantes et envahissantes qui vont venir harceler vos adversaires. Chaque cible affectée se retrouver engagée par une nuée de rats géants, d'araignées géantes ou de serpents. Utilisez les caractéristiques classiques du type de créature correspondant, en lui ajoutant le Trait Nuée. Pour votre Action, vous pouvez effectuer un Test de <strong>Charme Animal Intermédiaire (+0)</strong> afin d'envoyer une nuée supplémentaire attaquer une autre cible.</p>",
+        "description": "<p>Convocas una plaga de criaturas trepadoras o reptantes para hostigar a tus enemigos. Cada objetivo afectado es atacado de inmediato por una plaga de ratas gigantes, arañas gigantes o serpientes. Utiliza los perfiles estándar para el tipo de criatura relevante, añadiendo el Rasgo de criatura <em>Plaga</em>. Utiliza los perfiles estándar para el tipo de criatura relevante, añadiendo el Rasgo <em>Plaga</em>. Por cada Acción puedes llevar a cabo un Chequeo <strong>Desafiante (+0)</strong> de <strong>Carisma animal</strong> para obligar a 1 o más plagas atacar a un objetivo diferente.</p>\n<p>Cuando el hechizo acaba, todas las plagas restantes desaparecen en las sombras.</p>",
         "effects": [
             {
                 "_id": "b4kVS9q4UKIAjH0z",
@@ -3072,15 +3072,15 @@
                     }
                 },
                 "icon": "modules/wfrp4e-core/icons/spells/witchcraft.png",
-                "label": "Lore of Witchcraft",
+                "label": "Saber de la brujería",
                 "transfer": true
             }
         ],
         "id": "Creeping Menace",
-        "name": "Menace rampante"
+        "name": "Amenaza insidiosa"
     },
     {
-        "description": "<p>Vous focalisez <em>Aqshy</em> en une majestueuse courrone de Fuego inspirant autour de votre front. Gagnez le Trait <em>Peur</em>&nbsp;(1) et +1 Talent <em>Seigneur de guerre</em> tant que le Sort est actif.</p>\n<p>Pour chaque +2 DR, vous pouvez augmenter la valeur de <em>Peur</em> de +1, ou prendre de nouveau le Talent Seigneur de Guerre&nbsp;. De plus, gagnez un bonus de +10 à toutes les tentaives pour Focaliser et Incanter avec Aqshy tant que le Sort est actif.</p>",
+        "description": "<p>Canalizas el <em>Aqshy</em> en una majestuosa corona de inspiradoras llamas alrededor de tu frente. Obtienes el Rasgo <em>Miedo</em> (1) y +1 Talento de <em>Líder de guerra</em> mientras el hechizo permanece activo. Por cada +2 NE, puedes incrementar en +1 tu puntuación de <em>Miedo</em>, o adquirir de nuevo el Talento <em>Líder de guerra</em>. Además, obtienes un bonificador +10 a todos los intentos de Canalización y Lanzamiento con el <em>Aqshy</em> mientras el hechizo permanece activo.</p>",
         "effects": [
             {
                 "_id": "VxgpVBMx8k8Q9jra",
@@ -3103,7 +3103,7 @@
                     }
                 },
                 "icon": "modules/wfrp4e-core/icons/spells/crown-of-flame.png",
-                "label": "Couronne de Flammes",
+                "label": "Corona de llamas",
                 "tint": "",
                 "transfer": false
             },
@@ -3125,10 +3125,10 @@
             }
         ],
         "id": "Crown of Flame",
-        "name": "Couronne de Flammes"
+        "name": "Corona de llamas"
     },
     {
-        "description": "<p>Vous focalisez <em>Chamon</em> dans un objet Metallique non magique, tel qu'une arme ou une pièce d'armure. L'objet se répand sur le sol sous forme de Metal fondu, refroidissant presque instantanément. S'il est tenu, l'objet est lâché. S'il est porté, le porteur subit une frappe équivalente à celle d'un projectile magique, avec un nombre de Dégâts égale à votre Bonus de Force Mentale qui ignore le Bonus d'Endurance. Bien que l'objet soit détruit, le Metal conserve sa valeur de base, et peut être utilisé ensuite par un forgeron comme matière première.</p>",
+        "description": "<p>Canalizas <em>Chamon</em> a un solo objeto metálico no mágico, como por ejemplo un arma o pieza de armadura. El objeto se funde, cayendo al suelo como metal fundido, y enfriándose casi de inmediato. Si alguien lo está empuando, lo deja caer. Si lo llevaba puesto, el portador sufre un impacto como el de un <em>proyectil mágico</em>, con un Daño igual a tu Bonificador por VOluntad, que ignora el Bonificador por Resistencia. Si bien el objeto queda destruido, el metal mantiene su valor base, y puede ser utilizado por un herrero como materia prima.</p>",
         "effects": [
             {
                 "_id": "4DNzndKix1ZLNRzH",
@@ -3148,10 +3148,10 @@
             }
         ],
         "id": "Crucible of Chamon",
-        "name": "Creuset de Chamon"
+        "name": "Crisol de Chamon"
     },
     {
-        "description": "<p>En poignardant une représentation grossière de votre cible - une pourpée ou un mannequin, vous lui infligez une douleur paralysante. Lorsque le Sort est lancé avec succès, choisissez quel endroit vous poignardez :</p>\n<ul type=\"disc\">\n<li>Jambe : la jambe deVidant inutilisable, comme si elle avait été amputée. Si la cible était en train de courir, elle subit un État À Terre et des Dégâts de Soltar.</li>\n</ul>\n<ul type=\"disc\">\n<li>Bras : le bras deVidant inutilisable, comme s'il avait été amputé. Si la cible tenait quelque chose à la main, elle le lâche automatiquement.</li>\n</ul>\n<ul type=\"disc\">\n<li>Corps : la cible souffre d'agonie, subit +1 État <em>Exténué</em>, et doit réussir un Test Difficile (-20) de Résistance ou subir l'État <em>À Terre</em>.</li>\n<li>Tête : la cible gagne 1 État <em>Inconscient</em>&nbsp;qui dure le temps de la durée du Sort.</li>\n</ul>\n<p>Tant que le Sort est effectif, vous pouvez, pour votre Action, effectuer un Test de Focalisation en poignardant de nouveau la poupée pour choisir une nouvelle Localisation.</p>",
+        "description": "<p>El ingrediente de este hechizo es algo perteneciente al objetivo, o bien una posesión personal o bien un mechón de su cabello. Hasta que se acaba la Duración, tu objetivo sufre mala suerte. Los nudos se desatan, las sillas se rompen y otros efectos narrativos menores se convierten en inconvenientes. El objetivo sufre un penalizador -10 a todos los Chequeos, además de cualquier otro modificador, y no puede gastar puntos de Fortuna.</p>",
         "effects": [
             {
                 "_id": "A0qKOTwIsUKAhGxc",
@@ -3166,15 +3166,15 @@
                     }
                 },
                 "icon": "modules/wfrp4e-core/icons/spells/witchcraft.png",
-                "label": "Lore of Witchcraft",
+                "label": "Saber de la brujería",
                 "transfer": true
             }
         ],
         "id": "Curse of Crippling Pain",
-        "name": "Malédiction de douleur paralysante"
+        "name": "Maldición del dolor incapacitante"
     },
     {
-        "description": "<p>L'ingrédient de ce Sort doit être quelque chose appartenant à la cible, une Possession personnelle ou un simple cheveu. Pendant la durée du Sort, votre cible deVidant malchanceuse. Les lacets se cassent, les chaises se brisent, et d'autres soucis mineurs surVidannent. La cible subit une pénalité de -10 à tous ses Tests, en plus de tout autre modificateur, et ne peut pas dépsener de Points de Chance.</p>",
+        "description": "<p>.</p>",
         "effects": [
             {
                 "_id": "gNLrxf0HKogk6Gqi",
@@ -3197,7 +3197,7 @@
                     }
                 },
                 "icon": "modules/wfrp4e-core/icons/spells/curse-of-ill-fortune.png",
-                "label": "Restriction des Points de Chance ",
+                "label": "Restricción de puntos de suerte",
                 "tint": "",
                 "transfer": false
             },
@@ -3222,7 +3222,7 @@
                     }
                 },
                 "icon": "modules/wfrp4e-core/icons/spells/curse-of-ill-fortune.png",
-                "label": "Malédiction de malchance",
+                "label": "Maldición de la mala fortuna",
                 "tint": "",
                 "transfer": false
             },
@@ -3239,15 +3239,15 @@
                     }
                 },
                 "icon": "modules/wfrp4e-core/icons/spells/witchcraft.png",
-                "label": "Lore of Witchcraft",
+                "label": "Saber de la brujería",
                 "transfer": true
             }
         ],
         "id": "Curse of Ill-Fortune",
-        "name": "Malédiction de malchance"
+        "name": "Maldición de la mala fortuna"
     },
     {
-        "description": "<p>Vous invoquez une souffle <em>Hysh</em> qui traverse la frontière entre le Royaume du Chaos et le monde matériel. Le Test d'Incantation est opposé par la cible effectuant un Test de Force Mentale. Si vous l'emportez, vous annihilez une cible possédant le Trait de créature <em>Démoniaque</em> grâce à une Luz blanche aveuglante, la renvoyant d'où elle venait. Si le Sort bannit avec succès un démon, quiconque regardait en direction de la cible, à moins qu'il possède le Talent <em>Magie des Arcanes (Luz)</em>, reçoit +DR État <em>Aveuglé</em>&nbsp;.</p>",
+        "description": "<p>Convocas una explosión de <em>Hysh</em> que atraviesa la  frontera entre el Reino del Caos y el mundo material. El Chequeo de Lanzamiento es Enfrentado contra el objetivo, que a su vez hace un Chequeo de Voluntad. Si ganas,, borras del mapa a un objetivo con el Rasgo de criatura <em>Demoníaco</em> con una luz blanca y cegadora, enviándole de vuelta por donde vino. Si el hechizo destierra con éxito a un demonio, todos los que están mirando a tu objetivo, a menos que tengan el Talento <em>Magia Arcana (luz)</em> sufrenta tantos Estados de <em>Cegado</em> como tus NE&nbsp;.</p>",
         "effects": [
             {
                 "_id": "mD6XBsxKm47Daa1x",
@@ -3267,16 +3267,16 @@
             }
         ],
         "id": "Daemonbane",
-        "name": "Fauche-démon"
+        "name": "Maldición de los demonios"
     },
     {
-        "description": "<p>Vous renforcez votre Seconde vue pour aider vos sens ordinaires. Tant que le sort est actif, vous gagnez le Trait de créature Infravision. </p>\n<p>&nbsp;</p>\n<blockquote>\n<p>La créature peut voir dans l'obscurité comme en plein jour.</p>\n</blockquote>",
+        "description": "<p>Potencias tu Clarividencia para que asista a tus sentidos mundanos. Mientras el hechizo permanece activo, obtienes el Rasgo de criatura <em>Visión en la oscuridad</em></p>\n</blockquote>",
         "effects": [],
         "id": "Dark Vision",
-        "name": "Vision dans l'obscurité"
+        "name": "Visión en la oscuridad"
     },
     {
-        "description": "<p>Vous renforcez votre Seconde vue pour aider vos sens ordinaires. Tant que le sort est actif, vous gagnez le Trait de créature Infravision. </p>\n<p>&nbsp;</p>\n<blockquote>\n<p>La créature peut voir dans l'obscurité comme en plein jour.</p>\n</blockquote>",
+        "description": "<p>Potencias tu Clarividencia para que asista a tus sentidos mundanos. Mientras el hechizo permanece activo, obtienes el Rasgo de criatura <em>Visión en la oscuridad</em></p>\n</blockquote>",
         "effects": [
             {
                 "_id": "QdhCVS5DGUmOGFLA",
@@ -3296,16 +3296,16 @@
             }
         ],
         "id": "Dark Vision (Beasts)",
-        "name": "Vision dans l'obscurité (Bestias)"
+        "name": "Visión en la oscuridad (Bestias)"
     },
     {
-        "description": "<p>Vous renforcez votre Seconde vue pour aider vos sens ordinaires. Tant que le sort est actif, vous gagnez le Trait de créature Infravision. </p>\n<p>&nbsp;</p>\n<blockquote>\n<p>La créature peut voir dans l'obscurité comme en plein jour.</p>\n</blockquote>",
+        "description": "<p>Potencias tu Clarividencia para que asista a tus sentidos mundanos. Mientras el hechizo permanece activo, obtienes el Rasgo de criatura <em>Visión en la oscuridad</em></p>\n</blockquote>",
         "effects": [],
         "id": "Dark Vision (Daemonology)",
-        "name": "Vision dans l'obscurité (Demonologia)"
+        "name": "Visión en la oscuridad (Demonologia)"
     },
     {
-        "description": "<p>Vous renforcez votre Seconde vue pour aider vos sens ordinaires. Tant que le sort est actif, vous gagnez le Trait de créature Infravision. </p>\n<p>&nbsp;</p>\n<blockquote>\n<p>La créature peut voir dans l'obscurité comme en plein jour.</p>\n</blockquote>",
+        "description": "<p>Potencias tu Clarividencia para que asista a tus sentidos mundanos. Mientras el hechizo permanece activo, obtienes el Rasgo de criatura <em>Visión en la oscuridad</em></p>\n</blockquote>",
         "effects": [
             {
                 "_id": "eAo7jietM8Fkyxxy",
@@ -3325,10 +3325,10 @@
             }
         ],
         "id": "Dark Vision (Death)",
-        "name": "Vision dans l'obscurité (Muerte)"
+        "name": "Visión en la oscuridad (Muerte)"
     },
     {
-        "description": "<p>Vous renforcez votre Seconde vue pour aider vos sens ordinaires. Tant que le sort est actif, vous gagnez le Trait de créature Infravision. </p>\n<p>&nbsp;</p>\n<blockquote>\n<p>La créature peut voir dans l'obscurité comme en plein jour.</p>\n</blockquote>",
+        "description": "<p>Potencias tu Clarividencia para que asista a tus sentidos mundanos. Mientras el hechizo permanece activo, obtienes el Rasgo de criatura <em>Visión en la oscuridad</em></p>\n</blockquote>",
         "effects": [
             {
                 "_id": "FGRtfbVrNWHEsrao",
@@ -3348,10 +3348,10 @@
             }
         ],
         "id": "Dark Vision (Fire)",
-        "name": "Vision dans l'obscurité (Fuego)"
+        "name": "Visión en la oscuridad (Fuego)"
     },
     {
-        "description": "<p>Vous renforcez votre Seconde vue pour aider vos sens ordinaires. Tant que le sort est actif, vous gagnez le Trait de créature Infravision. </p>\n<p>&nbsp;</p>\n<blockquote>\n<p>La créature peut voir dans l'obscurité comme en plein jour.</p>\n</blockquote>",
+        "description": "<p>Potencias tu Clarividencia para que asista a tus sentidos mundanos. Mientras el hechizo permanece activo, obtienes el Rasgo de criatura <em>Visión en la oscuridad</em></p>\n</blockquote>",
         "effects": [
             {
                 "_id": "9dKdqzej3zCFngrX",
@@ -3371,10 +3371,10 @@
             }
         ],
         "id": "Dark Vision (Heavens)",
-        "name": "Vision dans l'obscurité (Cielos)"
+        "name": "Visión en la oscuridad (Cielos)"
     },
     {
-        "description": "<p>Vous renforcez votre Seconde vue pour aider vos sens ordinaires. Tant que le sort est actif, vous gagnez le Trait de créature Infravision. </p>\n<p>&nbsp;</p>\n<blockquote>\n<p>La créature peut voir dans l'obscurité comme en plein jour.</p>\n</blockquote>",
+        "description": "<p>Potencias tu Clarividencia para que asista a tus sentidos mundanos. Mientras el hechizo permanece activo, obtienes el Rasgo de criatura <em>Visión en la oscuridad</em></p>\n</blockquote>",
         "effects": [
             {
                 "_id": "POqymwfRtSdq7JI9",
@@ -3394,10 +3394,10 @@
             }
         ],
         "id": "Dark Vision (Life)",
-        "name": "Vision dans l'obscurité (Vida)"
+        "name": "Visión en la oscuridad (Vida)"
     },
     {
-        "description": "<p>Vous renforcez votre Seconde vue pour aider vos sens ordinaires. Tant que le sort est actif, vous gagnez le Trait de créature Infravision. </p>\n<p>&nbsp;</p>\n<blockquote>\n<p>La créature peut voir dans l'obscurité comme en plein jour.</p>\n</blockquote>",
+        "description": "<p>Potencias tu Clarividencia para que asista a tus sentidos mundanos. Mientras el hechizo permanece activo, obtienes el Rasgo de criatura <em>Visión en la oscuridad</em></p>\n</blockquote>",
         "effects": [
             {
                 "_id": "GjhsRf7OMJGvfJjt",
@@ -3417,10 +3417,10 @@
             }
         ],
         "id": "Dark Vision (Light)",
-        "name": "Vision dans l'obscurité (Luz)"
+        "name": "Visión en la oscuridad (Luz)"
     },
     {
-        "description": "<p>Vous renforcez votre Seconde vue pour aider vos sens ordinaires. Tant que le sort est actif, vous gagnez le Trait de créature Infravision. </p>\n<p>&nbsp;</p>\n<blockquote>\n<p>La créature peut voir dans l'obscurité comme en plein jour.</p>\n</blockquote>",
+        "description": "<p>Potencias tu Clarividencia para que asista a tus sentidos mundanos. Mientras el hechizo permanece activo, obtienes el Rasgo de criatura <em>Visión en la oscuridad</em></p>\n</blockquote>",
         "effects": [
             {
                 "_id": "Nv6gPaE3Wm6xzOuf",
@@ -3440,16 +3440,16 @@
             }
         ],
         "id": "Dark Vision (Metal)",
-        "name": "Vision dans l'obscurité (Metal)"
+        "name": "Visión en la oscuridad (Metal)"
     },
     {
-        "description": "<p>Vous renforcez votre Seconde vue pour aider vos sens ordinaires. Tant que le sort est actif, vous gagnez le Trait de créature Infravision. </p>\n<p>&nbsp;</p>\n<blockquote>\n<p>La créature peut voir dans l'obscurité comme en plein jour.</p>\n</blockquote>",
+        "description": "<p>Potencias tu Clarividencia para que asista a tus sentidos mundanos. Mientras el hechizo permanece activo, obtienes el Rasgo de criatura <em>Visión en la oscuridad</em></p>\n</blockquote>",
         "effects": [],
         "id": "Dark Vision (Necromancy)",
-        "name": "Vision dans l'obscurité (Nigromancia)"
+        "name": "Visión en la oscuridad (Nigromancia)"
     },
     {
-        "description": "<p>Vous renforcez votre Seconde vue pour aider vos sens ordinaires. Tant que le sort est actif, vous gagnez le Trait de créature Infravision. </p>\n<p>&nbsp;</p>\n<blockquote>\n<p>La créature peut voir dans l'obscurité comme en plein jour.</p>\n</blockquote>",
+        "description": "<p>Potencias tu Clarividencia para que asista a tus sentidos mundanos. Mientras el hechizo permanece activo, obtienes el Rasgo de criatura <em>Visión en la oscuridad</em></p>\n</blockquote>",
         "effects": [
             {
                 "_id": "wZl1p5RGbdxznwM3",
@@ -3469,7 +3469,7 @@
             }
         ],
         "id": "Dark Vision (Shadow)",
-        "name": "Vision dans l'obscurité (Sombras)"
+        "name": "Visión en la oscuridad (Sombras)"
     },
     {
         "description": "<p>Haces que un pequeño dardo energía mágica surja volando de tus dedos. Éste es un proyectil mágico con un Daño de +0</p>",
@@ -3535,7 +3535,7 @@
         "name": "Deslumbrar"
     },
     {
-        "description": "<p>Votre Sort perturbe <em>Dhar</em>, ce qui permet de contrôler et d'attirer vers vous le démon. Une cible qui possède le Trait de Créature Démoniaque et qui a une Force Mentale inférieure à la vôtre subit un nombre de Blessures égal à votre Bonus de Force Mentale, en ignorant le Bonus d'Endurance et les PA. De plus, vous pouvez augmenter l'une de vos Caractéristiques de +10 pendant la durée du Sort alors que vous absorbez les énergies profanes.</p>",
+        "description": "<p>Tu hechizo desestabiliza el <em>Dhar</em> que mantiene íntegro a un demonio, y lo atrae hacia ti. Una criatura con el Rasgo de criatura <em>Demoníaco</em> y una Voluntad menor que la tuya pierde tantas Heridas como tu Bonificador por Voluntad, ignorando el Bonificador por Resistencia o los puntos de Armadura. A su vez, tú puedes incrementar uno de tus Atributos en +10 uno de tus Atributos mientras dura el hechizo, al absorber energías profanas.</p>",
         "effects": [
             {
                 "_id": "poXtxybcRrubQAME",
@@ -3564,7 +3564,7 @@
                     }
                 },
                 "icon": "modules/wfrp4e-core/icons/spells/destroy-lesser-daemon.png",
-                "label": "Bonus de Caractéristique",
+                "label": "Característica Bonus",
                 "tint": "",
                 "transfer": false
             },
@@ -3589,13 +3589,13 @@
                       }
                 },
                 "icon": "modules/wfrp4e-core/icons/spells/destroy-lesser-daemon.png",
-                "label": "Destruction de Démon Mineur",
+                "label": "Destruir demonio menor",
                 "tint": "",
                 "transfer": false
             }
         ],
         "id": "Destroy Lesser Demon",
-        "name": "Destruction de Démon Mineur"
+        "name": "Destruir demonio menor"
     },
     {
         "description": "<p>Votre Sort détecte toutes les influences démoniaques de la zone. Vous savez immédiatement s'il y a un démon actif à portée, qu'il ait été invoqué, ou qu'il soit lié à un artefact, s'il en possède un autre, etc.</p>",
@@ -3604,7 +3604,7 @@
         "name": "Détection de démon"
     },
     {
-        "description": "<p>Vous vous enveloppez de magie, qui tourbillone autour de vous, perturbant vos ennemis. Tant que le Sort est actif, vous gagnez le Trait de créature Perturbant.</p>\n<p>&nbsp;</p>\n<blockquote>\n<p>La créature perturbe ou désoriente ses ennemis : peut-être qu'elle dégage un musc soporifique ou une odeur nauséabonde, ou peut-être que son apparence est horrifiante ou étrange. Quiconque se trouvant à un nombre de mètres égal à son Bonus d'Endurance obtient une pénalité de -20 à tous ses Tests. Les créatures touchées ne peuvent subir cette pénalité qu'une seule fois, peu importe le nombre d'ennemis Perturbants.</p>\n</blockquote>\n<p>&nbsp;</p>",
+        "description": "<p>Te rodeas a ti mismo de magia, que da vueltas a tu alrededor, distrayendo a tus enemigos. Mientras el hechizo permanece activo, obtienes el Rasgo de criatura <em>Molesto</em></p>\n</blockquote>\n<p>&nbsp;</p>",
         "effects": [
             {
                 "_id": "1Go91fEPZPGcCuYW",
@@ -3627,16 +3627,16 @@
                     }
                 },
                 "icon": "modules/wfrp4e-core/icons/blank.png",
-                "label": "Perturbant",
+                "label": "Molesto",
                 "tint": "",
                 "transfer": false
             }
         ],
         "id": "Distracting",
-        "name": "Perturbant"
+        "name": "Molesto"
     },
     {
-        "description": "<p>Vous vous enveloppez de magie, qui tourbillone autour de vous, perturbant vos ennemis. Tant que le Sort est actif, vous gagnez le Trait de créature Perturbant.</p>\n<p>&nbsp;</p>\n<blockquote>\n<p>La créature perturbe ou désoriente ses ennemis : peut-être qu'elle dégage un musc soporifique ou une odeur nauséabonde, ou peut-être que son apparence est horrifiante ou étrange. Quiconque se trouvant à un nombre de mètres égal à son Bonus d'Endurance obtient une pénalité de -20 à tous ses Tests. Les créatures touchées ne peuvent subir cette pénalité qu'une seule fois, peu importe le nombre d'ennemis Perturbants.</p>\n</blockquote>\n<p>&nbsp;</p>",
+        "description": "<p>Te rodeas a ti mismo de magia, que da vueltas a tu alrededor, distrayendo a tus enemigos. Mientras el hechizo permanece activo, obtienes el Rasgo de criatura <em>Molesto</em></p>\n</blockquote>\n<p>&nbsp;</p>",
         "effects": [
             {
                 "_id": "sjm8fc0fulE9DBm7",
@@ -3659,7 +3659,7 @@
                     }
                 },
                 "icon": "modules/wfrp4e-core/icons/spells/beasts.png",
-                "label": "Perturbant (Bestias)",
+                "label": "Molesto (Bestias)",
                 "tint": "",
                 "transfer": false
             },
@@ -3681,10 +3681,10 @@
             }
         ],
         "id": "Distracting (Beasts)",
-        "name": "Perturbant (Bestias)"
+        "name": "Molesto (Bestias)"
     },
     {
-        "description": "<p>Vous vous enveloppez de magie, qui tourbillone autour de vous, perturbant vos ennemis. Tant que le Sort est actif, vous gagnez le Trait de créature Perturbant.</p>\n<p>&nbsp;</p>\n<blockquote>\n<p>La créature perturbe ou désoriente ses ennemis : peut-être qu'elle dégage un musc soporifique ou une odeur nauséabonde, ou peut-être que son apparence est horrifiante ou étrange. Quiconque se trouvant à un nombre de mètres égal à son Bonus d'Endurance obtient une pénalité de -20 à tous ses Tests. Les créatures touchées ne peuvent subir cette pénalité qu'une seule fois, peu importe le nombre d'ennemis Perturbants.</p>\n</blockquote>\n<p>&nbsp;</p>",
+        "description": "<p>Te rodeas a ti mismo de magia, que da vueltas a tu alrededor, distrayendo a tus enemigos. Mientras el hechizo permanece activo, obtienes el Rasgo de criatura <em>Molesto</em></p>\n</blockquote>\n<p>&nbsp;</p>",
         "effects": [
             {
                 "_id": "caxzQfTuX9n9oJFk",
@@ -3707,16 +3707,16 @@
                     }
                 },
                 "icon": "modules/wfrp4e-core/icons/spells/daemonology.png",
-                "label": "Perturbant (Demonologia)",
+                "label": "Molesto (Demonologia)",
                 "tint": "",
                 "transfer": false
             }
         ],
         "id": "Distracting (Daemonology)",
-        "name": "Perturbant (Demonologia)"
+        "name": "Molesto (Demonologia)"
     },
     {
-        "description": "<p>Vous vous enveloppez de magie, qui tourbillone autour de vous, perturbant vos ennemis. Tant que le Sort est actif, vous gagnez le Trait de créature Perturbant.</p>\n<p>&nbsp;</p>\n<blockquote>\n<p>La créature perturbe ou désoriente ses ennemis : peut-être qu'elle dégage un musc soporifique ou une odeur nauséabonde, ou peut-être que son apparence est horrifiante ou étrange. Quiconque se trouvant à un nombre de mètres égal à son Bonus d'Endurance obtient une pénalité de -20 à tous ses Tests. Les créatures touchées ne peuvent subir cette pénalité qu'une seule fois, peu importe le nombre d'ennemis Perturbants.</p>\n</blockquote>\n<p>&nbsp;</p>",
+        "description": "<p>Te rodeas a ti mismo de magia, que da vueltas a tu alrededor, distrayendo a tus enemigos. Mientras el hechizo permanece activo, obtienes el Rasgo de criatura <em>Molesto</em></p>\n</blockquote>\n<p>&nbsp;</p>",
         "effects": [
             {
                 "_id": "fVw6vOUKTvsKVyDi",
@@ -3739,7 +3739,7 @@
                     }
                 },
                 "icon": "modules/wfrp4e-core/icons/spells/death.png",
-                "label": "Perturbant (Muerte)",
+                "label": "Molesto (Muerte)",
                 "tint": "",
                 "transfer": false
             },
@@ -3761,10 +3761,10 @@
             }
         ],
         "id": "Distracting (Death)",
-        "name": "Perturbant (Muerte)"
+        "name": "Molesto (Muerte)"
     },
     {
-        "description": "<p>Vous vous enveloppez de magie, qui tourbillone autour de vous, perturbant vos ennemis. Tant que le Sort est actif, vous gagnez le Trait de créature Perturbant.</p>\n<p>&nbsp;</p>\n<blockquote>\n<p>La créature perturbe ou désoriente ses ennemis : peut-être qu'elle dégage un musc soporifique ou une odeur nauséabonde, ou peut-être que son apparence est horrifiante ou étrange. Quiconque se trouvant à un nombre de mètres égal à son Bonus d'Endurance obtient une pénalité de -20 à tous ses Tests. Les créatures touchées ne peuvent subir cette pénalité qu'une seule fois, peu importe le nombre d'ennemis Perturbants.</p>\n</blockquote>\n<p>&nbsp;</p>",
+        "description": "<p>Te rodeas a ti mismo de magia, que da vueltas a tu alrededor, distrayendo a tus enemigos. Mientras el hechizo permanece activo, obtienes el Rasgo de criatura <em>Molesto</em></p>\n</blockquote>\n<p>&nbsp;</p>",
         "effects": [
             {
                 "_id": "WCqVzFlHwMFOXeSJ",
@@ -3787,7 +3787,7 @@
                     }
                 },
                 "icon": "modules/wfrp4e-core/icons/spells/fire.png",
-                "label": "Perturbant (Fuego)",
+                "label": "Molesto (Fuego)",
                 "tint": "",
                 "transfer": false
             },
@@ -3809,10 +3809,10 @@
             }
         ],
         "id": "Distracting (Fire)",
-        "name": "Perturbant (Fuego)"
+        "name": "Molesto (Fuego)"
     },
     {
-        "description": "<p>Vous vous enveloppez de magie, qui tourbillone autour de vous, perturbant vos ennemis. Tant que le Sort est actif, vous gagnez le Trait de créature Perturbant.</p>\n<p>&nbsp;</p>\n<blockquote>\n<p>La créature perturbe ou désoriente ses ennemis : peut-être qu'elle dégage un musc soporifique ou une odeur nauséabonde, ou peut-être que son apparence est horrifiante ou étrange. Quiconque se trouvant à un nombre de mètres égal à son Bonus d'Endurance obtient une pénalité de -20 à tous ses Tests. Les créatures touchées ne peuvent subir cette pénalité qu'une seule fois, peu importe le nombre d'ennemis Perturbants.</p>\n</blockquote>\n<p>&nbsp;</p>",
+        "description": "<p>Te rodeas a ti mismo de magia, que da vueltas a tu alrededor, distrayendo a tus enemigos. Mientras el hechizo permanece activo, obtienes el Rasgo de criatura <em>Molesto</em></p>\n</blockquote>\n<p>&nbsp;</p>",
         "effects": [
             {
                 "_id": "tbdnvlmuItgP5abc",
@@ -3835,7 +3835,7 @@
                     }
                 },
                 "icon": "modules/wfrp4e-core/icons/spells/heavens.png",
-                "label": "Perturbant (Cielos)",
+                "label": "Molesto (Cielos)",
                 "tint": "",
                 "transfer": false
             },
@@ -3857,10 +3857,10 @@
             }
         ],
         "id": "Distracting (Heavens)",
-        "name": "Perturbant (Cielos)"
+        "name": "Molesto (Cielos)"
     },
     {
-        "description": "<p>Vous vous enveloppez de magie, qui tourbillone autour de vous, perturbant vos ennemis. Tant que le Sort est actif, vous gagnez le Trait de créature Perturbant.</p>\n<p>&nbsp;</p>\n<blockquote>\n<p>La créature perturbe ou désoriente ses ennemis : peut-être qu'elle dégage un musc soporifique ou une odeur nauséabonde, ou peut-être que son apparence est horrifiante ou étrange. Quiconque se trouvant à un nombre de mètres égal à son Bonus d'Endurance obtient une pénalité de -20 à tous ses Tests. Les créatures touchées ne peuvent subir cette pénalité qu'une seule fois, peu importe le nombre d'ennemis Perturbants.</p>\n</blockquote>\n<p>&nbsp;</p>",
+        "description": "<p>Te rodeas a ti mismo de magia, que da vueltas a tu alrededor, distrayendo a tus enemigos. Mientras el hechizo permanece activo, obtienes el Rasgo de criatura <em>Molesto</em></p>\n</blockquote>\n<p>&nbsp;</p>",
         "effects": [
             {
                 "_id": "dcp6z9mCAU5ekbcG",
@@ -3883,7 +3883,7 @@
                     }
                 },
                 "icon": "modules/wfrp4e-core/icons/spells/life.png",
-                "label": "Perturbant (Vida)",
+                "label": "Molesto (Vida)",
                 "tint": "",
                 "transfer": false
             },
@@ -3905,10 +3905,10 @@
             }
         ],
         "id": "Distracting (Life)",
-        "name": "Perturbant (Vida)"
+        "name": "Molesto (Vida)"
     },
     {
-        "description": "<p>Vous vous enveloppez de magie, qui tourbillone autour de vous, perturbant vos ennemis. Tant que le Sort est actif, vous gagnez le Trait de créature Perturbant.</p>\n<p>&nbsp;</p>\n<blockquote>\n<p>La créature perturbe ou désoriente ses ennemis : peut-être qu'elle dégage un musc soporifique ou une odeur nauséabonde, ou peut-être que son apparence est horrifiante ou étrange. Quiconque se trouvant à un nombre de mètres égal à son Bonus d'Endurance obtient une pénalité de -20 à tous ses Tests. Les créatures touchées ne peuvent subir cette pénalité qu'une seule fois, peu importe le nombre d'ennemis Perturbants.</p>\n</blockquote>\n<p>&nbsp;</p>",
+        "description": "<p>Te rodeas a ti mismo de magia, que da vueltas a tu alrededor, distrayendo a tus enemigos. Mientras el hechizo permanece activo, obtienes el Rasgo de criatura <em>Molesto</em></p>\n</blockquote>\n<p>&nbsp;</p>",
         "effects": [
             {
                 "_id": "mBhha1Apy1vvBfxN",
@@ -3931,7 +3931,7 @@
                     }
                 },
                 "icon": "modules/wfrp4e-core/icons/spells/light.png",
-                "label": "Perturbant (Luz)",
+                "label": "Molesto (Luz)",
                 "tint": "",
                 "transfer": false
             },
@@ -3953,10 +3953,10 @@
             }
         ],
         "id": "Distracting (Light)",
-        "name": "Perturbant (Luz)"
+        "name": "Molesto (Luz)"
     },
     {
-        "description": "<p>Vous vous enveloppez de magie, qui tourbillone autour de vous, perturbant vos ennemis. Tant que le Sort est actif, vous gagnez le Trait de créature Perturbant.</p>\n<p>&nbsp;</p>\n<blockquote>\n<p>La créature perturbe ou désoriente ses ennemis : peut-être qu'elle dégage un musc soporifique ou une odeur nauséabonde, ou peut-être que son apparence est horrifiante ou étrange. Quiconque se trouvant à un nombre de mètres égal à son Bonus d'Endurance obtient une pénalité de -20 à tous ses Tests. Les créatures touchées ne peuvent subir cette pénalité qu'une seule fois, peu importe le nombre d'ennemis Perturbants.</p>\n</blockquote>\n<p>&nbsp;</p>",
+        "description": "<p>Te rodeas a ti mismo de magia, que da vueltas a tu alrededor, distrayendo a tus enemigos. Mientras el hechizo permanece activo, obtienes el Rasgo de criatura <em>Molesto</em></p>\n</blockquote>\n<p>&nbsp;</p>",
         "effects": [
             {
                 "_id": "Z1OYYrhuIhG8t9kD",
@@ -3979,7 +3979,7 @@
                     }
                 },
                 "icon": "modules/wfrp4e-core/icons/spells/metal.png",
-                "label": "Perturbant (Metal)",
+                "label": "Molesto (Metal)",
                 "tint": "",
                 "transfer": false
             },
@@ -4001,10 +4001,10 @@
             }
         ],
         "id": "Distracting (Metal)",
-        "name": "Perturbant (Metal)"
+        "name": "Molesto (Metal)"
     },
     {
-        "description": "<p>Vous vous enveloppez de magie, qui tourbillone autour de vous, perturbant vos ennemis. Tant que le Sort est actif, vous gagnez le Trait de créature Perturbant.</p>\n<p>&nbsp;</p>\n<blockquote>\n<p>La créature perturbe ou désoriente ses ennemis : peut-être qu'elle dégage un musc soporifique ou une odeur nauséabonde, ou peut-être que son apparence est horrifiante ou étrange. Quiconque se trouvant à un nombre de mètres égal à son Bonus d'Endurance obtient une pénalité de -20 à tous ses Tests. Les créatures touchées ne peuvent subir cette pénalité qu'une seule fois, peu importe le nombre d'ennemis Perturbants.</p>\n</blockquote>\n<p>&nbsp;</p>",
+        "description": "<p>Te rodeas a ti mismo de magia, que da vueltas a tu alrededor, distrayendo a tus enemigos. Mientras el hechizo permanece activo, obtienes el Rasgo de criatura <em>Molesto</em></p>\n</blockquote>\n<p>&nbsp;</p>",
         "effects": [
             {
                 "_id": "mkOdaFPd9d8hNxy6",
@@ -4027,16 +4027,16 @@
                     }
                 },
                 "icon": "modules/wfrp4e-core/icons/spells/necromancy.png",
-                "label": "Perturbant (Nigromancia)",
+                "label": "Molesto (Nigromancia)",
                 "tint": "",
                 "transfer": false
             }
         ],
         "id": "Distracting (Necromancy)",
-        "name": "Perturbant (Nigromancia)"
+        "name": "Molesto (Nigromancia)"
     },
     {
-        "description": "<p>Vous vous enveloppez de magie, qui tourbillone autour de vous, perturbant vos ennemis. Tant que le Sort est actif, vous gagnez le Trait de créature Perturbant.</p>\n<p>&nbsp;</p>\n<blockquote>\n<p>La créature perturbe ou désoriente ses ennemis : peut-être qu'elle dégage un musc soporifique ou une odeur nauséabonde, ou peut-être que son apparence est horrifiante ou étrange. Quiconque se trouvant à un nombre de mètres égal à son Bonus d'Endurance obtient une pénalité de -20 à tous ses Tests. Les créatures touchées ne peuvent subir cette pénalité qu'une seule fois, peu importe le nombre d'ennemis Perturbants.</p>\n</blockquote>\n<p>&nbsp;</p>",
+        "description": "<p>Te rodeas a ti mismo de magia, que da vueltas a tu alrededor, distrayendo a tus enemigos. Mientras el hechizo permanece activo, obtienes el Rasgo de criatura <em>Molesto</em></p>\n</blockquote>\n<p>&nbsp;</p>",
         "effects": [
             {
                 "_id": "cD3jmdr21YY45gQA",
@@ -4059,7 +4059,7 @@
                     }
                 },
                 "icon": "modules/wfrp4e-core/icons/spells/shadow.png",
-                "label": "Perturbant (Sombras)",
+                "label": "Molesto (Sombras)",
                 "tint": "",
                 "transfer": false
             },
@@ -4081,16 +4081,16 @@
             }
         ],
         "id": "Distracting (Shadow)",
-        "name": "Perturbant (Sombras)"
+        "name": "Molesto (Sombras)"
     },
     {
-        "description": "<p>Vous créez un dôme d'énergie magique au-dessus des têtes, bloquant les attaques de l'extérieur. Quiconque se trouve dans la Zone d'Effet gagne le Trait de créature Protection(+6) contre les attaques magiques ou à distances provenant de l'extérieur du dôme. Les personnes à l'intérieur peuvent attaquer des cibles situées à l'extérieur du dôme normalement, et le dôme ne gêne pas le déplacement.</p>\n<p>&nbsp;</p>\n<blockquote>\n<p>Parce qu'elles sont magiques, bénéficient d'un talisman particulier ou sont juste chanceuses, certaines créatures semblent éviter les coups. Lancer 1d10 après chaque coup reçu. En cas de résultat supérieur ou égal, le coup est ignoré même s'il s'agit d'un Critique.&nbsp;</p>\n</blockquote>\n<p>&nbsp;</p>",
+        "description": "<p>Creas una cúpula de energía mágica por encima de tu cabeza, que bloquea los ataques en tu contra. Todos los que están en el Área de efecto obtienen el Rasgo de criatura <em>Custodiado (6 o más)</em> contra los ataques mágicos o a distancia que se originan fuera de la cúpula. Los del interior pueden atacar de la forma habitual, y la cúpula no impide el movimiento.&nbsp;</p>\n</blockquote>\n<p>&nbsp;</p>",
         "effects": [],
         "id": "Dome",
-        "name": "Dôme"
+        "name": "Cúpula"
     },
     {
-        "description": "<p>Vous créez un dôme d'énergie magique au-dessus des têtes, bloquant les attaques de l'extérieur. Quiconque se trouve dans la Zone d'Effet gagne le Trait de créature Protection(+6) contre les attaques magiques ou à distances provenant de l'extérieur du dôme. Les personnes à l'intérieur peuvent attaquer des cibles situées à l'extérieur du dôme normalement, et le dôme ne gêne pas le déplacement.</p>\n<p>&nbsp;</p>\n<blockquote>\n<p>Parce qu'elles sont magiques, bénéficient d'un talisman particulier ou sont juste chanceuses, certaines créatures semblent éviter les coups. Lancer 1d10 après chaque coup reçu. En cas de résultat supérieur ou égal, le coup est ignoré même s'il s'agit d'un Critique.&nbsp;</p>\n</blockquote>\n<p>&nbsp;</p>",
+        "description": "<p>Creas una cúpula de energía mágica por encima de tu cabeza, que bloquea los ataques en tu contra. Todos los que están en el Área de efecto obtienen el Rasgo de criatura <em>Custodiado (6 o más)</em> contra los ataques mágicos o a distancia que se originan fuera de la cúpula. Los del interior pueden atacar de la forma habitual, y la cúpula no impide el movimiento.&nbsp;</p>\n</blockquote>\n<p>&nbsp;</p>",
         "effects": [
             {
                 "_id": "MJmI1J5U1gz4hqO7",
@@ -4110,16 +4110,16 @@
             }
         ],
         "id": "Dome (Beasts)",
-        "name": "Dôme (Bestias)"
+        "name": "Cúpula (Bestias)"
     },
     {
-        "description": "<p>Vous créez un dôme d'énergie magique au-dessus des têtes, bloquant les attaques de l'extérieur. Quiconque se trouve dans la Zone d'Effet gagne le Trait de créature Protection(+6) contre les attaques magiques ou à distances provenant de l'extérieur du dôme. Les personnes à l'intérieur peuvent attaquer des cibles situées à l'extérieur du dôme normalement, et le dôme ne gêne pas le déplacement.</p>\n<p>&nbsp;</p>\n<blockquote>\n<p>Parce qu'elles sont magiques, bénéficient d'un talisman particulier ou sont juste chanceuses, certaines créatures semblent éviter les coups. Lancer 1d10 après chaque coup reçu. En cas de résultat supérieur ou égal, le coup est ignoré même s'il s'agit d'un Critique.&nbsp;</p>\n</blockquote>\n<p>&nbsp;</p>",
+        "description": "<p>Creas una cúpula de energía mágica por encima de tu cabeza, que bloquea los ataques en tu contra. Todos los que están en el Área de efecto obtienen el Rasgo de criatura <em>Custodiado (6 o más)</em> contra los ataques mágicos o a distancia que se originan fuera de la cúpula. Los del interior pueden atacar de la forma habitual, y la cúpula no impide el movimiento.&nbsp;</p>\n</blockquote>\n<p>&nbsp;</p>",
         "effects": [],
         "id": "Dome (Daemonology)",
-        "name": "Dôme (Demonologia)"
+        "name": "Cúpula (Demonologia)"
     },
     {
-        "description": "<p>Vous créez un dôme d'énergie magique au-dessus des têtes, bloquant les attaques de l'extérieur. Quiconque se trouve dans la Zone d'Effet gagne le Trait de créature Protection(+6) contre les attaques magiques ou à distances provenant de l'extérieur du dôme. Les personnes à l'intérieur peuvent attaquer des cibles situées à l'extérieur du dôme normalement, et le dôme ne gêne pas le déplacement.</p>\n<p>&nbsp;</p>\n<blockquote>\n<p>Parce qu'elles sont magiques, bénéficient d'un talisman particulier ou sont juste chanceuses, certaines créatures semblent éviter les coups. Lancer 1d10 après chaque coup reçu. En cas de résultat supérieur ou égal, le coup est ignoré même s'il s'agit d'un Critique.&nbsp;</p>\n</blockquote>\n<p>&nbsp;</p>",
+        "description": "<p>Creas una cúpula de energía mágica por encima de tu cabeza, que bloquea los ataques en tu contra. Todos los que están en el Área de efecto obtienen el Rasgo de criatura <em>Custodiado (6 o más)</em> contra los ataques mágicos o a distancia que se originan fuera de la cúpula. Los del interior pueden atacar de la forma habitual, y la cúpula no impide el movimiento.&nbsp;</p>\n</blockquote>\n<p>&nbsp;</p>",
         "effects": [
             {
                 "_id": "d7OXOXgQh8W4AsVH",
@@ -4139,10 +4139,10 @@
             }
         ],
         "id": "Dome (Death)",
-        "name": "Dôme (Muerte)"
+        "name": "Cúpula (Muerte)"
     },
     {
-        "description": "<p>Vous créez un dôme d'énergie magique au-dessus des têtes, bloquant les attaques de l'extérieur. Quiconque se trouve dans la Zone d'Effet gagne le Trait de créature Protection(+6) contre les attaques magiques ou à distances provenant de l'extérieur du dôme. Les personnes à l'intérieur peuvent attaquer des cibles situées à l'extérieur du dôme normalement, et le dôme ne gêne pas le déplacement.</p>\n<p>&nbsp;</p>\n<blockquote>\n<p>Parce qu'elles sont magiques, bénéficient d'un talisman particulier ou sont juste chanceuses, certaines créatures semblent éviter les coups. Lancer 1d10 après chaque coup reçu. En cas de résultat supérieur ou égal, le coup est ignoré même s'il s'agit d'un Critique.&nbsp;</p>\n</blockquote>\n<p>&nbsp;</p>",
+        "description": "<p>Creas una cúpula de energía mágica por encima de tu cabeza, que bloquea los ataques en tu contra. Todos los que están en el Área de efecto obtienen el Rasgo de criatura <em>Custodiado (6 o más)</em> contra los ataques mágicos o a distancia que se originan fuera de la cúpula. Los del interior pueden atacar de la forma habitual, y la cúpula no impide el movimiento.&nbsp;</p>\n</blockquote>\n<p>&nbsp;</p>",
         "effects": [
             {
                 "_id": "0hShISeElClv8Itz",
@@ -4162,10 +4162,10 @@
             }
         ],
         "id": "Dome (Fire)",
-        "name": "Dôme (Fuego)"
+        "name": "Cúpula (Fuego)"
     },
     {
-        "description": "<p>Vous créez un dôme d'énergie magique au-dessus des têtes, bloquant les attaques de l'extérieur. Quiconque se trouve dans la Zone d'Effet gagne le Trait de créature Protection(+6) contre les attaques magiques ou à distances provenant de l'extérieur du dôme. Les personnes à l'intérieur peuvent attaquer des cibles situées à l'extérieur du dôme normalement, et le dôme ne gêne pas le déplacement.</p>\n<p>&nbsp;</p>\n<blockquote>\n<p>Parce qu'elles sont magiques, bénéficient d'un talisman particulier ou sont juste chanceuses, certaines créatures semblent éviter les coups. Lancer 1d10 après chaque coup reçu. En cas de résultat supérieur ou égal, le coup est ignoré même s'il s'agit d'un Critique.&nbsp;</p>\n</blockquote>\n<p>&nbsp;</p>",
+        "description": "<p>Creas una cúpula de energía mágica por encima de tu cabeza, que bloquea los ataques en tu contra. Todos los que están en el Área de efecto obtienen el Rasgo de criatura <em>Custodiado (6 o más)</em> contra los ataques mágicos o a distancia que se originan fuera de la cúpula. Los del interior pueden atacar de la forma habitual, y la cúpula no impide el movimiento.&nbsp;</p>\n</blockquote>\n<p>&nbsp;</p>",
         "effects": [
             {
                 "_id": "ZRg9CnWDg5iAF0ec",
@@ -4185,10 +4185,10 @@
             }
         ],
         "id": "Dome (Heavens)",
-        "name": "Dôme (Cielos)"
+        "name": "Cúpula (Cielos)"
     },
     {
-        "description": "<p>Vous créez un dôme d'énergie magique au-dessus des têtes, bloquant les attaques de l'extérieur. Quiconque se trouve dans la Zone d'Effet gagne le Trait de créature Protection(+6) contre les attaques magiques ou à distances provenant de l'extérieur du dôme. Les personnes à l'intérieur peuvent attaquer des cibles situées à l'extérieur du dôme normalement, et le dôme ne gêne pas le déplacement.</p>\n<p>&nbsp;</p>\n<blockquote>\n<p>Parce qu'elles sont magiques, bénéficient d'un talisman particulier ou sont juste chanceuses, certaines créatures semblent éviter les coups. Lancer 1d10 après chaque coup reçu. En cas de résultat supérieur ou égal, le coup est ignoré même s'il s'agit d'un Critique.&nbsp;</p>\n</blockquote>\n<p>&nbsp;</p>",
+        "description": "<p>Creas una cúpula de energía mágica por encima de tu cabeza, que bloquea los ataques en tu contra. Todos los que están en el Área de efecto obtienen el Rasgo de criatura <em>Custodiado (6 o más)</em> contra los ataques mágicos o a distancia que se originan fuera de la cúpula. Los del interior pueden atacar de la forma habitual, y la cúpula no impide el movimiento.&nbsp;</p>\n</blockquote>\n<p>&nbsp;</p>",
         "effects": [
             {
                 "_id": "PFYl9NGz0IEKrYQ8",
@@ -4208,10 +4208,10 @@
             }
         ],
         "id": "Dome (Life)",
-        "name": "Dôme (Vida)"
+        "name": "Cúpula (Vida)"
     },
     {
-        "description": "<p>Vous créez un dôme d'énergie magique au-dessus des têtes, bloquant les attaques de l'extérieur. Quiconque se trouve dans la Zone d'Effet gagne le Trait de créature Protection(+6) contre les attaques magiques ou à distances provenant de l'extérieur du dôme. Les personnes à l'intérieur peuvent attaquer des cibles situées à l'extérieur du dôme normalement, et le dôme ne gêne pas le déplacement.</p>\n<p>&nbsp;</p>\n<blockquote>\n<p>Parce qu'elles sont magiques, bénéficient d'un talisman particulier ou sont juste chanceuses, certaines créatures semblent éviter les coups. Lancer 1d10 après chaque coup reçu. En cas de résultat supérieur ou égal, le coup est ignoré même s'il s'agit d'un Critique.&nbsp;</p>\n</blockquote>\n<p>&nbsp;</p>",
+        "description": "<p>Creas una cúpula de energía mágica por encima de tu cabeza, que bloquea los ataques en tu contra. Todos los que están en el Área de efecto obtienen el Rasgo de criatura <em>Custodiado (6 o más)</em> contra los ataques mágicos o a distancia que se originan fuera de la cúpula. Los del interior pueden atacar de la forma habitual, y la cúpula no impide el movimiento.&nbsp;</p>\n</blockquote>\n<p>&nbsp;</p>",
         "effects": [
             {
                 "_id": "AIp8UZsXSdxUeZ0l",
@@ -4231,10 +4231,10 @@
             }
         ],
         "id": "Dome (Light)",
-        "name": "Dôme (Luz)"
+        "name": "Cúpula (Luz)"
     },
     {
-        "description": "<p>Vous créez un dôme d'énergie magique au-dessus des têtes, bloquant les attaques de l'extérieur. Quiconque se trouve dans la Zone d'Effet gagne le Trait de créature Protection(+6) contre les attaques magiques ou à distances provenant de l'extérieur du dôme. Les personnes à l'intérieur peuvent attaquer des cibles situées à l'extérieur du dôme normalement, et le dôme ne gêne pas le déplacement.</p>\n<p>&nbsp;</p>\n<blockquote>\n<p>Parce qu'elles sont magiques, bénéficient d'un talisman particulier ou sont juste chanceuses, certaines créatures semblent éviter les coups. Lancer 1d10 après chaque coup reçu. En cas de résultat supérieur ou égal, le coup est ignoré même s'il s'agit d'un Critique.&nbsp;</p>\n</blockquote>\n<p>&nbsp;</p>",
+        "description": "<p>Creas una cúpula de energía mágica por encima de tu cabeza, que bloquea los ataques en tu contra. Todos los que están en el Área de efecto obtienen el Rasgo de criatura <em>Custodiado (6 o más)</em> contra los ataques mágicos o a distancia que se originan fuera de la cúpula. Los del interior pueden atacar de la forma habitual, y la cúpula no impide el movimiento.&nbsp;</p>\n</blockquote>\n<p>&nbsp;</p>",
         "effects": [
             {
                 "_id": "VbMZdLVVDbqxwHWZ",
@@ -4254,16 +4254,16 @@
             }
         ],
         "id": "Dome (Metal)",
-        "name": "Dôme (Metal)"
+        "name": "Cúpula (Metal)"
     },
     {
-        "description": "<p>Vous créez un dôme d'énergie magique au-dessus des têtes, bloquant les attaques de l'extérieur. Quiconque se trouve dans la Zone d'Effet gagne le Trait de créature Protection(+6) contre les attaques magiques ou à distances provenant de l'extérieur du dôme. Les personnes à l'intérieur peuvent attaquer des cibles situées à l'extérieur du dôme normalement, et le dôme ne gêne pas le déplacement.</p>\n<p>&nbsp;</p>\n<blockquote>\n<p>Parce qu'elles sont magiques, bénéficient d'un talisman particulier ou sont juste chanceuses, certaines créatures semblent éviter les coups. Lancer 1d10 après chaque coup reçu. En cas de résultat supérieur ou égal, le coup est ignoré même s'il s'agit d'un Critique.&nbsp;</p>\n</blockquote>\n<p>&nbsp;</p>",
+        "description": "<p>Creas una cúpula de energía mágica por encima de tu cabeza, que bloquea los ataques en tu contra. Todos los que están en el Área de efecto obtienen el Rasgo de criatura <em>Custodiado (6 o más)</em> contra los ataques mágicos o a distancia que se originan fuera de la cúpula. Los del interior pueden atacar de la forma habitual, y la cúpula no impide el movimiento.&nbsp;</p>\n</blockquote>\n<p>&nbsp;</p>",
         "effects": [],
         "id": "Dome (Necromancy)",
-        "name": "Dôme (Nigromancia)"
+        "name": "Cúpula (Nigromancia)"
     },
     {
-        "description": "<p>Vous créez un dôme d'énergie magique au-dessus des têtes, bloquant les attaques de l'extérieur. Quiconque se trouve dans la Zone d'Effet gagne le Trait de créature Protection(+6) contre les attaques magiques ou à distances provenant de l'extérieur du dôme. Les personnes à l'intérieur peuvent attaquer des cibles situées à l'extérieur du dôme normalement, et le dôme ne gêne pas le déplacement.</p>\n<p>&nbsp;</p>\n<blockquote>\n<p>Parce qu'elles sont magiques, bénéficient d'un talisman particulier ou sont juste chanceuses, certaines créatures semblent éviter les coups. Lancer 1d10 après chaque coup reçu. En cas de résultat supérieur ou égal, le coup est ignoré même s'il s'agit d'un Critique.&nbsp;</p>\n</blockquote>\n<p>&nbsp;</p>",
+        "description": "<p>Creas una cúpula de energía mágica por encima de tu cabeza, que bloquea los ataques en tu contra. Todos los que están en el Área de efecto obtienen el Rasgo de criatura <em>Custodiado (6 o más)</em> contra los ataques mágicos o a distancia que se originan fuera de la cúpula. Los del interior pueden atacar de la forma habitual, y la cúpula no impide el movimiento.&nbsp;</p>\n</blockquote>\n<p>&nbsp;</p>",
         "effects": [
             {
                 "_id": "LOmfHxnORJv6wGOo",
@@ -4283,10 +4283,10 @@
             }
         ],
         "id": "Dome (Shadow)",
-        "name": "Dôme (Sombras)"
+        "name": "Cúpula (Sombras)"
     },
     {
-        "description": "<p>Vous tissez un masque et une cape d'<em>Ulgu</em> autour de votre silhouette, adoptant l'apparence d'une autre créature humanoïde avec laquelle vous êtes familier (comme déterminé par le MJ). Votre apparence trompe quiconque ne possède pas le Talent <em>Seconde vue</em>, bien que certains puissent le remarquer si vos manières sont incorrectes. Ceux possédant ce Talent doivent réussir un Test de  <strong>Perception Complexe (-10)</strong> pour remarquer que vous camouflez votre silhouette. Cela ne leur permet pas de voir à travers le Sort. Pour ce faire, ils doivent le dissiper.</p>",
+        "description": "<p>Tejes una máscara y un manto de <em>Ulgu</em> alrededor de tu forma, adoptando la apariencia de otra criatura humanoide con la que estás familiarizado (a discreción del DJ). Tu apariencia engará automáticamente a cualquiera que carezca del Talento <em>Clarividencia</em>, aunque algunos pueden darse cuenta de que algún manierismo es incorrecto. Quienes disponen de dicho Talento deben superar un Chequeo <strong>Complicado (-10)</strong> de <strong>Percepción</strong> para darse cuenta de que estas disfrazando tu forma. Sin embargo, esto no les deja ver a través del hechizo, Para hacerlo, deben dispersarlo.</p>",
         "effects": [
             {
                 "_id": "vUI09aSyOrnP8Ybg",
@@ -4306,7 +4306,7 @@
             }
         ],
         "id": "Doppelganger",
-        "name": "Jumeau maléfique"
+        "name": "Doppelganger"
     },
     {
         "description": "<p>Tocas a tus objetivos, drenando su fuerza vital. Esto cuenta como un proyectil mágico con Daño +0, que ignora los puntos de Armadura. A continuación, te curas 1 Herida.</p>",
@@ -6436,7 +6436,7 @@
         "name": "Forja de Chamon"
     },
     {
-        "description": "<p>Les rafales sauvages de <em>Chamon</em> déviant les coups et interceptant les projectiles et les attaques magiques. Gagnez le Trait de Créature <em>Protection (9+)</em> contre toutes les attaques et Sorts vous prenant pour cible. CHaque frappe évitée avec succès augmente l'efficacité de Protection de 1, jusqu'à un maximum de <em>Protection (3+).</em></p>",
+        "description": "<p>Ráfagas salvajes de <em>Chamon</em> giran a tu alrededor, desviando golpes e interceptando proyectiles y ataques mágicos. Obtienes el Rasgo de criatura <em>Custodiado (9 o más)</em> contra todos los ataques y hechizos que te tienen a ti como objetivo. Cada impacto salvado con éxito incrementa en 1 la efectividad de la Custodia hasta un máximo de <em>Custodiado (3 o más)</em>.</p>",
         "effects": [
             {
                 "_id": "gxNaV6mOEFhn6y4i",
@@ -6456,10 +6456,10 @@
             }
         ],
         "id": "Glittering Robe",
-        "name": "Écaille d'acier"
+        "name": "Capa brillante"
     },
     {
-        "description": "<p>Vous créez une atmosphère propice à la bienveillance et à la gentillesse. Tous les Tests de Sociabilité effectués dans la Zone d'Effet bénéficient d'un bonus de +10, et les Psychologies Animosité et Haine n'ont aucun effet.</p>",
+        "description": "<p>Creas una atmósfera conductiva a la amistad y los buenos espíritus. Todos los Chequeos de Empatía en el interior del Área de efecto obtienen un bonificador +10, y las Psicologías <em>Animosidad</em> y <em>Odio</em> no tienen efecto alguno.</p>",
         "effects": [
             {
                 "_id": "ol8DlLQwPE4A9Xul",
@@ -6482,7 +6482,7 @@
                     }
                 },
                 "icon": "modules/wfrp4e-core/icons/spells/goodwill.png",
-                "label": "Bonne Volonté",
+                "label": "Buena voluntad",
                 "tint": "",
                 "transfer": false
             },
@@ -6499,15 +6499,15 @@
                     }
                 },
                 "icon": "modules/wfrp4e-core/icons/spells/hedgecraft.png",
-                "label": "Lore of Hedgecraft",
+                "label": "Saber de la adivinación",
                 "transfer": true
             }
         ],
         "id": "Goodwill",
-        "name": "Bonne Volonté"
+        "name": "Buena voluntad"
     },
     {
-        "description": "<p>Vous projetez un grand souffle explosif d'<em>Aqshy</em> sur un ennemi. Ce dernier explose en un brasier furieux, brûlant des Fuegox de la forge. Il s'agit d'un projectile magique avec Dégâts +10 qui ignore les PA et inflige +2 États <em>Enflammé</em> et l'État <em>À Terre</em>. Everyone within the Area of Eﬀect of that target suﬀers a Damage +5 hit ignoring Armor Points, and must pass a Dodge Test or also gain +1 <em>Ablaze</em> Condition. The spell stops behaving like a magic missile as the fire continues to burn in the Area of Eﬀect for the duration. Anyone within the Area of Eﬀect at the start of a round suﬀers 1d10+6 Damage, ignoring APs, and gains +1 <em>Ablaze</em> Condition.</p>",
+        "description": "<p>Lanzas una gran explosión de <em>Aqshy</em> contra un enemigo, que estalla en furiosas llamas, ardiendo con el calor de una forja. Éste es un <em>proyectil mágico</em> con Daño +10 que ignora los puntos de Armadura e inflige +2 Estados de <em>Ardiendo</em> y hace pasar al Estado <em>Tumbado</em> a un objetivo. Todos los que están en el Área de efecto de dicho objetivo sufren un impacto con+5 Daño, que ignora los puntos de Armadura y deben superar un Chequeo de Esquivar o sufrir también +1 Estado de <em>Ardiendo</em>. El hechizo deja de comportarse como un proyectil mágico, pero el fuego continúa ardiendo en el Área de efecto al inicio de un asalto sufren 1d10+6 Daño, ignorando puntos de Armadura, y también un Estado de <em>Ardiendo</em>.</p>",
         "effects": [
             {
                 "_id": "ANinq8MojAZbYOvB",
@@ -6552,7 +6552,7 @@
             }
         ],
         "id": "Great Fires of U’Zhul",
-        "name": "Grands Fuegox d'U'Zhul"
+        "name": "Grandes fuegos de U'Zhul"
     },
     {
         "description": "<p>Creas una breve ráfaga de Vidanto, lo suficientemente fuerte como para apagar una vela, hacer que una puerta abierta se cierre de golpe o tirar al suelo unas cuantas páginas.</p>",
@@ -6561,7 +6561,7 @@
         "name": "Ráfaga"
     },
     {
-        "description": "<p>Vous ciblez un lieu unique, comme une maison ou une clairière, ou chaque créature qui entrera sera la victime de rêves obsédants et de cauchemars éveillés. Ceux qui pénètrent dans le lieu pendant que le Sort est actif sont perturbés par d'étranges sensations, des Sombras voletantes et des voix murmurantes à la limite de leur audition. À moins de posséder le Talent <em>Magie des Arcanes (Sorcellerie)</em>, ils subissent 1 État <em>Exténué</em>. De plus, à moins de réussir un Test de Calme Intermédiaire (+0), ils subissent de nouveau +1 État <em>Exténué</em> ainsi qu'un État <em>Brisé </em>, qui ne disparaîtront que lorsqu'ils quitteront le lieu en question.</p>",
+        "description": "<p>Eliges como objetivo un solo lugar, como por ejemplo una casa o un claro del bosque, e infliges sueños horribles y pesadillas diurnas a cualquiera que entra allí. Quienes entran mientras el hechizo está en funcionamiento, quedan perturbados por sensaciones sobrenaturales, sombras que revolotean y voces susurradas justo por debajo del umbral acústico. A menos que dispongan del Talento <em>Magia arcana (Brujería)</em> sufrirán +1 Estado de <em>Fatigado</em>. Después, y a menos que superen un Chequeo <strong>Desafiante (+0) de Frialdad</strong>, sufrirán +1 Estado adicional de <em>Fatigado</em> y 1 Estado de <em>Quebrantado</em>, que sólo se podrán eliminar al abandonar dicho lugar.</p>",
         "effects": [
             {
                 "_id": "mKV6Ff7PI9qXnVoq",
@@ -6576,15 +6576,15 @@
                     }
                 },
                 "icon": "modules/wfrp4e-core/icons/spells/witchcraft.png",
-                "label": "Lore of Witchcraft",
+                "label": "Saber de la brujería",
                 "transfer": true
             }
         ],
         "id": "Haunting Horror",
-        "name": "Horreur obsédante"
+        "name": "Aparición Horrorosa"
     },
     {
-        "description": "<p>Votre cible scintille d'une rayonnante Luz purifiante (équivalent à la Luz d'un Fuego de camp), guérissant d'un nombre de Blessure égal à votre Bonus d'Intelligence + votre Bonus de Force Mentale. Si la cible réussit un Test de <strong>Résistance Difficile (-20)</strong>,elle perd également 1 Point de Corruption gagné dans l'heure précédente.</p>",
+        "description": "<p>Tu objetivo brilla con una luz brillante y limpiadora (equivalente a la de una fogata), curando tantas Heridas como tu Bonificador por Inteligencia más tu Bonificador por Voluntad. Si el objetivo tiene éxito en un Chequeo <strong>Muy difícil (-20) de Aguanta</strong>, también pierde 1 punto de Corrupción ganado en la última hora.</p>",
         "effects": [
             {
                 "_id": "MR4PjON8mQsetjl4",
@@ -6607,7 +6607,7 @@
                     }
                 },
                 "icon": "modules/wfrp4e-core/icons/spells/healing-light.png",
-                "label": "Luz de guérison",
+                "label": "Luz sanadora",
                 "tint": "",
                 "transfer": false
             },
@@ -6629,10 +6629,10 @@
             }
         ],
         "id": "Healing Light",
-        "name": "Luz de guérison"
+        "name": "Luz sanadora"
     },
     {
-        "description": "<p>Vous vous couvrez d'un manteau chatoyant de Ghur. Tant que le Sort est actif, gagnez un bonus de +20 en Endurance et les Traits de créature <em>Peur</em> (1) et <em>Infravision</em>, ainsi que le Talent <em>Sens aiguisé (Odorat)</em>.</p>",
+        "description": "<p>Te envuelves en un manto brillante de <em>Ghur</em>. Mientras dura el hechizo, obtienes un Bonificador +20 a la Resistencia y los Rasgos de criatura <em>Visión en la oscuridad y Miedo (1)</em>, así como el Talento <em>Sentidos desarrollados (olfato)</em>.</p>",
         "effects": [
             {
                 "_id": "vFNbNjTgSXZNs0tV",
@@ -6664,7 +6664,7 @@
                     }
                 },
                 "icon": "modules/wfrp4e-core/icons/spells/hunters-hide.png",
-                "label": "Peau du Chasseur",
+                "label": "Piel del cazador",
                 "tint": "",
                 "transfer": false
             },
@@ -6686,10 +6686,10 @@
             }
         ],
         "id": "Hunter's Hide",
-        "name": "Peau du Chasseur"
+        "name": "Piel del cazador"
     },
     {
-        "description": "<p>Vous tissez une toile de brins sinueux d'<em>Ulgu</em>, masquant la Zone d'Effet d'une image illusoire de votre choix. Vous trompez automatiquement quiconque ne possède pas le Talent <em>Seconde vue</em>. Ceux qui possèdent ce Talent doivent réussir un Test de <strong>Perception Complexe (-10)</strong> pour remarquer l'illusion. Cela ne leur permet pas de voir à travers le Sort. Ils soivent le dissiper pour ce faire. Par défaut, l'llusion demeure statique. Pour votre Action, vous pouvez effectuer un Test de <strong>Focalisation Difficile (-20)</strong> pour déplacer l'illusion ce Round.</p>",
+        "description": "<p>Tejes una telaraña de intrincadas hebras de <em>Ulgu</em> ofuscando el Área de efecto con una imagen ilusoria de tu elección. Engañarás automáticamente a cualquiera que carezca del Talento <em>Clarividencia</em>. Quienes lo tengan, deberán superar un Chequeo <strong>Complicado (-10) de Percepción</em> para darse cuenta de la ilusión. Sin embargo, esto no les dejará ver a través del hechizo. Para hacerlo, deben dispersarlo. La ilusión es, por defecto, estática. Como tu Acción, puedes llevar a cabo un Chequeo <strong>Difícil (-20) de Canalización</strong> para hacer que la ilusión se mueva durante dicho Asalto.</p>",
         "effects": [
             {
                 "_id": "LWCiuZit04lr91C3",
@@ -6709,10 +6709,10 @@
             }
         ],
         "id": "Illusion",
-        "name": "Illusion"
+        "name": "Ilusión"
     },
     {
-        "description": "<p>En touchant la terre, vos sens circulent à travers <em>Ghyran</em> en repérant la zone avoisinante. Après avoir communié pendant 1 minute, vous percevez une carte mentale détaillée de toutes les caractéristiques naturelles - reliefs, forêts, rivières, mais pas les zones habitées - à portée. Les zones habitées peuvent être sous-entendues - zones de terrain dégagées, ou tranchées creusées, par exemple. Chaque fois que vous augmentez la portée avec un DR, ajoutez +1 minute le temps de communication avec le terrain.</p>",
+        "description": "<p>Tocando la tierra, tus sentidos fluyen a través del <em>Ghyran</em> que hay  en la zona circundante. Tras entrar en comunión durante 1 minuto,  obtienes un mapa mental detallado de los rasgos completamente naturales (terreno, bosques, ríos,  pero no asentamientos) dentro del alcance. Los asentamientos se pueden deducir; áreas de terreno despejado, o trincheras excavadas, por ejemplo. Cada vez que incrementas el alcance con 1 NE, incrementas en +1 minuto el tiempo que tardas en entrar en comunión con la tierra.</p>",
         "effects": [
             {
                 "_id": "8MqxyRCiZy2IIBFX",
@@ -6732,10 +6732,10 @@
             }
         ],
         "id": "Lie of the Land",
-        "name": "Configuration du terrain"
+        "name": "Configuración del terreno"
     },
     {
-        "description": "<p><em>Ghyran</em> inonde une zone brûlée ou désertique. Vous pouvez cibler un lit de rivière asséchée, un puit, un champ ou un animal domestique. Si vous lancez le Sort avec succès, la cible reprend Vida : </p>\n<ul type=\"disc\">\n<li>Une rivière asséchée recommence à couler</li>\n<li>Un puit asséché ou pollué deVidant potable et frais</li>\n<li>Un champ, un vignoble ou un verger fourmille de Vida et toutes les cultures atteignent immédiatement leur plein maturité</li>\n<li>Un animal malade ou improductif guérit. La Bestias affectée est à présent en bonne santé et productive (les vaches produisent du lait, les poules pondent des oeufs, les cuirs et toisons des vaches et des moutons sont sains et lustrés) et toutes les maladies sont guéries.</li>\n</ul>",
+        "description": "<p>Utilizas el <em>Ghyran</em> para inundar una zona marchita o desolada. Puedes tomar como objetivo o bien el lecho de un río seco, un pozo, un campo o un animal doméstico. Si lanzas con éxito el hechizo, el objetivo rebosa de vida: </p>\n<ul type=\"disc\">\n<li>Un río seco empieza a fluir de nuevo</li>\n<li>Un pozo seco o contaminado se vuelve limpio y potable</li>\n<li>Un campo de labranza, viñedo o huerto se llena de vida, con todas sus cosechas madurando por completo de inmediato</li>\n<li>Un animal enfermo o improductivo se vuelve saludable. La bestia afectada es ahora saludablemente productiva (las vacas producen leche, las gallinas ponen huevos, el pelaje de las ovejas y de las vacas es saludable y lustroso) y cualquier enfermedad se cura.</li>\n</ul>",
         "effects": [
             {
                 "_id": "LBo2VyM35NBzOGST",
@@ -6755,7 +6755,7 @@
             }
         ],
         "id": "Lifebloom",
-        "name": "Don de Vida"
+        "name": "Flor de la vida"
     },
     {
         "description": "<p>Creas una pequeña luz, aproximadamente equivalente a una antorcha, que brilla a partir de tu mano, tu bastón u otra parte de tu persona. Mientras el hechizo está activo, puedes incrementar la iluminación a la de una linterna o disminuirla a la de una vela, si superas un Chequeo <strong>Normal (+20) de Canalización</strong>.</p>",
@@ -6770,13 +6770,13 @@
         "name": "Llama mágica"
     },
     {
-        "description": "<p>Vous vous entourez d'une bande de magie protectrice. Tant que le Sort est actif, ajoutez +(Bonus de Force Mentale) DR quand vous tentez de dissiper un Sort.</p>",
+        "description": "<p>Te envuelves en bandas de magia protectora. Mientras el hechizo permanece activo, sumas tantos NE como tu Bonificador por voluntad a cualquier intento de Dispersión que haces</p>",
         "effects": [],
         "id": "Magic Shield",
-        "name": "Bouclier magique"
+        "name": "Escudo mágico"
     },
     {
-        "description": "<p>Vous vous entourez d'une bande de magie protectrice. Tant que le Sort est actif, ajoutez +(Bonus de Force Mentale) DR quand vous tentez de dissiper un Sort.</p>",
+        "description": "<p>Te envuelves en bandas de magia protectora. Mientras el hechizo permanece activo, sumas tantos NE como tu Bonificador por voluntad a cualquier intento de Dispersión que haces</p>",
         "effects": [
             {
                 "_id": "Ii56khCq0E4nH7v6",
@@ -6796,16 +6796,16 @@
             }
         ],
         "id": "Magic Shield (Beasts)",
-        "name": "Bouclier magique (Bestias)"
+        "name": "Escudo mágico (Bestias)"
     },
     {
-        "description": "<p>Vous vous entourez d'une bande de magie protectrice. Tant que le Sort est actif, ajoutez +(Bonus de Force Mentale) DR quand vous tentez de dissiper un Sort.</p>",
+        "description": "<p>Te envuelves en bandas de magia protectora. Mientras el hechizo permanece activo, sumas tantos NE como tu Bonificador por voluntad a cualquier intento de Dispersión que haces</p>",
         "effects": [],
         "id": "Magic Shield (Daemonology)",
-        "name": "Bouclier magique (Demonologia)"
+        "name": "Escudo mágico (Demonologia)"
     },
     {
-        "description": "<p>Vous vous entourez d'une bande de magie protectrice. Tant que le Sort est actif, ajoutez +(Bonus de Force Mentale) DR quand vous tentez de dissiper un Sort.</p>",
+        "description": "<p>Te envuelves en bandas de magia protectora. Mientras el hechizo permanece activo, sumas tantos NE como tu Bonificador por voluntad a cualquier intento de Dispersión que haces</p>",
         "effects": [
             {
                 "_id": "9HwBehYQGSiT2ZLZ",
@@ -6825,10 +6825,10 @@
             }
         ],
         "id": "Magic Shield (Death)",
-        "name": "Bouclier magique (Muerte)"
+        "name": "Escudo mágico (Muerte)"
     },
     {
-        "description": "<p>Vous vous entourez d'une bande de magie protectrice. Tant que le Sort est actif, ajoutez +(Bonus de Force Mentale) DR quand vous tentez de dissiper un Sort.</p>",
+        "description": "<p>Te envuelves en bandas de magia protectora. Mientras el hechizo permanece activo, sumas tantos NE como tu Bonificador por voluntad a cualquier intento de Dispersión que haces</p>",
         "effects": [
             {
                 "_id": "scj0JKNDMoqEUqcF",
@@ -6848,10 +6848,10 @@
             }
         ],
         "id": "Magic Shield (Fire)",
-        "name": "Bouclier magique (Fuego)"
+        "name": "Escudo mágico (Fuego)"
     },
     {
-        "description": "<p>Vous vous entourez d'une bande de magie protectrice. Tant que le Sort est actif, ajoutez +(Bonus de Force Mentale) DR quand vous tentez de dissiper un Sort.</p>",
+        "description": "<p>Te envuelves en bandas de magia protectora. Mientras el hechizo permanece activo, sumas tantos NE como tu Bonificador por voluntad a cualquier intento de Dispersión que haces</p>",
         "effects": [
             {
                 "_id": "qkYWzxnHowIeS2gN",
@@ -6871,10 +6871,10 @@
             }
         ],
         "id": "Magic Shield (Heavens)",
-        "name": "Bouclier magique (Cielos)"
+        "name": "Escudo mágico (Cielos)"
     },
     {
-        "description": "<p>Vous vous entourez d'une bande de magie protectrice. Tant que le Sort est actif, ajoutez +(Bonus de Force Mentale) DR quand vous tentez de dissiper un Sort.</p>",
+        "description": "<p>Te envuelves en bandas de magia protectora. Mientras el hechizo permanece activo, sumas tantos NE como tu Bonificador por voluntad a cualquier intento de Dispersión que haces</p>",
         "effects": [
             {
                 "_id": "M9nW800IXGq0zfD0",
@@ -6894,10 +6894,10 @@
             }
         ],
         "id": "Magic Shield (Life)",
-        "name": "Bouclier magique (Vida)"
+        "name": "Escudo mágico (Vida)"
     },
     {
-        "description": "<p>Vous vous entourez d'une bande de magie protectrice. Tant que le Sort est actif, ajoutez +(Bonus de Force Mentale) DR quand vous tentez de dissiper un Sort.</p>",
+        "description": "<p>Te envuelves en bandas de magia protectora. Mientras el hechizo permanece activo, sumas tantos NE como tu Bonificador por voluntad a cualquier intento de Dispersión que haces</p>",
         "effects": [
             {
                 "_id": "LcixwyyeBjTijZiK",
@@ -6917,10 +6917,10 @@
             }
         ],
         "id": "Magic Shield (Light)",
-        "name": "Bouclier magique (Luz)"
+        "name": "Escudo mágico (Luz)"
     },
     {
-        "description": "<p>Vous vous entourez d'une bande de magie protectrice. Tant que le Sort est actif, ajoutez +(Bonus de Force Mentale) DR quand vous tentez de dissiper un Sort.</p>",
+        "description": "<p>Te envuelves en bandas de magia protectora. Mientras el hechizo permanece activo, sumas tantos NE como tu Bonificador por voluntad a cualquier intento de Dispersión que haces</p>",
         "effects": [
             {
                 "_id": "hxf2JiZUj5NqW4q7",
@@ -6940,16 +6940,16 @@
             }
         ],
         "id": "Magic Shield (Metal)",
-        "name": "Bouclier magique (Metal)"
+        "name": "Escudo mágico (Metal)"
     },
     {
-        "description": "<p>Vous vous entourez d'une bande de magie protectrice. Tant que le Sort est actif, ajoutez +(Bonus de Force Mentale) DR quand vous tentez de dissiper un Sort.</p>",
+        "description": "<p>Te envuelves en bandas de magia protectora. Mientras el hechizo permanece activo, sumas tantos NE como tu Bonificador por voluntad a cualquier intento de Dispersión que haces</p>",
         "effects": [],
         "id": "Magic Shield (Necromancy)",
-        "name": "Bouclier magique (Nigromancia)"
+        "name": "Escudo mágico (Nigromancia)"
     },
     {
-        "description": "<p>Vous vous entourez d'une bande de magie protectrice. Tant que le Sort est actif, ajoutez +(Bonus de Force Mentale) DR quand vous tentez de dissiper un Sort.</p>",
+        "description": "<p>Te envuelves en bandas de magia protectora. Mientras el hechizo permanece activo, sumas tantos NE como tu Bonificador por voluntad a cualquier intento de Dispersión que haces</p>",
         "effects": [
             {
                 "_id": "KUWXgaE5yG9oQhFk",
@@ -6969,13 +6969,13 @@
             }
         ],
         "id": "Magic Shield (Shadow)",
-        "name": "Bouclier magique (Sombras)"
+        "name": "Escudo mágico (Sombras)"
     },
     {
-        "description": "<p>Vous focalisez les relents de <em>Dhar</em>, provoquant une brève déchirure dans la réalité. Un Démon Mineur apparaît immédiatement par cette déchirure. Effectuez un Test <strong>Opposé de Focalisation (Dhar)/Willpower</strong> avec le démon. Sur un succès, ce dernier répondra favorablement à un ordre que vous lui donnerez, même de façon littérale, avant de disparaître (en partant du principe qu'il puisse accomplir ce que vous lui avez demandé avant la fin du Sort). Sur un échec, le démon attaque sur le champ.</p>",
+        "description": "<p>Canalizas un flujo enfermizo de <em>Dhar</em>, ocasionado brevemente un desgarro en el tejido de la realidad. De inmediato se manifiesta un demonio menor a través del desgarro (ver pág. 335 para dos ejemplos de esto: un desangrador o una diablilla). Debes llevar a cabo un Chequeo <strong>Enfrentado de Canalización (Dhar)/Voluntad</strong> con el demonio. Si tienes éxito, el demonio responderá a una orden dada por ti, de forma literal, y después desaparecerá (suponiendo que la orden haya sido completada antes de acabar la Duración). Si fallas, el demonio te ataca de inmediato.</p>",
         "effects": [],
         "id": "Manifest Lesser Daemon",
-        "name": "Manifestation de Démon Mineur"
+        "name": "Manifestation demonio menor"
     },
     {
         "description": "<p>Creas tantas luces mágicas destellantes como tu Bonificador por Inteligencia. Parecen antorchas o linternas sordas. Si permanecen en tu línea visual, como tu Acción puedes controlar las luces teniendo éxito en un Chequeo <strong>Normal (+20) de Canalización</strong> ; un éxito te permite hacer que las luces se muevan en cualquier dirección. Se mueven a la distancia de un hombre caminando, atravesando cualquier objeto (o testigo) en su camino, a menos que hagas un nuevo Chequeo para cambiar su dirección.</p>",
@@ -6984,7 +6984,7 @@
         "name": "Luces del pantano"
     },
     {
-        "description": "<p>Vous invoquez de délicats brins d'<em>Ulgu</em> dans l'esprit de votre cible, faisant disparaître tout seouvenir de vous pour la durée du Sort. Une fois le Sort terminé, la cible doit réussir un Test d'<strong>Intelligence Accessible (+20)</strong>, ou la perte de mémoire deVidant permanente jusqu'à ce qu'elle soit dissipée.</p>",
+        "description": "<p>Conjuras delicadas hebras de <em>Ulgu</em> en la mente de tu objetivo, haciendo que toda memoria previa de ti desaparezca mientras dura el hechizo. Una vez se haya acabado el hechizo, el objetivo deberá superar un Chequeo <strong>Normal (+20) de Inteligencia</strong>, o la pérdida de memoria será permanente hasta ser dispersada.</p>",
         "effects": [
             {
                 "_id": "BTkrrPDTuTjJU1q0",
@@ -7004,10 +7004,10 @@
             }
         ],
         "id": "Mindslip",
-        "name": "Perte de mémoire"
+        "name": "Resbalón mental"
     },
     {
-        "description": "<p>En prononçant des mots d'une magie ancienne, votre esprit quitte votre corps et entre dans la Haie, cet espace obscur, frontière entre le monde matériel et celui des esprits. Pendant la durée du Sort, vous vous trouvez hors du monde, témoin invisible sans pouvoir l'affecter d'aucune manière que ce soit. Les barrières physiques ne sont pas un problème et vous pouvez passer à travers n'importe quel obstacle non magique si vous le souhaitez. Votre corps reste sur place, immobile et insensible.</p>\n<p>&nbsp;</p>\n<p>À la fin du Sort, vous vous réintégrez soudain votre corps. Si ce dernier est tué pendant que vous Chevauchez l'Obscurité, votre esprit errera sans but toute l'éternité.</p>",
+        "description": "<p>Pronunciado antiguas palabras mágicas, tu espíritu abandona tu cuerpo, yendo a parar al Seto, el espacio oscuro entre el mundo material y el reino de los espíritus. Mientras dura el hechizo, permaneces aparte del mundo, pudiéndolo ver de forma invisible pero no afectarlo en modo alguno. Las barreras físicas no son impedimiento alguno para ti, y puedes atravesar a voluntad los obstáculos no mágicos. Tu cuerpo permanece donde está, inmóvil e insensible. Al final del hechizo, eres devuelto repentinamente a tu cuerpo. Si tu cuerpo muriera mientras recorres el Seto, tu espíritu vagaría errante toda la eternidad.</p>",
         "effects": [
             {
                 "_id": "KzBOmuPtzsIhLWEC",
@@ -7022,12 +7022,12 @@
                     }
                 },
                 "icon": "modules/wfrp4e-core/icons/spells/hedgecraft.png",
-                "label": "Lore of Hedgecraft",
+                "label": "Saber de la adivinación",
                 "transfer": true
             }
         ],
         "id": "Mirkride",
-        "name": "Chevaucher l'Obscurité"
+        "name": "Viaje por la oscuridad"
     },
     {
         "description": "<p>Utilizando la magia, te haces con un objeto no inteligente y que no es más agrende que tú, moviéndolo sólo mediante la mente,  que se considera que tiene una Fuerza igual a tu Voluntad. Puedes intentar mover el objeto tantas yardas como tu Bonificador por Voluntad. Si alguien intenta impedir el movimiento del objeto, se requiere un Chequeo<strong>Enfrentado Voluntad/Fuerza</strong>.Por cada +2 NE, puedes incrementar la distancia a la que se mueve el objeto tantas yardas como tu Bonificador por Voluntad.</p>",
@@ -7440,7 +7440,7 @@
         "name": "Susurro murmurado"
     },
     {
-        "description": "<p>Vous touchez un objet non magique composé de Metal qui deVidant instantanément chaud au toucher lorsque vous y faites entrer <em>Chamon</em>. Vous pouvez plier et tordre l'objet avec un Test de <strong>Force Accessible (+20)</strong>. Si vous voulez effectuer une modification plus complexe, vous pouvez faire un Test de <strong>Métier (Forgeron ou similaire)</strong>.</p>",
+        "description": "<p>Tocas un objeto no mágico hecho de metal, que instantáneamente se vuelve cálido al tacto mientras bombeas <em>Chamon</em> a su interior. Puedes doblar y retorcer el objeto mediante un Chequeo <strong>Normal (+20) de Fuerza</strong>. Si quieres llevar a cabo una alteración más compleja, puedes intentar en vez de eso un Chequeo <strong>Normal (+20) de Oficio (herrero o similar)</strong></p>",
         "effects": [
             {
                 "_id": "sMoiXYbFR1VWWw5m",
@@ -7460,10 +7460,10 @@
             }
         ],
         "id": "Mutable Metal",
-        "name": "Metal changeant"
+        "name": "Metal mutable"
     },
     {
-        "description": "<p>Vous invoquez une masse tourbillonnante de brume traversée d'Sombras troublantes qui perturbent les sens. Tous ceux pris à l'intérieur de la brume qui ne possèdent pas le Talent <em>Magie des Arcanes (Ombre)</em> sont affectés par le Miasme, gagnant +1 États <em>Aveuglé</em>, <em>Assourdi</em>, et <em>Exténué</em>, qui persistent pour la durée du Sort. Toute personne atteinte tentant de se déplacer doit réussir un Test de <strong>Perception Intermédiaire (+0)</strong>, ou gagner un État <em>À Terre</em>. Si le Sort est dissipé une fois durant le jeu, toute personne affectée par le Sort doit réussir un Test d'<strong>Initiative Facile (+40)</strong>, ou gagner l'État <em>Assommé</em>.</p>",
+        "description": "<p>Conjuras una masa giratoria de niebla, atravesada por sombras agitadas, que revolotea y confunde los sentidos. Quien se encuentre en el interior de la niebla y no disponga del talento <em>Magia arcana (sombras)</em> se verá afectado por el <em>Miasma</em>, sufriendo +1 Estado de <em>Cegado, Ensordecido y Fatigado</em>, hasta el final de la Duración del hechizo. Todo afectado que intente moverse deberá tener éxito en un Chequeo <strong>Desafiante (+0) de Percepción</strong>, o pasar al Estado <em>Tumbado</em>. Si el hechizo es dispersado una vez está en juego, todo el que se ha visto afectado por el mismo deberá llevar a cabo un Chequeo <strong>Muy fácil (+40) de Iniciativa</strong> o sufrir 1 Estado de <em>Aturdido</em>.</p>",
         "effects": [
             {
                 "_id": "RcbENYd5pUjm1vKr",
@@ -7483,10 +7483,10 @@
             }
         ],
         "id": "Mystifying Miasma",
-        "name": "Miasme mystifiant"
+        "name": "Miasma desorientador"
     },
     {
-        "description": "<p>Vous marmonnez des mots de pouvoir au-dessus d'une potion d'herbe spécialement préparée et la transformez magiquement en un philtre d'une grande puissance. Si cette potion est ingérée alorsq ue le Sort est toujours actif, la cible peut choisir d'oublier un individu de façon permanente.</p>",
+        "description": "<p>Murmuras palabras de poder sobre una poción de hierbas preparada anteriormente, transformándola mágicamente en un potente filtro. Si se bebe mientras el hechizo permanece activo, el objetivo puede olvidar por completo a un individuo, de forma permanente.</p>",
         "effects": [
             {
                 "_id": "qVidaAPQzSPHHnQSX",
@@ -7501,15 +7501,15 @@
                     }
                 },
                 "icon": "modules/wfrp4e-core/icons/spells/hedgecraft.png",
-                "label": "Lore of Hedgecraft",
+                "label": "Saber de la adivinación",
                 "transfer": true
             }
         ],
         "id": "Nepenthe",
-        "name": "Nepenthès"
+        "name": "Nepenthe"
     },
     {
-        "description": "<p>Vous lancez un délicat filet tissé à partir de fins brins de <em>Hysh</em> sur vos cibles, dont les esprits sont alors submergés par des énigmes et paralysés par l'indécision. Les cibles gagnent +1 État <em>Assommé</em>, qui ne peut être retiré tant que le Sort est actif. En se remettant de cet État, les cibles effectuent un Test d'Intelligence au lieu d'un Test de Résistance. Les cibles possédant le Trait de créature <em>Bestial</em> sont immunisées contre ce Sort.</p>",
+        "description": "<p>Lanzas una delicada red tejida con hebras de <em>Hysh</em> sobre tus objetivos, cuya mente se ve abrumada por acertijos y rompezabecas, que les dejan paralizados de indecisión. Los objetivos sufren +1 Estado de <em>Aturdido</em>, del que no se pueden deshacer mientras el hechizo está en funcionamiento. Al recuperarse de d icho Estado, los objetivos Chequean su Inteligencia en lugar de la Habilidad Aguante. Los objetivos con el Rasgo de criatura <em>Bestial</em> son inmunes a este hechizo.</p>",
         "effects": [
             {
                 "_id": "QeboSg8hSLhUoKy1",
@@ -7554,10 +7554,10 @@
             }
         ],
         "id": "Net of Amyntok",
-        "name": "Filet d'Amyntok"
+        "name": "Red de Amyntok"
     },
     {
-        "description": "<p>Vous lancez un Sort sur une décoction déjà prête, lui conférant des propriétés magiques. Si cette dernière est bue alorsq ue le Sort est actif, la cible est guérie d'un nombre de Points de Blessure équivalent à votre Bonus de Force Mentale, ainsi que d'une maladie. Pour chaque DR+2 que vous obtenez, vous pouvez guérir une blessure supplémentaire.</p>",
+        "description": "<p>Encantas un hechizo sobre una poción ya preparada, imbuyéndola de poder mágico. Si se bebe mientras el hechizo permanece activo, el objeto se cura de inmediato tantas Heridas como tu Bonificador por Voluntad, y además se cura de una Enfermedad. Por cada +2 NE, puedes curar una Enfermedad adicional.</p>",
         "effects": [
             {
                 "_id": "oIkRPQkyEQkUxqWV",
@@ -7580,7 +7580,7 @@
                     }
                 },
                 "icon": "modules/wfrp4e-core/icons/spells/nostrum.png",
-                "label": "Panacée",
+                "label": "Nostrum",
                 "tint": "",
                 "transfer": false
             },
@@ -7597,18 +7597,18 @@
                     }
                 },
                 "icon": "modules/wfrp4e-core/icons/spells/hedgecraft.png",
-                "label": "Lore of Hedgecraft",
+                "label": "Saber de la adivinación",
                 "transfer": true
             }
         ],
         "id": "Nostrum",
-        "name": "Panacée"
+        "name": "Nostrum"
     },
     {
-        "description": "<p>Vous dessinez un octogramme au sol et y apposez des symboles maudits qui vont vous protéger des influences démoniaques. Quiconque possède le Trait de Créature Démoniaque ne peut entrer ou Sortir de l'octogramme à moins que sa Force Mentale ne soit deux fois supérieure à la vôtre.</p>",
+        "description": "<p>Dibujando un octograma en el suelo y marcándolo con símbolos impíos, creas una custodia contra toda influencia demoníaca. Quienes tienen el Rasgo de criatura <em>Demoníaco</em> no pueden entrar o salir del octograma si su Voluntad no es mayor que el doble de la tuya.</p>",
         "effects": [],
         "id": "Octagram",
-        "name": "Octogramme"
+        "name": "Octograma"
     },
     {
         "description": "<p>Una cerradura no mágica que tocas se abre.</p>",
@@ -7617,7 +7617,7 @@
         "name": "Abrir cerradura"
     },
     {
-        "description": "<p>Vos pupilles se dilatent à la fin de l'incantation, vous permettant alors de voir dans le Monde des Esprits. Cela vous permet de percevoir les créatures invisibles, les esprits, les démons ainsi que celles indiquées comme étant impossible à repérer.</p>",
+        "description": "<p>Tus pupilas se dilatan cuando completas el encantamiento, y eres capaz de ver en el mundo de los espíritus. Esto te permite percibir las criaturas invisibles, los espíritus y los demonios, incluso aquellos que están marcados como imposibles de ver.</p>",
         "effects": [
             {
                 "_id": "wS8NJYp4jqaeIWpV",
@@ -7632,15 +7632,15 @@
                     }
                 },
                 "icon": "modules/wfrp4e-core/icons/spells/hedgecraft.png",
-                "label": "Lore of Hedgecraft",
+                "label": "Saber de la adivinación",
                 "transfer": true
             }
         ],
         "id": "Part the Branches",
-        "name": "Séparer les branches"
+        "name": "Separar las ramas"
     },
     {
-        "description": "<p>Vous invoquez une aura protectrice de pure Luz sacrée. Les créatures proganes - celles ayant les Traits de créature <em>Muerte-vivant</em> ou <em>Démoniaque</em>, des mutations ou celles ayant plus de Corruption que leurs Bonus de Force Mentale et Bonus d'Endurance combinés - ne peuvent pas entrer dans la Zone d'Effet. Toutes celles déjà à l'intérieur de la Zone gagnent l'État <em>Brisé</em> jusqu'à ce qu'elles la quittent. Les créatures à l'intérieur de la Zone ne peuvent pas gagner de Poitns de Corruption tant que le Sort est actif.</p>",
+        "description": "<p>Convocas un aura protectora de luz pura y sagrada. Las criaturas profanas (aquellas con los Rasgos de criatura <em>Muerto viviente o Demoníaca</em>, las que tienen mutaciones y las que tienen más Corrupción que la suma de sus Bonificadores por VOluntad y por Resistencia) no pueden entrar en el Área de efecto. Cualquiera que se encuentre dentro de dicha Área sufrirá 1 Estado de <em>Quebrantado</em> hasta que se marche. Las criaturas en el interior del Área no tiene que anotarse ningún punto de Corrupción mientras el hechizo permanece activo.</p>",
         "effects": [
             {
                 "_id": "ZJcKmNcNhcUJ2G2J",
@@ -7660,7 +7660,7 @@
             }
         ],
         "id": "Phâ’s Protection",
-        "name": "Protection de Phâ"
+        "name": "Protección de Phâ"
     },
     {
         "description": "<p>Metes la mano en un saco, bolsillo, sombrero o bajo una roca, matorral o madriguera, sacando un pequeño animal de un tipo que se esperaría encontrar en las proximidades, como por ejemplo un conejo, una paloma o una rata. Si no hay animales locales apropiados, el hechizo no hace nada. El temperamento del animal no está garantizado.</p>",
@@ -7675,7 +7675,7 @@
         "name": "Protección contra la lluvia"
     },
     {
-        "description": "<p>Vous imprégnez une breloque avec un Sort de protection. Ceux qui la portent gagnent le Talent Résistance à la magie. S'ils possèdent déjà ce Talent, la breloque n'a aucun effet.</p>",
+        "description": "<p>Imbuyes a un amuleto con un hechizo de protección. Quienes llevan el amuleto obtienen el Talento <em>Resistencia a la magia</em>. Si ya tienen dicho Talento, el amuleto no hace nada más.</p>",
         "effects": [
             {
                 "_id": "msUtkfXa2KLPiItc",
@@ -7690,15 +7690,15 @@
                     }
                 },
                 "icon": "modules/wfrp4e-core/icons/spells/hedgecraft.png",
-                "label": "Lore of Hedgecraft",
+                "label": "Saber de la adivinación",
                 "transfer": true
             }
         ],
         "id": "Protective Charm",
-        "name": "Charme protecteur"
+        "name": "Amuleto protector"
     },
     {
-        "description": "<p>Vous concentrez d'intenses flammes pour consumer le vice et la corruption dans une zone. Tout ce qui est inflammable s'embrase, et toutes les créatures dans la zone gagnent +1 État <em>Enflammé</em>. Si l'endroit renferme une Influence corruptrice, telle que Dhar, une malepierre ou un objet empreint de Chaos, il va également se consumer et noircir en brûlant. Ce Sort peut être maintenu pendant des rounds consécutifs en effectuant un Test de <strong>Focalisation Intermédiaire (+0)</strong>. Le temps précis nécessaire pour éliminer l'Influence corruptrice sera déterminé par votre MJ. Pour vous donner une idée approximative, une petite quantité (plus petite qu'un gland) de malepierre, ou un objet souillé de Chaos mineur peuvent nécessiter 10 - Bonus de Force Mentale rounds (minimum 1 Round). Une plus grande quantité de malepierre - de la taille d'un poing - ou un objet empreint de Chaos plus puissant peut nécessiter le double de temps. Un puissant Artefact du Chaos peut demander des heures, voire plus...Voir Influences Corruptrices.</p>",
+        "description": "<p>Canalizas unas llamas intensas para que eliminen la mácula y la corrupción de una zona. Cualquier cosa inflamable arde, y todas las criaturas de la zona sufren tantos Estados de <em>Ardiendo</em> como los NE. Si el lugar contiene una Influencia corruptora, como por ejemplo <em>Dhar</em>, piedra bruja o un objeto mancillado por el Caos, ésta también arde y se enngrece, estallando en llamas. Este hechizo se puede mantener en Asaltos subsiguientes mediante un Chequeo <strong>Desafiante (+0) de Canalización</strong>. El tiempo necesario para eliminar la Influencia corruptora lo determinará el DJ. En líneas generales, una pequeña cantidad de piedra bruja (más pequeña que una bellota), o un objeto menor mancillado por el Caos, podría requerir tantos Asaltos, como 10 - tu Bonificador por Voluntad (con un mínimo de 1 Asalto). Una cantidad mayor de piedra bruja (del tamaño de un puño) o un objeto mancillado por el Caos más potente podría requerir el doble. Un Artefacto del Caos poderoso podría requerir horas o incluso más... Consulta la pág. 182 para más detalles sobre Influencias corruptoras.</p>",
         "effects": [
             {
                 "_id": "Yd3pH9h1bmXCe2He",
@@ -7721,7 +7721,7 @@
                     }
                 },
                 "icon": "modules/wfrp4e-core/icons/spells/purge.png",
-                "label": "Purification",
+                "label": "Purga",
                 "tint": "",
                 "transfer": false
             },
@@ -7743,7 +7743,7 @@
             }
         ],
         "id": "Purge",
-        "name": "Purification"
+        "name": "Purga"
     },
     {
         "description": "<p>Purificas toda el agua que hay en un recipiente, como por ejemplo una cantimplora, un tanque para cerveza o una jarra. Todas las impurezas no mágicas, como el veneno o los contaminantes se eliminan, dejando un agua transparente, limpia y potable. Si el recipiente contenía otro líquido compuesto predominantemente de agua (como por ejemplo cerveza o vino) también se purifica, convirtiéndose en deliciosa, pura y no alcohólica... agua.</p>",
@@ -7752,7 +7752,7 @@
         "name": "Purificar agua"
     },
     {
-        "description": "<p>Vous confectionnez un voile composé de brins fins de magie violette, Gagnez +(Bonus de Force Mentale) PA à toutes les Localisations, et le Trait de créature Peur (1). Pour chaque +2 DR, vous pouvez augmenter l'indice de Peur de 1.</p>",
+        "description": "<p>Te envuelves en un palio hecho de finas hebras de magia púrpura. Obtienes tantos puntos de Armadura como tu Bonificador por Voluntad en todas las Ubicaciones y el Rasgo de criatura <em>Miedo (1)</em> (ver pág. 339). Por cada +2 NE, puedes incrementar en 1 tu puntuación de <em>Miedo</em></p>",
         "effects": [
             {
                 "_id": "TQBQTcM5ZsdKnmHg",
@@ -7775,7 +7775,7 @@
                     }
                 },
                 "icon": "modules/wfrp4e-core/icons/spells/purple-pall-of-shyish.png",
-                "label": "Le Voile violet de Shyish",
+                "label": "Palio púrpura de Shyis",
                 "tint": "",
                 "transfer": false
             },
@@ -7800,7 +7800,7 @@
                     }
                 },
                 "icon": "modules/wfrp4e-core/icons/spells/purple-pall-of-shyish.png",
-                "label": "Fear",
+                "label": "Miedo",
                 "tint": "",
                 "transfer": false
             },
@@ -7822,16 +7822,16 @@
             }
         ],
         "id": "Purple Pall of Shyish",
-        "name": "Le Voile violet de Shyish"
+        "name": "Palio púrpura de Shyish"
     },
     {
-        "description": "<p>Toutes les créatures situées à une distance en mètres égale à votre Bonus de Force Mentale sont repoussées d'un nombre de mètres égal à votre Bonus de Force Mentale et gagnent l'État <em>À Terre</em>.Si cela les amène à entrer en contact avec un mur ou un autre grand obstacle, elles subissent un nombre de Dégâts égal à la distance parcourue en mètres. Pour chaque +2 DR, vous pouvez repousser les créatures d'un nombre de mètres supplémentaires égal à votre Bonus de Force Mentale.</p>",
+        "description": "<p>Todas las criaturas vivas a una distancia en yardas o menos de tu bonificador por Voluntad son empujadas hacia atrás tantas yardas como tu Bonificador por Voluntad y pasan al Estado <em>Tumbado</em>. Si eso les hace entrar en contacto con una pared  u otro obstáculo grande, sufren tanto Daño como la distancia recorrida en yardas. Por cada +2 NE puedes empujar a las criaturas  otras tantas yardas como tu Bonificador por Voluntad.</p>",
         "effects": [],
         "id": "Push",
-        "name": "Poussée"
+        "name": "Empujar"
     },
     {
-        "description": "<p>Toutes les créatures situées à une distance en mètres égale à votre Bonus de Force Mentale sont repoussées d'un nombre de mètres égal à votre Bonus de Force Mentale et gagnent l'État <em>À Terre</em>.Si cela les amène à entrer en contact avec un mur ou un autre grand obstacle, elles subissent un nombre de Dégâts égal à la distance parcourue en mètres. Pour chaque +2 DR, vous pouvez repousser les créatures d'un nombre de mètres supplémentaires égal à votre Bonus de Force Mentale.</p>",
+        "description": "<p>Todas las criaturas vivas a una distancia en yardas o menos de tu bonificador por Voluntad son empujadas hacia atrás tantas yardas como tu Bonificador por Voluntad y pasan al Estado <em>Tumbado</em>. Si eso les hace entrar en contacto con una pared  u otro obstáculo grande, sufren tanto Daño como la distancia recorrida en yardas. Por cada +2 NE puedes empujar a las criaturas  otras tantas yardas como tu Bonificador por Voluntad.</p>",
         "effects": [
             {
                 "_id": "LBBqQbmrT29BAKug",
@@ -7851,16 +7851,16 @@
             }
         ],
         "id": "Push (Beasts)",
-        "name": "Poussée (Bestias)"
+        "name": "Empujar (Bestias)"
     },
     {
-        "description": "<p>Toutes les créatures situées à une distance en mètres égale à votre Bonus de Force Mentale sont repoussées d'un nombre de mètres égal à votre Bonus de Force Mentale et gagnent l'État <em>À Terre</em>.Si cela les amène à entrer en contact avec un mur ou un autre grand obstacle, elles subissent un nombre de Dégâts égal à la distance parcourue en mètres. Pour chaque +2 DR, vous pouvez repousser les créatures d'un nombre de mètres supplémentaires égal à votre Bonus de Force Mentale.</p>",
+        "description": "<p>Todas las criaturas vivas a una distancia en yardas o menos de tu bonificador por Voluntad son empujadas hacia atrás tantas yardas como tu Bonificador por Voluntad y pasan al Estado <em>Tumbado</em>. Si eso les hace entrar en contacto con una pared  u otro obstáculo grande, sufren tanto Daño como la distancia recorrida en yardas. Por cada +2 NE puedes empujar a las criaturas  otras tantas yardas como tu Bonificador por Voluntad.</p>",
         "effects": [],
         "id": "Push (Daemonology)",
-        "name": "Poussée (Demonologia)"
+        "name": "Empujar (Demonologia)"
     },
     {
-        "description": "<p>Toutes les créatures situées à une distance en mètres égale à votre Bonus de Force Mentale sont repoussées d'un nombre de mètres égal à votre Bonus de Force Mentale et gagnent l'État <em>À Terre</em>.Si cela les amène à entrer en contact avec un mur ou un autre grand obstacle, elles subissent un nombre de Dégâts égal à la distance parcourue en mètres. Pour chaque +2 DR, vous pouvez repousser les créatures d'un nombre de mètres supplémentaires égal à votre Bonus de Force Mentale.</p>",
+        "description": "<p>Todas las criaturas vivas a una distancia en yardas o menos de tu bonificador por Voluntad son empujadas hacia atrás tantas yardas como tu Bonificador por Voluntad y pasan al Estado <em>Tumbado</em>. Si eso les hace entrar en contacto con una pared  u otro obstáculo grande, sufren tanto Daño como la distancia recorrida en yardas. Por cada +2 NE puedes empujar a las criaturas  otras tantas yardas como tu Bonificador por Voluntad.</p>",
         "effects": [
             {
                 "_id": "6OUu9OXrwK2UA0o6",
@@ -7880,10 +7880,10 @@
             }
         ],
         "id": "Push (Death)",
-        "name": "Poussée (Muerte)"
+        "name": "Empujar (Muerte)"
     },
     {
-        "description": "<p>Toutes les créatures situées à une distance en mètres égale à votre Bonus de Force Mentale sont repoussées d'un nombre de mètres égal à votre Bonus de Force Mentale et gagnent l'État <em>À Terre</em>.Si cela les amène à entrer en contact avec un mur ou un autre grand obstacle, elles subissent un nombre de Dégâts égal à la distance parcourue en mètres. Pour chaque +2 DR, vous pouvez repousser les créatures d'un nombre de mètres supplémentaires égal à votre Bonus de Force Mentale.</p>",
+        "description": "<p>Todas las criaturas vivas a una distancia en yardas o menos de tu bonificador por Voluntad son empujadas hacia atrás tantas yardas como tu Bonificador por Voluntad y pasan al Estado <em>Tumbado</em>. Si eso les hace entrar en contacto con una pared  u otro obstáculo grande, sufren tanto Daño como la distancia recorrida en yardas. Por cada +2 NE puedes empujar a las criaturas  otras tantas yardas como tu Bonificador por Voluntad.</p>",
         "effects": [
             {
                 "_id": "lZTT8sSwVjydKByF",
@@ -7903,10 +7903,10 @@
             }
         ],
         "id": "Push (Fire)",
-        "name": "Poussée (Fuego)"
+        "name": "Empujar (Fuego)"
     },
     {
-        "description": "<p>Toutes les créatures situées à une distance en mètres égale à votre Bonus de Force Mentale sont repoussées d'un nombre de mètres égal à votre Bonus de Force Mentale et gagnent l'État <em>À Terre</em>.Si cela les amène à entrer en contact avec un mur ou un autre grand obstacle, elles subissent un nombre de Dégâts égal à la distance parcourue en mètres. Pour chaque +2 DR, vous pouvez repousser les créatures d'un nombre de mètres supplémentaires égal à votre Bonus de Force Mentale.</p>",
+        "description": "<p>Todas las criaturas vivas a una distancia en yardas o menos de tu bonificador por Voluntad son empujadas hacia atrás tantas yardas como tu Bonificador por Voluntad y pasan al Estado <em>Tumbado</em>. Si eso les hace entrar en contacto con una pared  u otro obstáculo grande, sufren tanto Daño como la distancia recorrida en yardas. Por cada +2 NE puedes empujar a las criaturas  otras tantas yardas como tu Bonificador por Voluntad.</p>",
         "effects": [
             {
                 "_id": "PFQXVd8l8AWdlwtB",
@@ -7926,10 +7926,10 @@
             }
         ],
         "id": "Push (Heavens)",
-        "name": "Poussée (Cielos)"
+        "name": "Empujar (Cielos)"
     },
     {
-        "description": "<p>Toutes les créatures situées à une distance en mètres égale à votre Bonus de Force Mentale sont repoussées d'un nombre de mètres égal à votre Bonus de Force Mentale et gagnent l'État <em>À Terre</em>.Si cela les amène à entrer en contact avec un mur ou un autre grand obstacle, elles subissent un nombre de Dégâts égal à la distance parcourue en mètres. Pour chaque +2 DR, vous pouvez repousser les créatures d'un nombre de mètres supplémentaires égal à votre Bonus de Force Mentale.</p>",
+        "description": "<p>Todas las criaturas vivas a una distancia en yardas o menos de tu bonificador por Voluntad son empujadas hacia atrás tantas yardas como tu Bonificador por Voluntad y pasan al Estado <em>Tumbado</em>. Si eso les hace entrar en contacto con una pared  u otro obstáculo grande, sufren tanto Daño como la distancia recorrida en yardas. Por cada +2 NE puedes empujar a las criaturas  otras tantas yardas como tu Bonificador por Voluntad.</p>",
         "effects": [
             {
                 "_id": "JTRCWDofbc5wuMLP",
@@ -7949,10 +7949,10 @@
             }
         ],
         "id": "Push (Life)",
-        "name": "Poussée (Vida)"
+        "name": "Empujar (Vida)"
     },
     {
-        "description": "<p>Toutes les créatures situées à une distance en mètres égale à votre Bonus de Force Mentale sont repoussées d'un nombre de mètres égal à votre Bonus de Force Mentale et gagnent l'État <em>À Terre</em>.Si cela les amène à entrer en contact avec un mur ou un autre grand obstacle, elles subissent un nombre de Dégâts égal à la distance parcourue en mètres. Pour chaque +2 DR, vous pouvez repousser les créatures d'un nombre de mètres supplémentaires égal à votre Bonus de Force Mentale.</p>",
+        "description": "<p>Todas las criaturas vivas a una distancia en yardas o menos de tu bonificador por Voluntad son empujadas hacia atrás tantas yardas como tu Bonificador por Voluntad y pasan al Estado <em>Tumbado</em>. Si eso les hace entrar en contacto con una pared  u otro obstáculo grande, sufren tanto Daño como la distancia recorrida en yardas. Por cada +2 NE puedes empujar a las criaturas  otras tantas yardas como tu Bonificador por Voluntad.</p>",
         "effects": [
             {
                 "_id": "X1VA13CSEblKaOYT",
@@ -7972,10 +7972,10 @@
             }
         ],
         "id": "Push (Light)",
-        "name": "Poussée (Luz)"
+        "name": "Empujar (Luz)"
     },
     {
-        "description": "<p>Toutes les créatures situées à une distance en mètres égale à votre Bonus de Force Mentale sont repoussées d'un nombre de mètres égal à votre Bonus de Force Mentale et gagnent l'État <em>À Terre</em>.Si cela les amène à entrer en contact avec un mur ou un autre grand obstacle, elles subissent un nombre de Dégâts égal à la distance parcourue en mètres. Pour chaque +2 DR, vous pouvez repousser les créatures d'un nombre de mètres supplémentaires égal à votre Bonus de Force Mentale.</p>",
+        "description": "<p>Todas las criaturas vivas a una distancia en yardas o menos de tu bonificador por Voluntad son empujadas hacia atrás tantas yardas como tu Bonificador por Voluntad y pasan al Estado <em>Tumbado</em>. Si eso les hace entrar en contacto con una pared  u otro obstáculo grande, sufren tanto Daño como la distancia recorrida en yardas. Por cada +2 NE puedes empujar a las criaturas  otras tantas yardas como tu Bonificador por Voluntad.</p>",
         "effects": [
             {
                 "_id": "RWzWZKNZc75N60Op",
@@ -7995,16 +7995,16 @@
             }
         ],
         "id": "Push (Metal)",
-        "name": "Poussée (Metal)"
+        "name": "Empujar (Metal)"
     },
     {
-        "description": "<p>Toutes les créatures situées à une distance en mètres égale à votre Bonus de Force Mentale sont repoussées d'un nombre de mètres égal à votre Bonus de Force Mentale et gagnent l'État <em>À Terre</em>.Si cela les amène à entrer en contact avec un mur ou un autre grand obstacle, elles subissent un nombre de Dégâts égal à la distance parcourue en mètres. Pour chaque +2 DR, vous pouvez repousser les créatures d'un nombre de mètres supplémentaires égal à votre Bonus de Force Mentale.</p>",
+        "description": "<p>Todas las criaturas vivas a una distancia en yardas o menos de tu bonificador por Voluntad son empujadas hacia atrás tantas yardas como tu Bonificador por Voluntad y pasan al Estado <em>Tumbado</em>. Si eso les hace entrar en contacto con una pared  u otro obstáculo grande, sufren tanto Daño como la distancia recorrida en yardas. Por cada +2 NE puedes empujar a las criaturas  otras tantas yardas como tu Bonificador por Voluntad.</p>",
         "effects": [],
         "id": "Push (Necromancy)",
-        "name": "Poussée (Nigromancia)"
+        "name": "Empujar (Nigromancia)"
     },
     {
-        "description": "<p>Toutes les créatures situées à une distance en mètres égale à votre Bonus de Force Mentale sont repoussées d'un nombre de mètres égal à votre Bonus de Force Mentale et gagnent l'État <em>À Terre</em>.Si cela les amène à entrer en contact avec un mur ou un autre grand obstacle, elles subissent un nombre de Dégâts égal à la distance parcourue en mètres. Pour chaque +2 DR, vous pouvez repousser les créatures d'un nombre de mètres supplémentaires égal à votre Bonus de Force Mentale.</p>",
+        "description": "<p>Todas las criaturas vivas a una distancia en yardas o menos de tu bonificador por Voluntad son empujadas hacia atrás tantas yardas como tu Bonificador por Voluntad y pasan al Estado <em>Tumbado</em>. Si eso les hace entrar en contacto con una pared  u otro obstáculo grande, sufren tanto Daño como la distancia recorrida en yardas. Por cada +2 NE puedes empujar a las criaturas  otras tantas yardas como tu Bonificador por Voluntad.</p>",
         "effects": [
             {
                 "_id": "m6ZiRoUYi1CjxJc5",
@@ -8024,22 +8024,22 @@
             }
         ],
         "id": "Push (Shadow)",
-        "name": "Poussée (Sombras)"
+        "name": "Empujar (Sombras)"
     },
     {
-        "description": "<p>Vous focalisez un important flux de <em>Dhar </em> directement vers le sol, faisant se rassembler et sortir de Vidaux os. DR+1 Squelettes sortiront ainsi du sol dans la zone d'effet que vous aurez choisie avant la fin du round. Il subissent tous l'État <em>À Terre</em>. Ces Muertes-vivants sont sous votre contrôle et sont capables d'exécuter les ordres simples que vous leur donnerez. Si vous êtes tué où que vous subissez l'État <em>Inconscient</em>, le Sort s'achève et les Muertes-vivants s'écroulent. Pour chaque DR+2 que vous obtenez, vous pouvez invoquer DR Squelettes supplémentaires.</p>",
+        "description": "<p>Canalizas un grueso flujo de <em>Dhar</em> hacia el suelo, haciendo que  los viejos huesos se reúnan y se levanten. Tantos esqueletos como tu NE +1 surgirán de bajo tierra en el área afectada abriéndose paso con las garras al final del Asalto, organizándose como tú prefieras en el interior del Área de efecto. Empiezan con el Estado <em>Tumbado</em>. Los muertos vivientes convocados están enteramente bajo tu control y pueden cumplir órdenes sencillas para ti. Si mueres o pasas al Estado <em>Inconsciente</em>, el hechizo se acaba y los muertos vivientes convocados se desmoronan. Por cada +2 NE que te anotes, podrás convocar 1 NE adicional de esqueletos.</p>",
         "effects": [],
         "id": "Raise Dead",
-        "name": "Relever les Muertes"
+        "name": "Alzar a los muertos"
     },
     {
-        "description": "<p>Vous concentrez d'épais filaments de Dhar qui pénètrent des corps, réanimant ceux qui, autrefois, étaient Muertes. Réanimez un nombre de corps égal à Bonus de Force Mentale + DR (en tant que zombies) ou squelettes (en tant que squelettes) à portée. Ils subissent tous l'État <em>À Terre</em>. Les Muertes-vivants sont tous sous votre contrôle et sont capables d'exécuter les ordres simples que vous leur donnez. Si vous mourez ou que vous subissez l'État <em>Unconscious</em>, le Sort s'arrête et les corps réanimés s'effondrent, à nouveau Muertes. Pour chaque +2 DR obtenu, vous pouvez réanimer Bonus de Force Mentale + DR squelettes ou zombies.</p>",
+        "description": "<p>Canalizas gruesas hebras reptantes de <em>Dhar</em> por delante de ti, que se hunden en los cadáveres y reaniman lo que estaba muerto. Puedes reanimar tantos cuerpos muertos como tu Bonificador por Voluntad + NE (como zombis) o esqueletos (como esqueletos) siempre que estén dentro del alcance. Empiezan con el Estado <em>Tumbado</em>. Los muertos vivientes convocados están enteramente bajo tu control y pueden cumplir órdenes sencillas para ti. Si mueres o pasas al Estado <em>Inconsciente</em>, el hechizo se acaba y los cadáveres reanimados se desploman de nuevo. Por cada +2 NE que obtengas, podrás reanimar tantos esqueletos o zombis adicionales como tu Bonificador por Voluntad + NE.</p>",
         "effects": [],
         "id": "Reanimate",
-        "name": "Réanimation"
+        "name": "Reanimar"
     },
     {
-        "description": "<p>Votre cible gagne le Trait de créature Régénération. </p>\n<blockquote>\n<p>La créature est capable de guérir à une vitesse extraordinaire, et même de faire repousser ses membres amputés. Au début de chaque round, s'il reste plus de 0 Point de Blessure à la créature, elle régénère 1d10 Points de Blessure. Si elle est à 0 Point de Blessure, lancez 1d10. Sur un résultat de 8+, elle régénère 1 seul Point de Blessure. Sur un résultat de 10, elle régénère également une Blessure Critique, et ne souffre plus des pénalités et États associés. Les Blessures et Blessures Critiques infligées par le Fuego ne peuvent pas être régénérées, et doivent être notées séparément.</p>\n</blockquote>",
+        "description": "<p>Tu objetivo obntiene el Rasgo de criatura <em>Regenerar</em> (ver pág.341).</p>\n</blockquote>",
         "effects": [
             {
                 "_id": "YQKv7HWnnxmcOQty",
@@ -8062,7 +8062,7 @@
                     }
                 },
                 "icon": "modules/wfrp4e-core/icons/spells/regenerate.png",
-                "label": "Régénération",
+                "label": "Regenerar",
                 "tint": "",
                 "transfer": false
             },
@@ -8084,7 +8084,7 @@
             }
         ],
         "id": "Regenerate",
-        "name": "Régénération"
+        "name": "Regenerar"
     },
     {
         "description": "<p>Haces que un volumen de materia orgánica aproximadamente del tamaño de un puño se pudra de inmediato. La comida se estropea, la ropa se deshilacha, el cuero se arruga (perdiendo 1 punto de Armadura en una Ubicación de impacto), y cosas similares, a criterio del DJ.</p>",
@@ -8093,7 +8093,7 @@
         "name": "Pudrir"
     },
     {
-        "description": "<p>En traçant un cercle magique, vous le protégez grâce à <em>Shyish</em>, avec une barrière impénétrable pour les Muertes-vivants. Les créatures possédant le Trait de Créature <em>Muerte-vivant</em> ne peuvent ni entrer ni sortir du cercle.</p>",
+        "description": "<p>Inscribiendo un círculo mágico, lo proteges con <em>Shyish</em>, creando una barrera impenetrable contra los muertos vivientes. Las criaturas con el Rasgo de criatura <em>Muerto viviente</em> no pueden ni entrar ni salir del círculo.</p>",
         "effects": [
             {
                 "_id": "j1yQpfEXbhVD4rQ6",
@@ -8113,10 +8113,10 @@
             }
         ],
         "id": "Sanctify",
-        "name": "Sanctifier"
+        "name": "Santificar"
     },
     {
-        "description": "<p>Vous hurlez les paroles du Sort. Un crâne énorme, noir et entouré de flammes vertes et pourpres se matérialise devant vous, avant de voler droit devant lui, en criant et gloussant. Le crâne se déplace en ligne droite sur toute la portée du Sort, suivant les contours du relief en passant à travers tous les obstacles qu'il rencontre. Crâne hurlant est un Projectile magique qui n'affecte que les cibles ne diposant pas du Trait de créature Muerte-Vivant, et inflige des Dégâts équivalents à votre Bonus de Force Mentale. Pour chaque blessure infligée par le Sort, il faut réussir un Test de <strong>Calme Intermédiaire (+0)</strong> ou subir un État <em>Brisé</em>.</p>",
+        "description": "<p>Entonas a voz en grito las agudas palabras del hechizo tras lo cual un gran cráneo negro envuelto en fuego púrpura verdoso se forma ante ti, y después sale volando hacia adelante, gritando y graznando conforme lo hace. El cráneo se mueve en línea recta a todo lo largo del alcance del hechizo, siguiendo el contorno del terreno y atravesando cualquier obstáculo en su camino. <em>Calavera aullante</em> es un <em>proyectil mágico</em> que sólo afecta objetivos que carecen del Rasgo de criatura <em>Muerto viviente</em>, y que casusa un Daño igual a tu Bonificador por Voluntad. Cualquiera que sufra alguna Herida debido al hechizo deberá superar un Chequeo <strong>Desafiante (+0) de Frialdad</strong> o sufrir además 1 Estado de <em>Quebrantado</em>.</p>",
         "effects": [
             {
                 "_id": "7oLWNjhcKGn7ggII",
@@ -8139,16 +8139,16 @@
                     }
                 },
                 "icon": "modules/wfrp4e-core/icons/spells/screaming-skull.png",
-                "label": "Crâne Hurlant",
+                "label": "Cráneo aullante",
                 "tint": "",
                 "transfer": false
             }
         ],
         "id": "Screaming Skull",
-        "name": "Crâne Hurlant"
+        "name": "Cráneo aullante"
     },
     {
-        "description": "<p>Vous conjurez une faux magique, qui peut être portée en combat, utilisant la Compétence Corps à corps (Arme d'hast). Elle agit comme une faux banale avec une valeur de Dégâts égale à votre Bonus de Force Mentale +3. Les ennemis possédant le Trait de Création <em>Muerte-vivant</em> ne reçoivent pas d'Avantage quand ils sont Engagés en combat avec vous.</p>",
+        "description": "<p>Conjuras una guadaña mágica, que se puede empuñar en combate utilizando la .</p>",
         "effects": [
             {
                 "_id": "FiyVIvuR4rFEGjfT",
@@ -8168,7 +8168,7 @@
             }
         ],
         "id": "Scythe of Shyish",
-        "name": "La Faux de Shyish"
+        "name": "Guadaña de Shyish"
     },
     {
         "description": "<p>Vous invoquez un destrier fantomatique. La chair surnaturelle de la création est noire comme la nuit, et semble parfois aussi solide qu'immatérielle. Utilisez les règles pour un cheval de monte. Quand le Destrier d'Ombre est hors de la Luz du soleil, il gagne également les Traits de Créature suivants : <em>Éthéré, Infravision, Magique, Insensible à la douleur, Furtif, Foulée, Peur (1) et Protection (+9)</em></p>\n<p>&nbsp;</p>\n<p>Même quand ils sont immatériels, les Destriers d'Ombre peuvent être chevauchés. Les cavaliers possédant le Talent <em>Magie des Arcanes (Ombre)</em> le font avec une bonus de +20 au Tests de Chevaucher. Ceux qui ne possèdent pas le Talent subissent une pénalité de -20 aux Tests de Chevaucher. Les Destriers d'Ombre sont infatigables, ils n'ont donc pas besoin de repos (bien que leurs cavaliers, eux, puissent en avoir besoin !). Aux premiers rayons de l'aube pointant à l'horizon, les Destriers se fondent dans la brume. S'ils sont toujours chevauchés quand le Sort prend fin, ou quand il est dissipé, les cavaliers subissent des Dégâts de Soltar.</p>",
@@ -9042,7 +9042,7 @@
                     }
                 },
                 "icon": "modules/wfrp4e-core/icons/spells/witchcraft.png",
-                "label": "Lore of Witchcraft",
+                "label": "Saber de la brujería",
                 "transfer": true
             }
         ],
