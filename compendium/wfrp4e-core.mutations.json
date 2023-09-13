@@ -1,0 +1,319 @@
+{
+	"label": "Mutaciones",
+	"mapping": {
+    "modifier": {
+        "path": "data.modifier.value",
+        "converter": "mutations_modifier"
+    },
+    "mutationType": {
+        "path": "data.mutationType.value",
+        "converter": "generic_localization"
+    },
+    "effects": {
+      "path": "effects",
+      "converter": "effects"
+   }
+  },
+  "entries": [
+        {
+            "description": "+1 Movimiento",
+            "effects": {
+                "label0": "Bonus de Movimiento"
+            },
+            "id": "Animalistic Legs",
+            "name": "Patas de animal"
+        },
+        {
+            "description": "-5 a la Empatía, -5 a la Voluntad",
+            "effects": {
+                "label0": "Ansias horribles"
+            },
+            "id": "Awful Cravings",
+            "name": "Ansias horribles"
+        },
+        {
+            "description": "+10 a la Voluntad; -5 Empatía; -5 Inteligencia",
+            "id": "Beast Within'",
+            "name": "La Bestia Interior"
+        },
+        {
+            "description": "Sufres el Estado Fatigado durante las primeras dos horas de cada día.",
+            "effects": {
+                "label0": "Fatigado"
+            },
+            "id": "Chaotic Dreams",
+            "name": "Sueños caóticos"
+        },
+        {
+            "description": "-1 Movimiento, +5 a la Fuerza, +5 a la Resistencia",
+            "effects": {
+                "label0": "Corpulento"
+            },
+            "id": "Corpulent",
+            "name": "Corpulento"
+        },
+        {
+            "description": "-5 a la Iniciativa, -5 a la Destreza",
+            "effects": {
+                "label0": "Piel reptante"
+            },
+            "id": "Crawling Skin",
+            "name": "Piel reptante"
+        },
+        {
+            "description": "+10 Destreza",
+            "effects": {
+                "label0": "Dedos distendidos"
+            },
+            "id": "Distended Digits",
+            "name": "Dedos distendidos"
+        },
+        {
+            "description": "-10 a la Fuerza, +5 a la Agilidad",
+            "effects": {
+                "label0": "Demacrado"
+            },
+            "id": "Emaciated",
+            "name": "Demacrado"
+        },
+        {
+            "description": "+10 a los Chequeos de Percepción que implican la vista",
+            "effects": {
+                "label0": "Ojo enorme"
+            },
+            "id": "Enormous Eye",
+            "name": "Ojo enorme"
+        },
+        {
+            "description": "-5 a la Iniciativa, -5 a la Voluntad",
+            "effects": {
+                "label0": "Fantasista errático"
+            },
+            "id": "Erratic Fantasist",
+            "name": "Fantasista errático"
+        },
+        {
+            "description": "+5 a la Agilidad",
+            "effects": {
+                "label0": "Articulaciones adicionales en las piernas"
+            },
+            "id": "Extra Leg Joints",
+            "name": "Articulaciones adicionales en las piernas"
+        },
+        {
+            "description": "Tira en la Tabla de Ubicaciones de impacto para ver dónde",
+            "effects": {},
+            "id": "Extra Mouth",
+            "name": "Boca adicional"
+        },
+        {
+            "description": "-10 a la Empatía",
+            "effects": {
+                "label0": "Preocupación temerosa"
+            },
+            "id": "Fearful Concern",
+            "name": "Preocupación temerosa"
+        },
+        {
+            "description": "Sufres el Rasgo de criatura Tentáculos.",
+            "effects": {
+                "label0": "Tentáculo carnoso"
+            },
+            "id": "Fleshy Tentacle",
+            "name": "Tentáculo carnoso"
+        },
+        {
+            "description": "Iluminación equivalente a la de una vela.",
+            "effects": {},
+            "id": "Glowing Skin",
+            "name": "Piel brillante"
+        },
+        {
+            "description": "Sujeto a Animosidad (ver Psicología) a todos los que no son de tu especie.",
+            "effects": {
+                "label0": "Impulsos odiosos"
+            },
+            "id": "Hateful Impulses",
+            "name": "Impulsos odiosos"
+        },
+        {
+            "description": "-10 a la Voluntad, -10 a la Empatía.",
+            "effects": {
+                "label0": "Corazón hueco"
+            },
+            "id": "Hollow Heart",
+            "name": "Corazón hueco"
+        },
+        {
+            "description": "+10 a la Empatía, nunca te quedan cicatrices.",
+            "effects": {
+                "label0": "Belleza inhumana"
+            },
+            "id": "Inhuman Beauty",
+            "name": "Belleza inhumana"
+        },
+        {
+            "description": "-20 a todos los Chequeos de Empatía",
+            "effects": {
+                "label0": "Rostro Invertido"
+            },
+            "id": "Inverted Face",
+            "name": "Rostro Invertido"
+        },
+        {
+            "description": "+2 puntos de armadura en todas las ubicaciones, -10 a la Agilidad",
+            "effects": {
+                "label0": "Piel de hierro"
+            },
+            "id": "Iron Skin",
+            "name": "Piel de hierro"
+        },
+        {
+            "description": "-10 a la Empatía",
+            "effects": {
+                "label0": "Pensamientos celosos"
+            },
+            "id": "Jealous Thoughts",
+            "name": "Pensamientos celosos"
+        },
+        {
+            "description": "-10 a todos los Chequeos de Hablar idioma cuando hablas",
+            "effects": {
+                "label0": "Lengua protuberante"
+            },
+            "id": "Lolling Tongue",
+            "name": "Lengua protuberante"
+        },
+        {
+            "description": "-10 a cualquier Chequeo estando solo",
+            "effects": {
+                "label0": "Espíritu solitario"
+            },
+            "id": "Lonely Spirit",
+            "name": "Espíritu solitario"
+        },
+        {
+            "description": "-10 a la Inteligencia",
+            "effects": {
+                "label0": "Bloqueos mentales"
+            },
+            "id": "Mental Blocks",
+            "name": "Bloqueos mentales"
+        },
+        {
+            "description": "Tira dos veces en la Talba de Ubicaciones de impacto para ver dónde.",
+            "effects": {},
+            "id": "Patchy Feathers",
+            "name": "Plumaje ralo"
+        },
+        {
+            "description": "-10 a la Voluntad, +10 a la Agilidad",
+            "effects": {},
+            "id": "Profane Urgency",
+            "name": "Urgencia profana"
+        },
+        {
+            "description": "Sufres 1 Estado de Quebrantado si fallas un Chqueo derivado de la Voluntad.",
+            "effects": {
+                "label0": "Moral frágil"
+            },
+            "id": "Shaky Morale",
+            "name": "Moral frágil"
+        },
+        {
+            "description": "-1 al Movimiento",
+            "effects": {
+                "label0": "Piernas cortas"
+            },
+            "id": "Short Legs",
+            "name": "Piernas cortas"
+        },
+        {
+            "description": "-5 a la Iniciativa, -5 a la Inteligencia",
+            "effects": {
+                "label0": "Mente suspicaz"
+            },
+            "id": "Suspicious Mind",
+            "name": "Mente suspicaz"
+        },
+        {
+            "description": "+1 punto de Armadura en todas las ubicaciones",
+            "effects": {
+                "label0": "Escamas puntiagudas"
+            },
+            "id": "Thorny Scales",
+            "name": "Escamas puntiagudas"
+        },
+        {
+            "description": "+10 a la Voluntad, -10 a la Iniciativa.",
+            "effects": {
+                "label0": "Buscador de emociones"
+            },
+            "id": "Thrill Hunter",
+            "name": "Buscador de emociones"
+        },
+        {
+            "description": "-10 a la Iniciativa.",
+            "effects": {
+                "label0": "Visiones torturadas"
+            },
+            "id": "Tortured Visions",
+            "name": "Visiones torturadas"
+        },
+        {
+            "description": "-20 a la Empatía, +10 a la Voluntad",
+            "effects": {
+                "label0": "Totalmente desequilibrado"
+            },
+            "id": "Totally Unhinged",
+            "name": "Totalmente desequilibrado"
+        },
+        {
+            "description": "-10 a cualquier Chequeo para no hacer daño a otro; +10 a los Chequeos para hacer daño",
+            "effects": {
+                "label0": "Malicia inacabable"
+            },
+            "id": "Unending Malice",
+            "name": "Malicia inacabable"
+        },
+        {
+            "description": "+1 punto de Armadura en la cabeza; cuenta como una Arma de criatura con un daño igual a tu BF(ver pág 338)",
+            "effects": {
+                "label0": "Cornes asymétriques"
+            },
+            "id": "Uneven Horns",
+            "name": "Cornes asymétriques"
+        },
+        {
+            "description": "Sujeto a Frenesí (ver Psicología), +10 a la Habilidad de armas",
+            "effects": {
+                "label0": "Furia impía",
+                "label1": "Frenesí"
+            },
+            "id": "Unholy Rage",
+            "name": "Furia impía"
+        },
+        {
+            "description": "Tira en la Tabla de Ubicaciones de impacto para ver dónde supuras.",
+            "effects": {},
+            "id": "Weeping Pus",
+            "name": "Supuración"
+        },
+        {
+            "description": "+10 a Rastrear",
+            "effects": {
+                "label0": "Hocico bigotudo"
+            },
+            "id": "Whiskered Snout",
+            "name": "Hocico bigotudo"
+        },
+        {
+            "description": "+5 a la Agilidad, +5 a la Empatía.",
+            "effects": {
+                "label0": "Temblequeos de preocupación"
+            },
+            "id": "Worried Jitters",
+            "name": "Temblequeos de preocupación"
+        }
+    ]
+  }
